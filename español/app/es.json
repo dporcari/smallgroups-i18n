@@ -2,9 +2,9 @@
   "YES": "Sí",
   "NO": "No",
   "CANCEL": "Cancelar",
-  "SUBMIT": "Envía",
-  "ENABLED": "Activa",
-  "DISABLED": "Desactiva",
+  "SUBMIT": "Envíar",
+  "ENABLED": "Activar",
+  "DISABLED": "Desactivar",
   "AND": "y",
   "OR": "o",
   "AT": "en",
@@ -19,7 +19,7 @@
   "UPDATE": "Actualizar",
   "REMOVE": "Quitar",
   "TOTAL": "Total",
-  "PRINT": "Print",
+  "PRINT": "Imprimir",
 
   "NAME": "Nombre",
   "NAME-PLACEHOLDER": "Nombre Completo",
@@ -180,26 +180,26 @@
     "LEADERS": "Líder(es)",
     "CATEGORY": "Categoría",
     "FOR-AGES": "Por edades",
-    "DATETIME": "Cuándo y a qué hora nos juntamos",
-    "CHILDCARE": "Cuidado de niños?",
+    "DATETIME": "¿Cuándo y a qué hora nos juntamos?",
+    "CHILDCARE": "¿Cuidado de niños?",
     "ADDRESS": "Dirección",
     "MAP-SHOW": "Mostrar Mapa",
     "MAP-HIDE": "Ocultar Mapa",
     "MAP-NONE": "Mapa no disponible.",
     "MAP-GROUP-ONLY": "Disponible solo para miembros del grupo",
     "ROSTER": "Lista de Grupos",
-    "IS-LEADER": "Es líder?",
-    "REMOVE": "Remover",
-    "OWNER": "Dueño del grupo",
+    "IS-LEADER": "¿Eres líder?",
+    "REMOVE": "Eliminar",
+    "OWNER": "Propietario del grupo",
     "PENDING": "Pendiente",
     "APPROVED": "Aprobado",
     "DECLINED": "Rechazado",
-    "DISABLED": "Deshabilitado",
+    "DISABLED": "Inhabilitado",
     "INVITED": "Invitado",
     "PENDING-MEMBER": "Aprobación de Participante Pendiente",
     "APPROVE-MEMBER": "Participante Aprobado",
     "DECLINE-MEMBER": "Participante Declinado",
-    "DISABLE-MEMBER": "Participante Deshabilitado",
+    "DISABLE-MEMBER": "Participante Inhabilitado",
     "RESEND-EMAIL": "Reenviar Invitación por Correo",
     "ROSTER-REMOVE-MEMBER-PROMPT": "Estás intentando eliminar a este usuario de tu grupo",
     "CANCEL-MEMBERSHIP-REQUEST": "Cancelar tu solicitud para unirte este grupo.",
@@ -248,7 +248,7 @@
     "HIDE-EMAIL": "Ocultar mi correo electrónico",
     "SHARE-PHONE-EMPTY": "Actualizar mi teléfono en el perfil",
     "SHARE-PHONE": "Compartir mi teléfono",
-    "HIDE-PHONE": "Esconder mi teléfono"
+    "HIDE-PHONE": "Ocultar mi teléfono"
   },
 
   "MY-ACCOUNT": {
@@ -287,7 +287,7 @@
         "NEW": "Nuevo Grupo",
         "NEW-SUB": "Ser notificado inmediatamente cuando se registra un grupo.",
         "TRANS": "Transferencia de Grupo",
-        "TRANS-SUB": "Sospechamos que querrás saber si un líder de grupo transfiere su grupo a otro líder.",
+        "TRANS-SUB": "Creemos que querrás saber si un líder de grupo transfiere su grupo a otro líder.",
         "LEADER": "Nuevo Líder de Grupo",
         "LEADER-SUB": "Queremos que conozcas a todos los líderes de grupos, así que te notificaremos cuando un nuevo líder sea asignado a un grupo.",
         "UPDATED": "Actualización de Grupo",
@@ -359,7 +359,7 @@
     "CREATE": {
       "TITLE-CREATE": "Registra un Grupo Pequeño",
       "TITLE-UPDATE": "Actualizar Grupo Pequeño",
-      "HOSTING-TITLE": "Lidera tu propio Grupo Pequeño",
+      "HOSTING-TITLE": "Lidera un Grupo Pequeño",
       "HOSTING-DESCRIPT": "Liderar tu propio grupo es fácil. Toma unos minutos para completar este formulario y, una vez aprobado, tu grupo aparecerá en el directorio de grupos pequeños.",
       "HELP": "Necesitas ayuda con el formulario?",
       "LINK-GUIDE": "Ve la guía del líder",
@@ -406,7 +406,7 @@
       "LEADERS": "Líderes de Grupos Pequeños",
       "MEMBERS": "Participantes de Grupos Pequeños",
       "HELP": "Ayuda",
-      "RESOURCES": "Recursos para tu iglesia"
+      "RESOURCES": "Configuración"
     },
     "SEMESTERS": {
       "ALL-ACTIVE": "Todas las temporadas activas",
@@ -421,7 +421,7 @@
       "VIEW-ALL": "Ver todo",
       "TOTAL-LEADERS": "Líderes Aprobados",
       "TOTAL-MEMBERS": "Miembros Aprobados",
-      "TOTAL-GROUPS": "Groups Aprobados",
+      "TOTAL-GROUPS": "Grupos Aprobados",
       "PENDING": "Pendientes",
       "LISTED": "Listado",
       "LISTED-DIR": "Listado en el Directorio",
@@ -434,7 +434,7 @@
       "APPROVE": "Aprobar:",
       "ENCOURAGE": "Envía una palabra de ánimo al líder(es).",
       "DECLINE-GROUP": "Rechazar Grupo",
-      "DECLINE-REASON": "Por favor, déjele saber a el líder por qué su grupo está siendo rechazado.",
+      "DECLINE-REASON": "Por favor, avísale al líder por qué su grupo está siendo rechazado.",
       "VISIBLE": "Visible",
       "SEMESTER": "Temporada",
       "UPDATED-AT": "Actualizado el"
@@ -496,9 +496,9 @@
         "OVERVIEW": {
           "TITLE": "Grupos Pequeños",
           "DESCRIPT": "Obtén información sobre sus grupos con una visión general de métricas de alto nivel; como quién, qué, cuándo y cuántos.",
-          "WHO-TITLE": "Quién asiste a estos grupos?",
-          "AGES-TITLE": "Cuáles son sus edades?",
-          "WHAT-TITLE": "Qué están haciendo?",
+          "WHO-TITLE": "¿Quién asiste a estos grupos?",
+          "AGES-TITLE": "¿Cuáles son sus edades?",
+          "WHAT-TITLE": "¿Qué están haciendo?",
           "WHAT-CHART-X": "Cantidad de Grupos"          
         },
         "PRINT": {
@@ -645,7 +645,7 @@
             "P1": "Los grupos pequeños se archivarán automáticamente y se eliminarán del directorio público y se archivarán a la fecha que elija como la \"Fecha de finalización del temporada\". Le enviaremos un recordatorio para configurar la próxima temporada de grupos pequeños a medida que se acerque el final de la temporada actual ."
           },
           "DELETE": {
-            "TITLE": "¿ debería eliminar los grupos anteriores?",
+            "TITLE": "¿Debería eliminar los grupos anteriores?",
             "P1": "¡No! Te animamos a que nunca elimine sus antiguos grupos, ya que se archivan automáticamente. Puedes usar la información de Temporadas/ Grupos anterior para referirte al crecimiento y ayudar a informar a las áreas de enfoque de grupos pequeños de tu iglesia. Con el tiempo, la eliminación de los grupos impacta tus métricas. "
           }
         },
@@ -713,8 +713,8 @@
           "TITLE": "Edad"
         },
         "CREATE": {
-          "TITLE": "Create a new filter:",
-          "NAME": "Name",
+          "TITLE": "Crear un nuevo filtro:",
+          "NAME": "Nombre",
           "BTN": "Crear"
         },
         "SERVER": {
@@ -738,17 +738,17 @@
         "GROUPS": {
           "TITLE": "Grupos Pequeños",
           "DESCRIPT": "Descarga toda la información de tus grupos pequeños.",
-          "INCLUDES": "Incluir: Nombre de Sede, Temporada, Nombre, Descripción, Quién, Qué, Días, Tiempo, Edades, Dirección Oculta, Dirección Calle1, Dirección Calle1, Dirección Ciudad, Dirección Estado/Provincia/Región, Dirección Código Postal , Estado, Visible en el Directorio, Nombre del Líder Principal, Correo del Líder Principal, Teléfono del Líder Principal, Fecha de Creación."
+          "INCLUDES": "Incluye información del grupo, del líder y de los participantes."
         },
         "LEADERS": {
           "TITLE": "Líderes de grupo",
           "DESCRIPT": "Descargar toda la información actual sobre líderes de grupos.",
-          "INCLUDES": "Incluir: DNI de líder, nombre de líder, correo electrónico de líder, teléfono de líder, información adicional sobre líder en la iglesia."
+          "INCLUDES": "Incluye toda la información ingresada por el líder."
         },
         "MEMBERS": {
           "TITLE": "Participantes del grupo",
           "DESCRIPT": "Descargar toda tu información actual sobre los participantes de grupos.",
-          "INCLUDES": "Incluir: nombre completo, teléfono, correo electrónico, información adicional sobre la persona."
+          "INCLUDES": "Incluye toda la información de los participantes registrados."
         }
       }
     }
@@ -756,21 +756,21 @@
 
   "DIRECTORY": {
     "FILTERS": {
-      "GROUPS-FOUND": "Encontrar Grupo",
+      "GROUPS-FOUND": "Encontrar un Grupo",
       "DAY": "Cualquier Día",
       "WHO": "Quién",
       "WHAT": "Qué",
       "AGE": "Cualquier edad",
-      "CHILDCARE-ANY": "Cuidado de niños",
-      "CHILDCARE-NO": "Sin cuidado de niños",
-      "CHILDCARE-YES": "Con cuidado de niños",
+      "CHILDCARE-ANY": "¿Tiene cuidado de niños?",
+      "CHILDCARE-NO": "No tiene cuidado de niños",
+      "CHILDCARE-YES": "Cuenta con cuidado de niños",
       "ZIP": "Código Postal",
       "ZIP-WITHIN": "Incluir Código Postal"
     },
     "LIST": {
       "INTERESTED": "Estoy interesado",
       "CONTACT": "Contactar a líder",
-      "CONTACT-TITLE": "Contratar a líder",
+      "CONTACT-TITLE": "Contactar a líder",
       "CONTACT-FROM": "De:",
       "CONTACT-NAME-HELP": "Tu nombre es obligatorio",
       "CONTACT-EMAIL-HELP": "Tu correo electrónico es obligatorio",
@@ -782,7 +782,7 @@
       "JOIN-PROMPT": "Qué información quieres compartir con el miembro de {{name}}?",
       "JOIN-PRIVATE-EMAIL": "Privado – Solo el líder del grupo verá tu correo electrónico",
       "JOIN-PRIVATE-PHONE": "Privado – Solo el líder del grupo verá tu número telefónico",
-      "JOIN-BTN": "Únete a un grupo!",
+      "JOIN-BTN": "¡Únete a un grupo!",
       "JOIN-SENT": "Tu pedido de unirte a un grupo ha sido enviado",
       "JOIN-LOGIN-PROMPT": "Es necesario que inicies sesión para unirte a un grupo."     
     },
@@ -802,10 +802,10 @@
   "ADDRESS-FORM": {
     "ADDRESS-LABEL": "Dirección",
     "PLACE-LABEL": "Nombre de lugar",
-    "PLACE-PLACEHOLDER": "Starbucks, O una casa",
+    "PLACE-PLACEHOLDER": "Un café, un parque o una casa",
     "PLACE-REQD": "El nombre del lugar es obligatorio",
-    "ADDR1-LABEL": "Dirección",
-    "ADDR1-PLACEHOLDER": "Nombre de la calle principal o referencia",
+    "ADDR1-LABEL": "Dirección Específica",
+    "ADDR1-PLACEHOLDER": "Nombre de la calle principal",
     "ADDR1-REQD": "La dirección es obligatoria",
     "ADDR2-LABEL": "Dirección 2",
     "OPTIONAL": "(Opcional)",
@@ -828,9 +828,9 @@
     "YOUR-EMAIL": "Tu correo electrónico",
     "YOUR-MESSAGE": "Tu mensaje",
     "SEND-BTN": "Enviar mensaje",
-    "ENGLISH": "Por favor, tomar en cuenta que el mensaje debe ser enviado en inglés. Si no hablas inglés, contactarte con tu iglesia local.",
+    "ENGLISH": "Por favor, tomar en cuenta que el mensaje debe ser enviado en inglés. Si no hablas inglés, contáctate con tu iglesia local.",
     "OTHER-WAYS": "De caso contrario contáctanos",
-    "READY": "Listo para lanzar grupos pequeños en tu iglesia?",
+    "READY": "¿Listo para lanzar grupos pequeños en tu iglesia?",
     "READY-BTN": "Aprende más",
     "SERVER-SUCCESS": "Tu mensaje de contacto ha sido enviado."
   },
@@ -855,13 +855,13 @@
     },
     "FEATURE2": {
       "TITLE": "Empodera a los líderes a que cuiden a los propios participantes de sus grupos",
-      "P1": "Los líderes de grupos pequeños pueden administrar la lista de contactos de su grupo y tomar propiedad de su información de contacto sin depender de una persona del staff.",
+      "P1": "Los líderes de grupos pequeños pueden administrar la lista de contactos de su grupo y tomar propiedad de la información de contacto sin depender de una persona del staff.",
       "QUOTE": "",
       "QUOTER": "",
       "SCREENSHOT": "(Captura de pantalla: los líderes administrando sus propios grupos)"
     },
     "FEATURE3": {
-      "TITLE": "Usar la data de tus grupos pequeños para mantener al ministerio saludable",
+      "TITLE": "Usa la data de tus grupos pequeños para mantener al ministerio saludable",
       "P1": "Reportes fáciles de usar que te ayudarán a medir la participación de las personas a través del tiempo.",
       "QUOTE": "",
       "QUOTER": "",
@@ -897,11 +897,11 @@
       "LOOKING-LINK1": "Encuéntrala aquí",
       "LOOKING-LINK2": "Ponte en contacto"
     },
-    "GET-STARTED-BTN": "Crea tu cuenta gratis ahora!"
+    "GET-STARTED-BTN": "¡Crea tu cuenta gratis ahora!"
   },
 
   "ABOUT-US": {
-    "TITLE": "Vidas son cambiadas en el contexto de relaciones.",
+    "TITLE": "En el contexto de relaciones, vidas son cambiadas.",
     "P1": "Creemos que las relaciones saludables proporcionan el catalizador ideal para el crecimiento espiritual, la sanidad y la plenitud. Como cristianos, estamos llamados a caminar juntos en comunidad.",
     "P2": "En una iglesia de pequeños grupos alguien puede ser auténtico, divertido y acogedor. Pero si las iglesias no dan prioridad a los grupos pequeños, los miembros de la iglesia y los asistentes nunca pueden entrar en relaciones que cambien sus vidas.",
     "P3": "Los grupos pequeños también proporcionan una manera de pastorear y cuidar a los miembros de la iglesia. Cuando los miembros son abiertos y reales entre sí, pueden reunirse en crisis a través de la oración y apoyarse de formas prácticas.",
@@ -925,8 +925,8 @@
     "Q3": {
       "QUEST": "¿Hay alguna trampa?",
       "ANS1": "Nope. Podemos ofrecer servicios premium en el futuro, pero serás incluido en el plan \"Gratis por siempre\". Ninguna característica se quitará y se empaquetará en una oferta superior si han usado el sistema previamente.",
-      "ANS2A": "También hemos considerado la incorporación de anuncios seleccionados cristianos apropiado en el sitio web y / o correos electrónicos. Deberíamos hacerlo, puedes estar seguro de que seremos 100% transparentes, ofreceremos la posibilidad de optar por",
-      "ANS2B": "nunca venderemos ni compartiremos ningún dato personalmente identificable."
+      "ANS2A": "También hemos considerado la incorporación de anuncios cristianos seleccionados que apropiados para el sitio web y / o correos electrónicos. Deberíamos hacerlo, puedes estar seguro de que seremos 100% transparentes, ofreceremos la posibilidad de optar por",
+      "ANS2B": "nunca venderemos ni compartiremos ningún dato de identificación personal."
     },
     "Q4": {
       "QUEST": "¿Puedo crear los grupos o el líder del grupo tiene que hacerlo?",
@@ -952,7 +952,7 @@
       "QUEST": "¿A donde voy desde aqui?",
       "ANS1A": "Primero,",
       "ANS1B": "Crea tu cuenta",
-      "ANS1C": "Si aún no lo ha hecho.",
+      "ANS1C": "Si aún no lo has hecho.",
       "ANS2A": "entonces",
       "ANS2B": "registra tu iglesia,",
       "ANS3A": " y sigue",
@@ -975,7 +975,7 @@
         "INVITATION-ACCEPTED": "Invitación aceptada.",
         "INVITATION-DECLINED": "Invitación rechazada.",
         "SHARED-INFO-UPDATED": "Compartir información actualizada.",
-        "CANCEL-MEMBERSHIP-REQUEST": "Tu solicitud de unirte ha sido cancelado."       
+        "CANCEL-MEMBERSHIP-REQUEST": "Tu solicitud de unirte ha sido cancelada."       
       },
       "PROFILE": {
         "UPDATED": "Tu perfil ha sido actualizado",
