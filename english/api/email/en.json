@@ -50,7 +50,8 @@
     "subject": "{{groupName}}: Contact request"
   },
   "groupMembershipAction": {
-    "subject": "Your group invitation was {{subject}}",
+    "subject-approved": "Your group invitation was approved",
+    "subject-declined": "Your group invitation was declined",
     "approved": "has accepted your small group invitation and you are now a member!",
     "declined": "has declined your request to the following group:"
   },
@@ -77,7 +78,8 @@
     "p1": "{{leaderName}} has transfered the following group to {{newLeaderName}} ({{newLeaderEmail}}):"
   },
   "groupStatusUpdatedEmail": {
-    "subject": "Your group has been {{subject}}",
+    "subject-approved": "Your group has been approved",
+    "subject-declined": "Your group has been declined",
     "steps": "Next steps:",
     "step1": {
       "title": "Pray.",
