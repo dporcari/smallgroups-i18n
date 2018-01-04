@@ -50,8 +50,8 @@
     "subject": "{{groupName}}: Solicitud de contacto"
   },
   "groupMembershipAction": {
-    "subject-approved": "Your group invitation was approved",
-    "subject-declined": "Your group invitation was declined",
+    "subject-approved": "Tu invitación ha sido aprobada",
+    "subject-declined": "Tu invitación ha sido rechazada",
     "approved": "ha aceptado tu invitación y ahora es un participante!",
     "declined": "ha rechazado tu solicitud al grupo:"
   },
@@ -78,8 +78,8 @@
     "p1": "{{leaderName}} ha transferido el grupo a {{newLeaderName}} ({{newLeaderEmail}}):"
   },
   "groupStatusUpdatedEmail": {
-    "subject-approved": "Your group has been approved",
-    "subject-declined": "Your group has been declined",
+    "subject-approved": "Tu grupo ha sido aprobado",
+    "subject-declined": "Tu grupos ha sido rechazado",
     "steps": "Siguientes Pasos:",
     "step1": {
       "title": "Orar.",
