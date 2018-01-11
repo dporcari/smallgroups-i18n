@@ -37,10 +37,11 @@
     "p1b": " has been changed from {{oldEmail}} to {{newEmail}}."
   },
   "groupApprovalRequestEmail": {
-    "p1": "{{fromName}} has submitted the following group for approval. Click below to quickly approve or decline their group."
+    "p1": "{{fromName}} has submitted the following group for approval. Click below to quickly approve or decline their group.",
+    "relaunch": "{{fromName}} is attempting to relaunch the following group for another semester. Click below to quickly approve or decline their group."
   },
   "groupCreatedEmail": {
-    "subject": "{{group.name}}: Created!",
+    "subject": "{{subject}}: Created!",
     "p1": "Your small group has been created and is awaiting approval. Stay tuned for an email from your church."
   },
   "groupJoinRequestEmail": {

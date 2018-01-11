@@ -37,10 +37,11 @@
     "p1b": " ha sido cambiado de {{oldEmail}} a {{newEmail}}."
   },
   "groupApprovalRequestEmail": {
-    "p1": "{{fromName}} ha registrado el siguiente grupo para ser aprobado. Da click debajo para aprobar o rechazar el grupo."
+    "p1": "{{fromName}} ha registrado el siguiente grupo para ser aprobado. Da click debajo para aprobar o rechazar el grupo.",
+    "relaunch": "{{fromName}} está intentando relanzar el siguiente grupo para otro semestre. Da click debajo para aprobar o rechazar el grupo."
   },
   "groupCreatedEmail": {
-    "subject": "{{group.name}}: Creado!",
+    "subject": "{{subject}}: Creado!",
     "p1": "Tu grupo pequeño ha sido creado y está en lista de espera para ser aprobado. Está atento a un correo de tu iglesia."
   },
   "groupJoinRequestEmail": {

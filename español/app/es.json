@@ -224,6 +224,14 @@
     "DELETE-GROUP": "Eliminar Groupo",
     "DELETE-GROUP-BTN": "Realizar Eliminación",
     "DELETE-GROUP-PROMPT": "Estás intentando eliminar este grupo permanentemente de tu iglesia. Esta acción no se puede deshacer.",
+    "RELAUNCH-GROUP": "Relaunch Group",
+    "RELAUNCH-GROUP-BTN": "Perform Relaunch",
+    "RELAUNCH-GROUP-P1": "You're choosing to relaunch this group for a new semester.",
+    "RELAUNCH-GROUP-P2": "Please select the new semester:",
+    "SELECT-SEMESTER": "(Select semester)",
+    "RELAUNCH-GROUP-P3": "Would you like to clear your existing roster or copy it to the new semester?",
+    "RELAUNCH-GROUP-ROSTER-A": "Clear Roster",
+    "RELAUNCH-GROUP-ROSTER-B": "Keep Current Roster",
     "MODIFY": "Modificar Detalles",
     "REASSIGN": "Reasignar Propiedad",
     "TRANSFER-GROUP": "Transferir Grupo",
@@ -975,7 +983,8 @@
         "INVITATION-ACCEPTED": "Invitación aceptada.",
         "INVITATION-DECLINED": "Invitación rechazada.",
         "SHARED-INFO-UPDATED": "Compartir información actualizada.",
-        "CANCEL-MEMBERSHIP-REQUEST": "Tu solicitud de unirte ha sido cancelada."       
+        "CANCEL-MEMBERSHIP-REQUEST": "Tu solicitud de unirte ha sido cancelada.",
+        "RELAUNCH-GROUP": "Your group has been relaunched for the new semester and is awaiting approval." 
       },
       "PROFILE": {
         "UPDATED": "Tu perfil ha sido actualizado",

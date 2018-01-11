@@ -224,6 +224,14 @@
     "DELETE-GROUP": "Delete Group",
     "DELETE-GROUP-BTN": "Perform Delete",
     "DELETE-GROUP-PROMPT": "You're attempting to remove this group permanantly from your church. This action cannot be undone!",
+    "RELAUNCH-GROUP": "Relaunch Group",
+    "RELAUNCH-GROUP-BTN": "Perform Relaunch",
+    "RELAUNCH-GROUP-P1": "You're choosing to relaunch this group for a new semester.",
+    "RELAUNCH-GROUP-P2": "Please select the new semester:",
+    "SELECT-SEMESTER": "(Select semester)",
+    "RELAUNCH-GROUP-P3": "Would you like to clear your existing roster or copy it to the new semester?",
+    "RELAUNCH-GROUP-ROSTER-A": "Clear Roster",
+    "RELAUNCH-GROUP-ROSTER-B": "Keep Current Roster",
     "MODIFY": "Modify Details",
     "REASSIGN": "Reasign Ownership",
     "TRANSFER-GROUP": "Transfer Group",
@@ -976,7 +984,8 @@
         "INVITATION-ACCEPTED": "Invitation accepted.",
         "INVITATION-DECLINED": "Invitation declined.",
         "SHARED-INFO-UPDATED": "Shared information updated.",
-        "CANCEL-MEMBERSHIP-REQUEST": "Your membership request has been cancelled."
+        "CANCEL-MEMBERSHIP-REQUEST": "Your membership request has been cancelled.",
+        "RELAUNCH-GROUP": "Your group has been relaunched for the new semester and is awaiting approval."
       },
       "PROFILE": {
         "UPDATED": "Your profile has been updated.",
