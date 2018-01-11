@@ -392,6 +392,7 @@
       "FORM-WHAT-SELECT": "(enfoque de tu grupo)",
       "FORM-WHAT-REQD": "¿Cuál es el enfoque de tu grupo?",
       "FORM-AGES-LABEL": "Edad",
+      "FORM-CHILDCARE-LABEL": "Is childcare provided?",
       "FORM-VIEWABLE-LABEL": "Dirección visible por",
       "FORM-VIEWABLE-EVERYONE": "Todos",
       "FORM-VIEWABLE-MEMBERS": "Solo los miembros aprobados del grupo",
