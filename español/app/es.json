@@ -451,6 +451,7 @@
     "LEADERS": {
       "TITLE": "Líderes de Grupo",
       "GROUPS": "Grupos",
+      "CREATED": "Creado",
       "SEARCH-LEADER": "Buscar por nombre",
       "SEARCH-EMAIL": "Buscar por correo electrónico",
       "SEARCH-PHONE": "Buscar por teléfono",

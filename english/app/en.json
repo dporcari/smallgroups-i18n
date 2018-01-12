@@ -451,6 +451,7 @@
     "LEADERS": {
       "TITLE": "Group Leaders",
       "GROUPS": "Groups",
+      "CREATED": "Created",
       "SEARCH-LEADER": "search by name",
       "SEARCH-EMAIL": "search by email",
       "SEARCH-PHONE": "search by phone",
