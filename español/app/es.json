@@ -839,6 +839,8 @@
     "YOUR-MESSAGE": "Tu mensaje",
     "SEND-BTN": "Enviar mensaje",
     "ENGLISH": "Por favor, tomar en cuenta que el mensaje debe ser enviado en inglés. Si no hablas inglés, contáctate con tu iglesia local.",
+    "NON-ENGLISH": "Hi {{first_name}}, this is technical support for the Smallgroups.church website. I’m sorry, but we do not currently support non-English requests.",
+    "CONTACT-COORDINATOR": "Please contact your local church small groups coordinator.",
     "OTHER-WAYS": "De caso contrario contáctanos",
     "GET-HELP": "Looking for help?",
     "KNOWLEDGE-BASE": "Search our knowledge base",
