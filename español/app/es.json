@@ -375,6 +375,8 @@
       "FORM-TITLE": "Completa esta formulario para registrar tu grupo:",
       "FORM-TITLE-EDIT": "Completa el siguiente formulario para actualizar este grupo:",
       "FORM-SELECT-ONE": "(Selecciona Uno)",
+      "FORM-CAMPUS-LABEL": "Campus",
+      "FORM-CAMPUS-REQD": "Campus is required",
       "FORM-SEMESTER-LABEL": "Temporada",
       "FORM-SEMESTER-REQD": "Temporada es obligatoria",
       "FORM-NAME-LABEL": "Nombre del Grupo",
@@ -761,6 +763,22 @@
           "INCLUDES": "Incluye toda la información de los participantes registrados."
         }
       }
+    },
+    "CAMPUSES": {
+      "TITLE": "Church Campuses",
+      "BOX1-HEADING": "Campus Explanations",
+      "BOX1-P1": "If your church has multiple campuses, you may create and link them here.",
+      "BOX1-P2": "Linking them will replace the name of your church with a drop-down selection of your campuses in your public directory and in the create group form.",
+      "BOX2-HEADING": "Link Campuses",
+      "BOX2-P1": "Only church campuses with which you are an administrator will be listed in the table below.",
+      "BOX2-NOTE": "(If you wish to link your campus to another campus that you do not have administrative privileges, then you will need to contact an admin at that campus and instruct them to grant you administrative privileges by entering your email address at Church -> Resources -> Church Administrators.)",
+      "BOX2-PERM-DENIED1": "This campus is currently linked with other campuses, and you do not have administrative privileges for all of the campuses.",
+      "BOX2-PERM-DENIED2": "Please speak with your primary campus small groups coordinator to resolve this issue.",
+      "BOX2-ADD-CAMPUS": "You are currently only an administrator of this campus. You will need to either 1) create a new campus (below), or 2) if the campus has already been created, contact an admin at that campus and instruct them to grant you administrative privileges by entering your email address at Church -> Resources -> Church Administrators.",
+      "BOX3-HEADING": "Create a New Campus",
+      "BOX2-BTN": "Update Linked Campuses",
+      "BOX3-P1": "Adding another campus is just like creating your initial church, so click the button to create another (church) campus.",
+      "BOX3-BTN": "Create Campus"
     }
   },
 
@@ -839,8 +857,6 @@
     "YOUR-MESSAGE": "Tu mensaje",
     "SEND-BTN": "Enviar mensaje",
     "ENGLISH": "Por favor, tomar en cuenta que el mensaje debe ser enviado en inglés. Si no hablas inglés, contáctate con tu iglesia local.",
-    "NON-ENGLISH": "Hi {{first_name}}, this is technical support for the Smallgroups.church website. I’m sorry, but we do not currently support non-English requests.",
-    "CONTACT-COORDINATOR": "Please contact your local church small groups coordinator.",
     "OTHER-WAYS": "De caso contrario contáctanos",
     "GET-HELP": "Looking for help?",
     "KNOWLEDGE-BASE": "Search our knowledge base",
@@ -1000,13 +1016,21 @@
         "EMAIL-VERIFY-SENT": "Correo de verificación enviado",
         "EMAIL-VERIFIED": "Tu correo electrónico ha sido verificado.",
         "EMAIL-VERIFY-ERROR": "Ha habido un error verificando tu correo electrónico"
-      },
-      "UPDATE_EMAIL_ADDRESS": {
-        "EXISTS": "Este correo electrónico ya está en uso por otro usuario."
-      },
-      "SET_GROUP_MEMBER_LEADERSHIP": {
-        "LAST": "No puedes eliminarte como líder del grupo al menos que agregues otro líder con un email válido al grupo."
       }
+    },
+    "CHURCH": {
+      "RESOURCES": {
+        "CAMPUSES": {
+          "SUCCESS": "Your church campuses have been linked accordingly.",
+          "ERROR": "There was an error linking your church campuses. If problems persist, please contact tech-support."
+        }
+      }
+    },
+    "UPDATE_EMAIL_ADDRESS": {
+      "EXISTS": "Este correo electrónico ya está en uso por otro usuario."
+    },
+    "SET_GROUP_MEMBER_LEADERSHIP": {
+      "LAST": "No puedes eliminarte como líder del grupo al menos que agregues otro líder con un email válido al grupo."
     }
   }
 }

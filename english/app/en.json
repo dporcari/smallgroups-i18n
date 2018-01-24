@@ -375,6 +375,8 @@
       "FORM-TITLE": "Complete this form to submit your group:",
       "FORM-TITLE-EDIT": "Complete the following form to update this group:",
       "FORM-SELECT-ONE": "(Select One)",
+      "FORM-CAMPUS-LABEL": "Campus",
+      "FORM-CAMPUS-REQD": "Campus is required",
       "FORM-SEMESTER-LABEL": "Semester",
       "FORM-SEMESTER-REQD": "Semester is required",
       "FORM-NAME-LABEL": "Group Name",
@@ -466,6 +468,7 @@
         "REPORTS": "Church Reports",
         "PROFILE": "Church Profile",
         "ADMINS": "Church Administrators",
+        "CAMPUSES": "Church Campuses",        
         "FILTERS": "Group Filters",
         "SEMESTERS": "Group Semesters",
         "EXPORT": "Export Data"
@@ -760,6 +763,29 @@
           "DESCRIPT": "Download all of your current group members information.",
           "INCLUDES": "Includes: Member ID, Manual Addition, Member Name, Member Email address, Member Phone Number, Membership Date, and Groups Attending."
         }
+      },
+      "CAMPUSES": {
+        "TITLE": "Church Campuses",
+        "BOX1-HEADING": "What are Campuses?",
+        "BOX1-P1": "If your church has multiple campuses, you may create and link them on this page.",
+        "BOX1-P2": "Your church name will be replaced with a drop-down selection of your campuses in your public directory and in the \"Create Group\" form.",
+        "BOX2-HEADING": "Link Multiple Campuses",
+        "BOX2-P1": "Select your church's main campus below. Then select your other campuses. Only church campuses of which you are an administrator will be listed in the table.",
+        "BOX2-NOTE": "(If you wish to link your campus to another campus that you do not have administrative privileges, then you will need to contact an admin at that campus and instruct them to grant you administrative privileges by entering your email address at Church -> Resources -> Church Administrators.)",
+        "BOX2-PERM-DENIED1": "This campus is currently linked with other campuses, and you do not have administrative privileges for all of the campuses.",
+        "BOX2-PERM-DENIED2": "Please speak with your main campus small groups coordinator to resolve this issue.",
+        "BOX2-ADD-CAMPUS": {
+          "P1": "You are currently only an administrator of this campus. You will need to either:",
+          "P2": "create a new campus (below), or ",
+          "P3": "if the other campus has already been created, contact an admin at that campus and instruct them to grant you administrative privileges by entering your email address at Church -> Resources -> Church Administrators."
+        },
+        "BOX2-TABLE-HEADING1": "Campus Name",
+        "BOX2-TABLE-HEADING2": "Main Campus",
+        "BOX2-TABLE-HEADING3": "Other Campuses",
+        "BOX3-HEADING": "Create a New Campus",
+        "BOX2-BTN": "Update Linked Campuses",
+        "BOX3-P1": "Adding another campus is just like creating your initial church, so click the button to create an additional (church) campus.",
+        "BOX3-BTN": "Create Campus"
       }
     }
   },
@@ -998,6 +1024,14 @@
         "EMAIL-VERIFY-SENT": "Email verification sent.",
         "EMAIL-VERIFIED": "Your email address has been verified.",
         "EMAIL-VERIFY-ERROR": "There was an error verifying your email address."
+      }
+    },
+    "CHURCH": {
+      "RESOURCES": {
+        "CAMPUSES": {
+          "SUCCESS": "Your church campuses have been linked accordingly.",
+          "ERROR": "There was an error linking your church campuses. If problems persist, please contact tech-support."
+        }
       }
     },
     "UPDATE_EMAIL_ADDRESS": {
