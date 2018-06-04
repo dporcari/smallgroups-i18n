@@ -61,7 +61,7 @@
       "ACCOUNT": {
         "LINK-MAIN": "Mi Cuenta",
         "LINK-PROFILE": "Administrar mi Perfil",
-        "LINK-EMAIL-PREFS": "Preferencias de Email",
+        "LINK-EMAIL-PREFS": "Preferencias",
         "LINK-VERIFY-EMAIL": "Verificar Correo Electrónico",
         "LINK-HOMECHURCH": "Tu Iglesia",
         "LINK-LOGOUT": "Salir",
@@ -284,7 +284,13 @@
       "CURRENT-PASSWD-REQD": "La contraseña actual es obligatoria",
       "NEW-PASSWD": "Nueva Contraseña",
       "NEW-PASSWD-REQD": "La nueva contraseña es obligatoria",
-      "PASSWD-SUBMIT": "Actualizar contraseña"
+      "PASSWD-SUBMIT": "Actualizar contraseña",
+      "DELETE-PROMPT1": "Click the 'Close My Account' button below if you would like to remove your account from the Smallgroups.church system.",
+      "DELETE-PROMPT2": "WARNING: This action will close your account, and cannot be undone.",
+      "DELETE-PROMPT-ADMIN": "As a church administrator, please contact us directory at hello@smallgroups.church in order to close your account.",
+      "DELETE-NOTE": "PLEASE NOTE: Closing your account will completely purge your personally-identifiable account, replacing it will an anonymized user — e.g., 'Account Closed' for your name, and no email or phone number. However, in order to help your church maintain consistent statistical records, a record will still exist that a (now-anonymous) member was part of a church or in a group. If you require us to completely remove any record of your church and group membership, then please contact support with your request before closing your account.",
+      "DELETE-PERFORM": "Close My Account",
+      "DELETE-CONFIRM": "You're attempting to permanantly close your Smallgroups.church account. This action cannot be undone!"
     },
     "EMAIL": {
       "TITLE": "Preferencias de correo electrónico",
@@ -305,6 +311,12 @@
         "TITLE": "Smallgroups.church",
         "UPDATES-MAIN": "Actualizaciones de la web",
         "UPDATES-SUB": "Rara vez enviamos correos electrónicos con respecto al sitio web, pero de vez en cuando le informaremos de nuevas características y cambios."
+      },
+      "ADS": {
+        "TITLE": "Marketing",
+        "UPDATES-MAIN": "Relevant Ads",
+        "UPDATES-SUB1": "In order to support the ALWAYS FREE services we provide to your church here at Smallgroups.church, we may use your information to create marketing campaigns that are relevant to you. If you want to help support us, please keep this option enabled.",
+        "UPDATES-SUB2": "PLEASE NOTE: Your privacy is critically important to us and we will never sell your personal information! Please see our Privacy Policy for more information on how we use your information."
       }
     },
     "EMAIL-VERIFY": {
@@ -468,6 +480,7 @@
         "REPORTS": "Reportes de la iglesia",
         "PROFILE": "Perfil de la iglesia",
         "ADMINS": "Administradores de grupos de la iglesia",
+        "CAMPUSES": "Church Campuses",        
         "FILTERS": "Filtros de Grupos",
         "SEMESTERS": "Temporadas de Grupos",
         "EXPORT": "Exportar Data"
@@ -766,18 +779,25 @@
     },
     "CAMPUSES": {
       "TITLE": "Church Campuses",
-      "BOX1-HEADING": "Campus Explanations",
-      "BOX1-P1": "If your church has multiple campuses, you may create and link them here.",
-      "BOX1-P2": "Linking them will replace the name of your church with a drop-down selection of your campuses in your public directory and in the create group form.",
-      "BOX2-HEADING": "Link Campuses",
-      "BOX2-P1": "Only church campuses with which you are an administrator will be listed in the table below.",
+      "BOX1-HEADING": "What are Campuses?",
+      "BOX1-P1": "If your church has multiple campuses, you may create and link them on this page.",
+      "BOX1-P2": "Your church name will be replaced with a drop-down selection of your campuses in your public directory and in the \"Create Group\" form.",
+      "BOX2-HEADING": "Link Multiple Campuses",
+      "BOX2-P1": "Select your church's main campus below. Then select your other campuses. Only church campuses of which you are an administrator will be listed in the table.",
       "BOX2-NOTE": "(If you wish to link your campus to another campus that you do not have administrative privileges, then you will need to contact an admin at that campus and instruct them to grant you administrative privileges by entering your email address at Church -> Resources -> Church Administrators.)",
       "BOX2-PERM-DENIED1": "This campus is currently linked with other campuses, and you do not have administrative privileges for all of the campuses.",
-      "BOX2-PERM-DENIED2": "Please speak with your primary campus small groups coordinator to resolve this issue.",
-      "BOX2-ADD-CAMPUS": "You are currently only an administrator of this campus. You will need to either 1) create a new campus (below), or 2) if the campus has already been created, contact an admin at that campus and instruct them to grant you administrative privileges by entering your email address at Church -> Resources -> Church Administrators.",
+      "BOX2-PERM-DENIED2": "Please speak with your main campus small groups coordinator to resolve this issue.",
+      "BOX2-ADD-CAMPUS": {
+        "P1": "You are currently only an administrator of this campus. You will need to either:",
+        "P2": "create a new campus (below), or ",
+        "P3": "if the other campus has already been created, contact an admin at that campus and instruct them to grant you administrative privileges by entering your email address at Church -> Resources -> Church Administrators."
+      },
+      "BOX2-TABLE-HEADING1": "Campus Name",
+      "BOX2-TABLE-HEADING2": "Main Campus",
+      "BOX2-TABLE-HEADING3": "Other Campuses",
       "BOX3-HEADING": "Create a New Campus",
       "BOX2-BTN": "Update Linked Campuses",
-      "BOX3-P1": "Adding another campus is just like creating your initial church, so click the button to create another (church) campus.",
+      "BOX3-P1": "Adding another campus is just like creating your initial church, so click the button to create an additional (church) campus.",
       "BOX3-BTN": "Create Campus"
     }
   },
@@ -1015,7 +1035,9 @@
         "PREFS-UPDATED": "Tu correo electrónico de preferencia ha sido actualizado.",
         "EMAIL-VERIFY-SENT": "Correo de verificación enviado",
         "EMAIL-VERIFIED": "Tu correo electrónico ha sido verificado.",
-        "EMAIL-VERIFY-ERROR": "Ha habido un error verificando tu correo electrónico"
+        "EMAIL-VERIFY-ERROR": "Ha habido un error verificando tu correo electrónico",
+        "ACCOUNT-DELETED": "Your personally-identifiable Smallgroups.church information has been purged and your account has been closed.",
+        "ACCOUNT-DELETED-ERROR": "There was an error closing your Smallgroups.church account."
       }
     },
     "CHURCH": {

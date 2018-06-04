@@ -61,7 +61,7 @@
       "ACCOUNT": {
         "LINK-MAIN": "My Account",
         "LINK-PROFILE": "Manage Profile",
-        "LINK-EMAIL-PREFS": "Email Preferences",
+        "LINK-EMAIL-PREFS": "Preferences",
         "LINK-VERIFY-EMAIL": "Verify Email Address",
         "LINK-HOMECHURCH": "Your Church",
         "LINK-LOGOUT": "Logout",
@@ -284,11 +284,17 @@
       "CURRENT-PASSWD-REQD": "Current Password is required",
       "NEW-PASSWD": "New Password",
       "NEW-PASSWD-REQD": "New Password is required",
-      "PASSWD-SUBMIT": "Update Your Password"
+      "PASSWD-SUBMIT": "Update Your Password",
+      "DELETE-PROMPT1": "Click the 'Close My Account' button below if you would like to remove your account from the Smallgroups.church system.",
+      "DELETE-PROMPT2": "WARNING: This action will close your account, and cannot be undone.",
+      "DELETE-PROMPT-ADMIN": "As a church administrator, please contact us directory at hello@smallgroups.church in order to close your account.",
+      "DELETE-NOTE": "PLEASE NOTE: Closing your account will completely purge your personally-identifiable account, replacing it will an anonymized user — e.g., 'Account Closed' for your name, and no email or phone number. However, in order to help your church maintain consistent statistical records, a record will still exist that a (now-anonymous) member was part of a church or in a group. If you require us to completely remove any record of your church and group membership, then please contact support with your request before closing your account.",
+      "DELETE-PERFORM": "Close My Account",
+      "DELETE-CONFIRM": "You're attempting to permanantly close your Smallgroups.church account. This action cannot be undone!"
     },
     "EMAIL": {
-      "TITLE": "Email Preferences",
-      "INFO-TITLE": "Adjust Email Preferences",
+      "TITLE": "Preferences",
+      "INFO-TITLE": "Adjust Preferences",
       "INFO-DESCRIPT": "We do our best to only send email that matters to you.",
       "CHURCH": {
         "TITLE": "Church Administration",
@@ -305,6 +311,12 @@
         "TITLE": "Smallgroups.church",
         "UPDATES-MAIN": "Website Updates",
         "UPDATES-SUB": "We very rarely send email regarding the website, but occaisionally we'll inform you of new features and changes."
+      },
+      "ADS": {
+        "TITLE": "Marketing",
+        "UPDATES-MAIN": "Relevant Ads",
+        "UPDATES-SUB1": "In order to support the ALWAYS FREE services we provide to your church here at Smallgroups.church, we may use your information to create marketing campaigns that are relevant to you. If you want to help support us, please keep this option enabled.",
+        "UPDATES-SUB2": "PLEASE NOTE: Your privacy is critically important to us and we will never sell your personal information! Please see our Privacy Policy for more information on how we use your information."
       }
     },
     "EMAIL-VERIFY": {
@@ -1020,10 +1032,12 @@
         "UPDATED": "Your profile has been updated.",
         "EMAIL-UPDATED": "Your email address has been updated.",
         "PASS-CHANGED": "Your password has been changed.",
-        "PREFS-UPDATED": "Email preference updated.",
+        "PREFS-UPDATED": "Preference updated.",
         "EMAIL-VERIFY-SENT": "Email verification sent.",
         "EMAIL-VERIFIED": "Your email address has been verified.",
-        "EMAIL-VERIFY-ERROR": "There was an error verifying your email address."
+        "EMAIL-VERIFY-ERROR": "There was an error verifying your email address.",
+        "ACCOUNT-DELETED": "Your personally-identifiable Smallgroups.church information has been purged and your account has been closed.",
+        "ACCOUNT-DELETED-ERROR": "There was an error closing your Smallgroups.church account."
       }
     },
     "CHURCH": {
