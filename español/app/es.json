@@ -61,7 +61,7 @@
       "ACCOUNT": {
         "LINK-MAIN": "Mi Cuenta",
         "LINK-PROFILE": "Administrar mi Perfil",
-        "LINK-EMAIL-PREFS": "Preferencias",
+        "LINK-EMAIL-PREFS": "Preferencias de Email",
         "LINK-VERIFY-EMAIL": "Verificar Correo Electrónico",
         "LINK-HOMECHURCH": "Tu Iglesia",
         "LINK-LOGOUT": "Salir",
@@ -206,6 +206,9 @@
     "CANCEL-MEMBERSHIP-REQUEST-PROMPT": "Estás intentando eliminar tu solicitud para unirte a este grupo.",
     "YES-DELETE": "Si, eliminar",
     "NO-CANCEL": "No, cancelar",
+    "LEAVE-MEMBERSHIP-REQUEST": "Leave group",
+    "LEAVE-MEMBERSHIP-REQUEST-PROMPT": "You're attempting to remove yourself as a member of this group.",
+    "YES-LEAVE": "Yes, leave group",
     "WHY": "¿Porqué?",
     "ROSTER-DECLINE-PROMPT": "Por favor, informe a esta persona por qué se está denegando su pertenencia.",
     "ROSTER-STATUS-PAST-TOOLTIP": "Es posible que no pueda modificar el estado de un miembro que participó anteriormente en otro grupo.",
@@ -437,7 +440,10 @@
       "ARCHIVED-LABEL": "Temporada Archivadas",
       "PUBLIC-DATE": "Inicio de la temporada",
       "END-DATE": "Fin de temporada",
-      "ONGOING": "Continuará"
+      "ONGOING": "Continuará",
+      "NO-SEMESTERS-TITLE": "No Active Semesters",
+      "NO-SEMESTERS-P1": "There are currently no active semesters available, so your public directory will appear empty.",
+      "NO-SEMESTERS-BTN": "Update Semesters"
     },
     "DASHBOARD": {
       "TITLE": "Panel",
@@ -480,7 +486,7 @@
         "REPORTS": "Reportes de la iglesia",
         "PROFILE": "Perfil de la iglesia",
         "ADMINS": "Administradores de grupos de la iglesia",
-        "CAMPUSES": "Church Campuses",        
+        "CAMPUSES": "Church Campuses",
         "FILTERS": "Filtros de Grupos",
         "SEMESTERS": "Temporadas de Grupos",
         "EXPORT": "Exportar Data"
@@ -775,30 +781,30 @@
           "DESCRIPT": "Descargar toda tu información actual sobre los participantes de grupos.",
           "INCLUDES": "Incluye toda la información de los participantes registrados."
         }
-      }
-    },
-    "CAMPUSES": {
-      "TITLE": "Church Campuses",
-      "BOX1-HEADING": "What are Campuses?",
-      "BOX1-P1": "If your church has multiple campuses, you may create and link them on this page.",
-      "BOX1-P2": "Your church name will be replaced with a drop-down selection of your campuses in your public directory and in the \"Create Group\" form.",
-      "BOX2-HEADING": "Link Multiple Campuses",
-      "BOX2-P1": "Select your church's main campus below. Then select your other campuses. Only church campuses of which you are an administrator will be listed in the table.",
-      "BOX2-NOTE": "(If you wish to link your campus to another campus that you do not have administrative privileges, then you will need to contact an admin at that campus and instruct them to grant you administrative privileges by entering your email address at Church -> Resources -> Church Administrators.)",
-      "BOX2-PERM-DENIED1": "This campus is currently linked with other campuses, and you do not have administrative privileges for all of the campuses.",
-      "BOX2-PERM-DENIED2": "Please speak with your main campus small groups coordinator to resolve this issue.",
-      "BOX2-ADD-CAMPUS": {
-        "P1": "You are currently only an administrator of this campus. You will need to either:",
-        "P2": "create a new campus (below), or ",
-        "P3": "if the other campus has already been created, contact an admin at that campus and instruct them to grant you administrative privileges by entering your email address at Church -> Resources -> Church Administrators."
       },
-      "BOX2-TABLE-HEADING1": "Campus Name",
-      "BOX2-TABLE-HEADING2": "Main Campus",
-      "BOX2-TABLE-HEADING3": "Other Campuses",
-      "BOX3-HEADING": "Create a New Campus",
-      "BOX2-BTN": "Update Linked Campuses",
-      "BOX3-P1": "Adding another campus is just like creating your initial church, so click the button to create an additional (church) campus.",
-      "BOX3-BTN": "Create Campus"
+      "CAMPUSES": {
+        "TITLE": "Church Campuses",
+        "BOX1-HEADING": "What are Campuses?",
+        "BOX1-P1": "If your church has multiple campuses, you may create and link them on this page.",
+        "BOX1-P2": "Your church name will be replaced with a drop-down selection of your campuses in your public directory and in the \"Create Group\" form.",
+        "BOX2-HEADING": "Link Multiple Campuses",
+        "BOX2-P1": "Select your church's main campus below. Then select your other campuses. Only church campuses of which you are an administrator will be listed in the table.",
+        "BOX2-NOTE": "(If you wish to link your campus to another campus that you do not have administrative privileges, then you will need to contact an admin at that campus and instruct them to grant you administrative privileges by entering your email address at Church -> Resources -> Church Administrators.)",
+        "BOX2-PERM-DENIED1": "This campus is currently linked with other campuses, and you do not have administrative privileges for all of the campuses.",
+        "BOX2-PERM-DENIED2": "Please speak with your main campus small groups coordinator to resolve this issue.",
+        "BOX2-ADD-CAMPUS": {
+          "P1": "You are currently only an administrator of this campus. You will need to either:",
+          "P2": "create a new campus (below), or ",
+          "P3": "if the other campus has already been created, contact an admin at that campus and instruct them to grant you administrative privileges by entering your email address at Church -> Resources -> Church Administrators."
+        },
+        "BOX2-TABLE-HEADING1": "Campus Name",
+        "BOX2-TABLE-HEADING2": "Main Campus",
+        "BOX2-TABLE-HEADING3": "Other Campuses",
+        "BOX3-HEADING": "Create a New Campus",
+        "BOX2-BTN": "Update Linked Campuses",
+        "BOX3-P1": "Adding another campus is just like creating your initial church, so click the button to create an additional (church) campus.",
+        "BOX3-BTN": "Create Campus"
+      }
     }
   },
 
@@ -882,7 +888,12 @@
     "KNOWLEDGE-BASE": "Search our knowledge base",
     "READY": "¿Listo para lanzar grupos pequeños en tu iglesia?",
     "READY-BTN": "Aprende más",
-    "SERVER-SUCCESS": "Tu mensaje de contacto ha sido enviado."
+    "SERVER-SUCCESS": "Tu mensaje de contacto ha sido enviado.",
+    "WHO": "Who are you trying to contact?",
+    "FORM-SELECT-ONE": "(Selecciona Uno)",
+    "MY-LOCAL-CHURCH": "My local church's small groups coordinator",
+    "MY-TECH-SUPPORT": "Support for an issue with the Smallgroups.church website",
+    "FIND-CHURCH": "Please search for your local church in the input box below:"
   },
 
   "HOME": {

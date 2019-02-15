@@ -206,6 +206,9 @@
     "CANCEL-MEMBERSHIP-REQUEST-PROMPT": "You're attempting to delete your request for membership in this group.",
     "YES-DELETE": "Yes, delete",
     "NO-CANCEL": "No, cancel",
+    "LEAVE-MEMBERSHIP-REQUEST": "Leave group",
+    "LEAVE-MEMBERSHIP-REQUEST-PROMPT": "You're attempting to remove yourself as a member of this group.",
+    "YES-LEAVE": "Yes, leave group",
     "WHY": "Why?",
     "ROSTER-DECLINE-PROMPT": "Please let this person know why they are being declined membership.",
     "ROSTER-STATUS-PAST-TOOLTIP": "You may not modify the status of a member in a past group.",
@@ -233,7 +236,7 @@
     "RELAUNCH-GROUP-ROSTER-A": "Clear Roster",
     "RELAUNCH-GROUP-ROSTER-B": "Keep Current Roster",
     "MODIFY": "Modify Details",
-    "REASSIGN": "Reasign Ownership",
+    "REASSIGN": "Reassign Ownership",
     "TRANSFER-GROUP": "Transfer Group",
     "TRANSFER-GROUP-PROMPT": "Transfer group to another leader?",
     "TRANSFER-GROUP-P1A": "You're attempting to transfer the ownership of this group to another leader, however you cannot transfer it until you assign another leader to your group.",
@@ -437,7 +440,10 @@
       "ARCHIVED-LABEL": "Archived Semesters",
       "PUBLIC-DATE": "Public Date",
       "END-DATE": "End Date",
-      "ONGOING": "Ongoing"
+      "ONGOING": "Ongoing",
+      "NO-SEMESTERS-TITLE": "No Active Semesters",
+      "NO-SEMESTERS-P1": "There are currently no active semesters available, so your public directory will appear empty.",
+      "NO-SEMESTERS-BTN": "Update Semesters"
     },
     "DASHBOARD": {
       "TITLE": "Dashboard",
@@ -689,7 +695,7 @@
           }
         },
         "CURRENT": {
-          "TITLE": "Current Semesters",
+          "TITLE": "Semesters",
           "PUBLIC-DATE": "Public Date:",
           "END-DATE": "End Date:",
           "ONGOING": "Ongoing?",
@@ -882,7 +888,12 @@
     "KNOWLEDGE-BASE": "Search our knowledge base",
     "READY": "Ready to launch small groups at your church?",
     "READY-BTN": "Learn More",
-    "SERVER-SUCCESS": "Your contact message has been sent."
+    "SERVER-SUCCESS": "Your contact message has been sent.",
+    "WHO": "Who are you trying to contact?",
+    "FORM-SELECT-ONE": "(Select One)",
+    "MY-LOCAL-CHURCH": "My local church's small groups coordinator",
+    "MY-TECH-SUPPORT": "Support for an issue with the Smallgroups.church website",
+    "FIND-CHURCH": "Please search for your local church in the input box below:"
   },
 
   "HOME": {
