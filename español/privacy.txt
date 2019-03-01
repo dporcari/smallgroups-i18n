@@ -1,97 +1,113 @@
-Políticas de Privacidad
+Your privacy is critically important to us. At 412.church we have a few fundamental principles:
 
-Tu privacidad es muy importante para nosotros. En 1thrasher tenemos algunos principios fundamentales:
+We are thoughtful about the personal information we ask you to provide and the personal information that we collect about you through the operation of our services.
+We store personal information for only as long as we have a reason to keep it.
+We aim to make it as simple as possible for you to control what information on this website is shared publicly, indexed by search engines, and permanently deleted.
+We help protect you from overreaching government demands for your personal information.
+We aim for full transparency on how we gather, use, and share your personal information.
+Below is our Privacy Policy, which incorporates and clarifies these principles. (thanks to automattic.com for their Creative Commons Sharealike license). Please note that this Privacy Policy does not apply to any of our products or services that have a separate privacy policy.
 
-- No pedimos tu información personal al menos que realmente la necesitemos. 
-- No compartimos información personal con nadie excepto para cumplir con alguna ley, desarrollar productos o
-proteger nuestros derechos. 
-- Nosotros apuntamos a hacerlo lo más simple posible para ti: el controlar qué es visible al público, ver motores de búsqueda, mantener
-privacidad y eliminar permanentemente datos. Debajo está nuestra política de privacidad que incorpora estos objetivos (Gracias a
-Automattic.com por su política de Creative Commons Sharealike)
+If you have questions about deleting or correcting your personal data please contact our support team.
 
-Si tienes preguntas sobre eliminar o corregir información personal por favor contactarse con el equipo de apoyo en
- hello@smallgroups.church. 
+412.church, LLC (“412.church”) operates several websites including 412.church, WorkInMinistry.com, and Smallgroups.church. It is 412.church’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
-1thrasher, LLC (“1thrasher”) opera en varios sitios web incluyendo 1thrasher.com y Smallgroups.church. Es política de 1thrasher respetar
- la privacidad en relación a cualquier información que podamos recopilar mientras operamos nuestros sitios web.
+Who We Are and What This Policy Covers
+We are the people behind a variety of products and services designed to help churches. This Privacy Policy applies to information that we collect about you when you use:
 
-Visitantes del Sitio Web 
+Our websites (including 412.church, WorkInMinistry.com, and Smallgroups.church);
+Our mobile applications; and
+Our other products and services that are available on or through our websites; and
+Throughout this Privacy Policy we’ll refer to our website, mobile applications and other products and services collectively as “Services.” Please note that this Privacy Policy does not apply to any of our products or services that have a separate privacy policy. Below we explain how we collect, use, and share information about you, along with the choices that you have with respect to that information.
 
-Como la mayoría de operadores de sitio web, 1thrasher recopila información de identificación no personal del tipo que los navegadores y
- servidores web suelen ofrecer, como el tipo de navegador, preferencia de idioma, sitio de referencia y la fecha y hora de cada solicitud
- de visitante. El propósito de 1thrasher en recopilar información que no es de identificación personal es comprender mejor cómo los
- visitantes de 1thrasher usan su sitio web. De vez en cuando, 1thrasher puede revelar información que no sea de identificación personal en
- conjunto, por ejemplo, mediante la publicación de un informe sobre las tendencias en el uso de su sitio web.
+Information We Collect
+We only collect information about you if we have a reason to do so – for example, to provide our Services, to communicate with you, or to make our Services better. We collect information in three ways: if and when you provide information to us, automatically through operating our Services, and from outside sources. Let’s go over the information that we collect.
 
-1thrasher también recopila información potencialmente de identificación personal, como las direcciones de Protocolo de Internet (IP) de
- los usuarios de Smallgroups.church. 1thrasher solo revela las direcciones IP de los usuarios registradas bajo las mismas circunstancias
- que usa y revela información personal como se describe a continuación, a excepción de las direcciones IP y las direcciones de correo
- electrónico que son visibles a los administradores del sitio web.
+Information You Provide to Us
+It’s probably no surprise that we collect information that you provide to us. The amount and type of information depends on the context and how we use the information. Here are some examples:
 
-Recopilación de información de identificación personal
+Basic Account Information: We ask for basic information from you in order to set up your account. For example, we require individuals who sign up for a Smallgroups.church account to provide a first and last name, an email address, and a password. You may provide us with more information – like your phone number – but we don’t require that information to create a Smallgroups.church account.
+Public Profile Information: If you have an account with us, we collect the information that you provide for your public profile. For example, if you have a Smallgroups.church account, your name is part of that public profile, along with any other information you put into your public profile, such as a photo or an “About Me” description. Your public profile information is just that – public – so please keep that in mind when deciding what information you would like to include.
+Transaction and Billing Information: If you buy something from us, you will provide additional personal and payment information that is required to process the transaction and your payment, such as your credit card information and contact information.
+Communications With Us (Hi There!): You may also provide us information when you communicate with us about a support question.
+Information We Collect Automatically
+We also collect some information automatically:
 
-Ciertos visitantes de los sitios web de 1thrasher optan por interactuar con 1thrasher de maneras que requieren que 1thrasher recopile
- información de identificación personal. La cantidad y el tipo de información que 1thrasher reúne depende de la naturaleza de la
- interacción. Por ejemplo, les pedimos a los visitantes que registran una cuenta en Smallgroups.church que provean de un nombre de usuario
- y un correo electrónico. 
+Log Information: Like most online service providers, we collect information that web browsers, mobile devices, and servers typically make available, such as the browser type, IP address, unique device identifiers, language preference, referring site, the date and time of access, operating system, and mobile network information. We collect log information when you use our Services – for example, when you create or make changes to your website on Smallgroups.church.
+Usage Information: We collect information about your usage of our Services. For example, we collect information about the actions that users perform using our Smallgroups.church services – in other words, who did what, when and to what thing on a site. We also collect information about what happens when you use our Services (e.g., page views, support document searches at help.smallgroups.church, features enabled for your directory or group, interactions with our support and other parts of our Services) along with information about your device (e.g., screen size, name of cellular network, and mobile device manufacturer). We use this information to, for example, provide our Services to you, as well as get insights on how people use our Services, so we can make our Services better.
+Location Information: We may determine the approximate location of your device from your IP address. We collect and use this information to, for example, calculate how many people visit our Services from certain geographic regions. We may also collect information about your precise location via our mobile apps (when, for example, you post a photograph with location information) if you allow us to do so through your mobile device operating system’s permissions.
+Stored Information: We may access information stored on your mobile device via our mobile app. We access this stored information through your device operating system’s permissions. For example, if you give us permission to access the photographs on your mobile device’s camera roll, our Services may access the photos stored on your device when you upload a photograph for use in our Services.
+Interactions within Small Groups: We collect some information about your interactions within small groups while you are logged in to your account with us, such as when you hide a group from the directory or email another member of your group. Likewise, we may track actions performed by small group administrators to further enhance our Services.
+Information from Cookies & Other Technologies: A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Pixel tags (also called web beacons) are small blocks of code placed on websites and emails. 412.church uses cookies and other technologies like pixel tags to help us identify and track visitors, usage, and access preferences for our Services, as well as track and understand email campaign effectiveness and to deliver targeted ads.
+Information We Collect from Other Sources
+We may also get information about you from other sources. For example, if you create or log into your Smallgroups.church account through another service (like Google) or if you connect your website or account to a social media service (like Twitter), we will receive information from that service (such as your username, basic profile information, and friends list) via the authorization procedures used by that service. The information we receive depends on which services you authorize and any options that are available. We may also get information, such as a mailing address, from third party services about individuals who are not yet our users (…but we hope will be!), which we may use, for example, for marketing and advertising purposes like postcards and other mailers or targeted online ads advertising our services.
 
-Aquellos que realicen transacciones con 1thrasher pueden solicitar información adicional, incluida la información personal y financiera
- necesaria para procesar esas transacciones. En cada caso, 1thrasher recopila dicha información solo a medida que sea necesario o
- apropiado para cumplir el propósito de la interacción del visitante con 1thrasher. 1thrasher no revela información de identificación 
- personal que no sea la que se describe a continuación. Y los visitantes siempre pueden negarse a proporcionar información de 
- identificación personal, con la advertencia de que puede evitar que participen en ciertas actividades relacionadas con el sitio web.
+How And Why We Use Information
+Purposes for Using Information
+We use information about you as mentioned above and for the purposes listed below:
 
-Estadísticas agregadas
+To provide our Services – for example, to set up and maintain your account, host your small group directory or small group, communicate with members of your church or small groups, or charge you for any of our paid Services;
+To further develop and improve our Services – for example by adding new features that we think our users will enjoy or will help them to create and manage their websites more efficiently;
+To monitor and analyze trends and better understand how users interact with our Services, which helps us improve our Services and make them easier to use;
+To measure, gauge, and improve the effectiveness of our advertising, and better understand user retention and attrition — for example, we may analyze how many individuals purchased a plan or product after receiving a marketing message or the features used by those who continue to use our Services after a certain length of time;
+To monitor and prevent any problems with our Services, protect the security of our Services, detect and prevent fraudulent transactions and other illegal activities, fight spam, and protect the rights and property of 412.church and others, which may result in us declining a transaction or the use of our Services;
+To communicate with you, for example through an email, about offers and promotions offered by 412.church and others we think will be of interest to you, solicit your feedback, or keep you up to date on 412.church and our products; and
+To personalize your experience using our Services, provide content recommendations, target our marketing messages to groups of our users (for example, those who have a particular plan with us or have been our user for a certain length of time), and serve relevant advertisements.
+Legal Bases for Collecting and Using Information
+A note here for those in the European Union about our legal grounds for processing information about you under EU data protection laws, which is that our use of your information is based on the grounds that: (1) The use is necessary in order to fulfill our commitments to you under our Terms of Service or other agreements with you or is necessary to administer your account — for example, in order to enable access to our website on your device or charge you for a paid plan; or (2) The use is necessary for compliance with a legal obligation; or (3) The use is necessary in order to protect your vital interests or those of another person; or (4) We have a legitimate interest in using your information — for example, to provide and update our Services, to improve our Services so that we can offer you an even better user experience, to safeguard our Services, to communicate with you, to measure, gauge, and improve the effectiveness of our advertising, and better understand user retention and attrition, to monitor and prevent any problems with our Services, and to personalize your experience; or (5) You have given us your consent — for example before we place certain cookies on your device and access and analyze them later on.
 
-1thrasher puede recopilar estadísticas sobre el comportamiento de los visitantes de sus sitios web. Por ejemplo, 1thrasher puede controlar
- los grupos más populares en el sitio Smallgroups.church o utilizar servicios de detección de spam para ayudar a identificar el spam.
- 1thrasher puede mostrar esta información públicamente o proporcionarla a otros. Sin embargo, 1thrasher no puede revelar información de
- identificación personal distinta a la descrita a continuación.
+Sharing Information
+How We Share Information
+We do not sell our users’ private personal information. We share information about you in the limited circumstances spelled out below and with appropriate safeguards on your privacy:
 
-Protección de cierta información de identificación personal
+Your Church and Small Group: We disclose personal information (outlined in the Information You Provide to Us above) about you to your church administrators, as well as to other members of your small groups (as indicated).
+Subsidiaries, Employees, and Independent Contractors: We may disclose information about you to our subsidiaries, our employees, and individuals who are our independent contractors that need to know the information in order to help us provide our Services or to process the information on our behalf. We require our subsidiaries, employees, and independent contractors to follow this Privacy Policy for personal information that we share with them.
+Third Party Vendors: We may share information about you with third party vendors who need to know information about you in order to provide their services to us, or to provide their services to you or your site. This group includes vendors that help us provide our Services to you (like payment providers that process your credit and debit card information, fraud prevention services that allow us to analyze fraudulent payment transactions, postal and email delivery services that help us stay in touch with you, and customer chat and email support services that help us communicate with you), those that assist us with our marketing efforts (e.g. by providing tools for identifying a specific marketing target group or improving our marketing campaigns), those that help us understand and enhance our Services (like analytics providers), and companies that make products available on our websites who may need information about you in order to, for example, provide technical or other support services to you. We require vendors to agree to privacy commitments in order to share information with them.
+Legal Requests: We may disclose information about you in response to a subpoena, court order, or other governmental request.
+To Protect Rights, Property, and Others: We may disclose information about you when we believe in good faith that disclosure is reasonably necessary to protect the property or rights of 412.church, third parties, or the public at large. For example, if we have a good faith belief that there is an imminent danger of death or serious physical injury, we may disclose information related to the emergency without delay.
+Business Transfers: In connection with any merger, sale of company assets, or acquisition of all or a portion of our business by another company, or in the unlikely event that 412.church goes out of business or enters bankruptcy, user information would likely be one of the assets that is transferred or acquired by a third party. If any of these events were to happen, this Privacy Policy would continue to apply to your information and the party receiving your information may continue to use your information, but only consistent with this Privacy Policy.
+With Your Consent: We may share and disclose information with your consent or at your direction. For example, we may share your information with third parties with which you authorize us to do so, such as the social media services that you connect to your site through our Publicize feature.
+Aggregated or De-Identified Information: We may share information that has been aggregated or reasonably de-identified, so that the information could not reasonably be used to identify you. For instance, we may publish aggregate statistics about the use of our Services and we may share a hashed version of your email address to facilitate customized ad campaigns on other platforms.
+Published Support Requests: And if you send us a request (for example, via a support email or one of our feedback mechanisms), we reserve the right to publish that request in order to help us clarify or respond to your request or to help us support other users.
+Information Shared Publicly
+Information that you choose to make public is – you guessed it – disclosed publicly. Please keep this in mind when deciding what you would like to share.
 
-1thrasher divulga información que potencialmente identifica personalmente a las personas a sus empleados, contratistas y organizaciones
- afiliadas que (i) necesitan saber esta información para procesarla en nombre de 1thrasher o para proporcionar servicios disponibles en
- los sitios web de 1thrasher y ( ii) que han acordado no divulgarlo a terceros.
+How Long We Keep Information
+We generally discard information about you when we no longer need the information for the purposes for which we collect and use it — which are described in the section above on How and Why We Use Information — and we are not legally required to continue to keep it.
 
-Algunos de esos empleados, contratistas y organizaciones afiliadas pueden ubicarse fuera de su país de origen; Al usar los sitios web de
- 1thrasher, usted acepta la transferencia de dicha información a ellos. 1thrasher no alquilará ni venderá potencialmente información de
- identificación personal a nadie. Además de sus empleados, contratistas y organizaciones afiliadas, como se describe anteriormente,
- 1thrasher puede divulgar información de identificación personal solo en respuesta a una citación, orden judicial u otra solicitud
- gubernamental, o cuando 1thrasher cree de buena fe que la divulgación es razonablemente necesario para proteger la propiedad o los
- derechos de 1thrasher, terceros o el público en general. Si usted es un usuario registrado de un sitio web 1thrasher y ha proporcionado
- su dirección de correo electrónico, 1thrasher ocasionalmente puede enviarle un correo electrónico para informarle sobre nuevas funciones,
- solicitar su opinión o simplemente mantenerlo actualizado con lo que está sucediendo con 1thrasher y nuestro productos. Si nos envía una
- solicitud (por ejemplo, a través de un correo electrónico de soporte o mediante uno de nuestros mecanismos de comentarios), nos
- reservamos el derecho de publicarlo para ayudarnos a aclarar o responder a su solicitud o para ayudarnos a apoyar a otros usuarios.
- 1thrasher toma todas las medidas razonablemente necesarias para luchar contra el acceso no autorizado, el uso, la alteración o la
- destrucción de información de identificación personal.
+Security
+While no online service is 100% secure, we work very hard to protect information about you against unauthorized access, use, alteration, or destruction, and take reasonable measures to do so, such as defaulting all requests to our Services through a secure sockets layer (SSL) — see the https in the URL in your browser.
 
-Cookies
+Choices
+You have several choices available when it comes to information about you:
 
-Un cookie es una cadena de información que un sitio web almacena en la computadora de un visitante, y que el navegador del visitante
- proporciona al sitio web cada vez que regrese el visitante. 1thrasher usa cookies para ayudar a 1thrasher a identificar y rastrear a los
- visitantes, su uso del sitio web 1thrasher y las preferencias de acceso a su sitio web. Los visitantes de 1thrasher que no desean tener
- cookies colocados en sus computadoras deben configurar sus navegadores para rechazar las cookies antes de usar los sitios web de
- 1thrasher, con el inconveniente que ciertas características de los sitios web de 1thrasher pueden no funcionar correctamente sin la ayuda
- de cookies.
+Limit the Information that You Provide: If you have an account with us, you can choose not to provide the optional account information, profile information, and transaction and billing information. Please keep in mind that if you do not provide this information, certain features of our Services may not be accessible.
+Limit Access to Information On Your Mobile Device: Your mobile device operating system should provide you with the ability to discontinue our ability to collect stored information or location information via our mobile apps. If you do so, you may not be able to use certain features (like adding a location to a photograph, for example).
+Opt-Out of Electronic Communications: You may opt out of receiving promotional messages from us. Just follow the instructions in those messages. If you opt out of promotional messages, we may still send you other messages, like those about your account and legal notices.
+Set Your Browser to Reject Cookies: At this time, 412.church does not respond to “do not track” signals across all of our Services. However, you can usually choose to set your browser to remove or reject browser cookies before using 412.church’s websites, with the drawback that certain features of 412.church’s websites may not function properly without the aid of cookies.
+Close Your Account: While we’d be very sad to see you go, if you no longer want to use our Services, you can close your Smallgroups.church account. Please keep in mind that we may continue to retain your information after closing your account, as described in How Long We Keep Information above — for example, when that information is reasonably needed to comply with (or demonstrate our compliance with) legal obligations such as law enforcement requests, or reasonably needed for our legitimate business interests. In order to help your church maintain consistent statistical records, we will completely purge your personally-identifiable account, replacing it will an anonymized user — e.g., 'Account Closed' for your name, and no email or phone number. For example, a record will still exist that a member was part of a church or in a group, however, that member will no longer be identified as you. If you require us to completely remove any record of your church and group membership, then please contact support with your request before closing your account.
+Your Rights
+If you are located in certain countries, including those that fall under the scope of the European General Data Protection Regulation (AKA the “GDPR”), data protection laws give you rights with respect to your personal data, subject to any exemptions provided by the law, including the rights to:
 
-Transferencias empresariales
+Request access to your personal data;
+Request correction or deletion of your personal data;
+Object to our use and processing of your personal data;
+Request that we limit our use and processing of your personal data; and
+Request portability of your personal data.
+You can usually access, correct, or delete your personal data using your account profile and tools that we offer, but if you aren’t able to do that, or you would like to contact us about one of the other rights, scroll down to How to Reach Us to, well, find out how to reach us. EU individuals also have the right to make a complaint to a government supervisory authority.
 
-Si 1thrasher, o todos sus activos, fueran adquiridos, o en el improbable caso de que 1thrasher quede fuera del negocio o entre en
- bancarrota, la información del usuario sería uno de los activos que es transferido o adquirido por un tercero. Usted reconoce que tales
- transferencias pueden ocurrir, y que cualquier comprador de 1thrasher puede continuar usando su información personal como se establece en
- esta política.
+Controllers and Responsible Companies
+412.church’s Services are worldwide. Generally, the “controller” is the 412.church company that entered into the contract with you under the Terms of Service for the the product or service you use. In addition, 412.church, LLC, our US-based company, is the controller for some of the processing activities across all of our Services worldwide.
 
-Anuncios
-Los anuncios que aparecen en cualquiera de nuestros sitios web pueden ser entregados a los usuarios por los socios publicitarios, que
- pueden establecer cookies. Estas cookies permita que el servidor de publicidad reconocer su computadora cada vez que le envíen un anuncio
- en línea para compilar información sobre usted u otras personas que usan su computadora. Esta información permite a las redes =
- publicitarias, entre otras cosas, entregar anuncios objetivos que creen serán de su mayor interés. Esta política de privacidad cubre el
- uso de cookies por 1thrasher y no cubre el uso de cookies por parte de ningún anunciante.
+412.church, LLC. 3300 12th Street, Northport, Alabama 35476
+How to Reach Us
+If you have a question about this Privacy Policy, or you would like to contact us about any of the rights mentioned in the Your Rights section above, please contact us.
 
-Cambios de la política de privacidad
+Other Things You Should Know (Keep Reading!)
+Transferring Information
+Because 412.church’s Services are offered worldwide, the information about you that we process when you use the Services in the EU may be used, stored, and/or accessed by individuals operating outside the European Economic Area (EEA) who work for us, other members of our group of companies, or third party data processors. This is required for the purposes listed in the How and Why We Use Information section above.
 
-1thrasher puede cambiar su política de privacidad cada cierto tiempo, and in 1thrasher’s sole discretion.
-1thrasher anima a los visitantes a que revisen frecuentemente esta página por cualquier cambio de la política de privacidad.
-Su uso continuo de este sitio después de cualquier cambio en esta Política de Privacidad constituirá su aceptación de dicho cambio.
+Ads and Analytics Services Provided by Others
+Ads appearing on any of our Services may be delivered by advertising networks. Other parties may also provide analytics services via our Services. These ad networks and analytics providers may set tracking technologies (like cookies) to collect information about your use of our Services and across other websites and online services. These technologies allow these third parties to recognize your device to compile information about you or others who use your device. This information allows us and other companies to, among other things, analyze and track usage, determine the popularity of certain content, and deliver advertisements that may be more targeted to your interests. Please note this Privacy Policy only covers the collection of information by 412.church and does not cover the collection of information by any third party advertisers or analytics providers.
+
+Privacy Policy Changes
+Although most changes are likely to be minor, 412.church may change its Privacy Policy from time to time. 412.church encourages visitors to frequently check this page for any changes to its Privacy Policy. If we make changes, we may notify you by sending you a notification through email or your dashboard. Your further use of the Services after a change to our Privacy Policy will be subject to the updated policy. That’s it! Thanks for reading.
