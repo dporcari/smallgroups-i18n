@@ -489,7 +489,8 @@
         "CAMPUSES": "Church Campuses",        
         "FILTERS": "Group Filters",
         "SEMESTERS": "Group Semesters",
-        "EXPORT": "Export Data"
+        "EXPORT": "Export Data",
+        "COMMUNICATION": "Communication Settings"
       },
       "QUICKSTART": {
         "TITLE": "QuickStart Guide",
@@ -518,7 +519,23 @@
         "BOX6-CLICK-HERE": "click here",
         "BOX6-P3": "Once you're ready to launch your small groups, start spreading the word. You're welcome to use one of our graphics below, or feel free to create your own.",
         "COPY-URL": "Copy URL",
-        "DOWNLOAD": "Download"
+        "DOWNLOAD": "Download",
+        "BOX7-HEADING": "Decide on Directory Communication Settings",
+        "BOX7-P1": "You can decide whether to allow potential group members to email group leaders using a form in the public directory. Likewise, you may also decide whether to display the 'Join Group' button.",
+        "BOX7-BTN": "Update Communication Settings"
+      },
+      "COMMUNICATION": {
+        "TITLE": "Public Directory Group Communication Settings",
+        "P1": "We recommend enabling both of these features.",
+        "TOGGLE-CONTACT": {
+          "TITLE": "Allow Group Contact Leader Form",
+          "DESCRIPT": "This button allows anyone browsing the website to use a form to email the group leaders about their group.",
+          "NOTE": "Anyone can send a message through the “Contact Leader” button on the small group directory. Encourage your leaders to use good common sense and be careful with sharing information with people who contact them."
+        },
+        "TOGGLE-JOIN": {
+          "TITLE": "Allow Group Join",
+          "DESCRIPT": "This button allows a user to request to join a group. The user must create an account prior to doing so, and the group leaders will receive a request to join their group (which they may either approve or decline)."
+        }
       },
       "REPORTS": {
         "RETURNING-SOON": "These features will be returning soon! We're sorry for the delay. In the meantime, please contact technical support (hello@smallgroups.church) for additional help.",
@@ -822,7 +839,7 @@
       "ZIP-WITHIN": "within zip code"
     },
     "LIST": {
-      "INTERESTED": "I'm Interested",
+      "INTERESTED": "Join Group",
       "CONTACT": "Contact Leader",
       "CONTACT-TITLE": "Contact Leader",
       "CONTACT-FROM": "From:",
@@ -1056,6 +1073,10 @@
         "CAMPUSES": {
           "SUCCESS": "Your church campuses have been linked accordingly.",
           "ERROR": "There was an error linking your church campuses. If problems persist, please contact tech-support."
+        },
+        "COMMUNICATION": {
+          "SUCCESS": "Your group communication preference has been updated.",
+          "ERROR": "There was an error updating your communication settings. If problems persist, please contact tech-support."
         }
       }
     },

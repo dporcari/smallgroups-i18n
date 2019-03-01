@@ -489,7 +489,8 @@
         "CAMPUSES": "Church Campuses",
         "FILTERS": "Filtros de Grupos",
         "SEMESTERS": "Temporadas de Grupos",
-        "EXPORT": "Exportar Data"
+        "EXPORT": "Exportar Data",
+        "COMMUNICATION": "Communication Settings"
       },
       "QUICKSTART": {
         "TITLE": "Guía Rápida",
@@ -518,7 +519,23 @@
         "BOX6-CLICK-HERE": "click aquí",
         "BOX6-P3": "Una vez que esté listo para lanzar sus grupos pequeños comienza a pasar la voz. Te invitamos a usar uno de nuestros diseños o siéntete libre de crear el tuyo.",
         "COPY-URL": "Copiar URL",
-        "DOWNLOAD": "Descargar"
+        "DOWNLOAD": "Descargar",
+        "BOX7-HEADING": "Decide on Directory Communication Settings",
+        "BOX7-P1": "You can decide whether to allow potential group members to email group leaders using a form in the public directory. Likewise, you may also decide whether to display the 'Join Group' button.",
+        "BOX7-BTN": "Update Communication Settings"
+      },
+      "COMMUNICATION": {
+        "TITLE": "Public Directory Group Communication Settings",
+        "P1": "We recommend enabling both of these features.",
+        "TOGGLE-CONTACT": {
+          "TITLE": "Allow Group Contact Leader Form",
+          "DESCRIPT": "This button allows anyone browsing the website to use a form to email the group leaders about their group.",
+          "NOTE": "Anyone can send a message through the “Contact Leader” button on the small group directory. Encourage your leaders to use good common sense and be careful with sharing information with people who contact them."
+        },
+        "TOGGLE-JOIN": {
+          "TITLE": "Allow Group Join",
+          "DESCRIPT": "This button allows a user to request to join a group. The user must create an account prior to doing so, and the group leaders will receive a request to join their group (which they may either approve or decline)."
+        }
       },
       "REPORTS": {
         "RETURNING-SOON": "¡Estas características volverán pronto! Lamentamos el retraso. Mientras tanto, póngase en contacto con el soporte técnico (hello@smallgroups.church) para obtener ayuda adicional.",
@@ -1056,6 +1073,10 @@
         "CAMPUSES": {
           "SUCCESS": "Your church campuses have been linked accordingly.",
           "ERROR": "There was an error linking your church campuses. If problems persist, please contact tech-support."
+        },
+        "COMMUNICATION": {
+          "SUCCESS": "Your group communication preference has been updated.",
+          "ERROR": "There was an error updating your communication settings. If problems persist, please contact tech-support."
         }
       }
     },
