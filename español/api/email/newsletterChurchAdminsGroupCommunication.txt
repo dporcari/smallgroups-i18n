@@ -1,15 +1,15 @@
-Subject: Security update to Smallgroups.church
+Asunto: Actualización de Seguridad de Smallgroups.church
 
-Dear church administrators:
+Estimados administradores de iglesia:
 
-It has come to our attention that a scammer has attempted to use SmallGroups.church to receive payments in gift cards by contacting small group leaders. Currently, only one church has been targeted. We have already notified all small group leaders of this issue.  
+Ha llamado nuestra atención que un estafador haya intentado utilizar SmallGroups.church para recibir pagos en tarjetas de regalo contactando a los líderes de grupos pequeños. Actualmente, solo una iglesia ha sido atacada. Ya hemos notificado a todos los líderes de grupos pequeños sobre este tema. 
 
-To protect your church members, we have temporarily disabled the "Contact Leader" button on the small groups directory. This will prevent anyone from contacting your small group leaders through SmallGroups.church.
+Para proteger a los miembros de su iglesia, hemos desactivado temporalmente el botón "Contactar Líder" en el directorio de grupos pequeños. Esto evitará que cualquier persona se ponga en contacto con los líderes de su grupo pequeño a través de SmallGroups.church. 
 
-If you would like to re-enable the "Contact Leader" feature, please go to your Church Dashboard, click Resources, then Communication Settings.
+Si desea volver a habilitar la función "Contactar Líder", vaya al Panel de su Iglesia, haga clic en Recursos y luego en Configuración de Comunicación.
 
-Remember that anyone can send a message through the "Contact Leader" button on the small group directory. Encourage your leaders to use good common sense and be careful with sharing information with people who contact them. 
+Recuerde que cualquier persona puede enviar un mensaje a través del botón "Contactar Líder" en el directorio de grupos pequeños. Anime a sus líderes a usar el buen sentido común y tener cuidado al compartir información con las personas que los contactan.
 
-Sincerely,
+Sinceramente,
 Ira Thrasher
-Co-founder, SmallGroups.church
+Co-fundador, SmallGroups.church
