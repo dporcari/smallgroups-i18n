@@ -46,7 +46,7 @@
         "LINK-GROUPS": "Grupos",
         "LINK-LEADERS": "Líderes de Grupos",
         "LINK-MEMBERS": "Miembros de Grupos",
-        "LINK-RESOURCES": "Recursos",
+        "LINK-RESOURCES": "Configuración",
         "LINK-HELP": "Ayuda",
         "LINK-CREATE": "Registra una Iglesia"
       },
@@ -206,16 +206,16 @@
     "CANCEL-MEMBERSHIP-REQUEST-PROMPT": "Estás intentando eliminar tu solicitud para unirte a este grupo.",
     "YES-DELETE": "Si, eliminar",
     "NO-CANCEL": "No, cancelar",
-    "LEAVE-MEMBERSHIP-REQUEST": "Leave group",
-    "LEAVE-MEMBERSHIP-REQUEST-PROMPT": "You're attempting to remove yourself as a member of this group.",
-    "YES-LEAVE": "Yes, leave group",
+    "LEAVE-MEMBERSHIP-REQUEST": "Abandonar el grupo",
+    "LEAVE-MEMBERSHIP-REQUEST-PROMPT": "Estás intentando eliminarte como miembro de este grupo.",
+    "YES-LEAVE": "Si, abandonar el grupo",
     "WHY": "¿Porqué?",
     "ROSTER-DECLINE-PROMPT": "Por favor, informe a esta persona por qué se está denegando su pertenencia.",
     "ROSTER-STATUS-PAST-TOOLTIP": "Es posible que no pueda modificar el estado de un miembro que participó anteriormente en otro grupo.",
     "ADD-NEW-MEMBER": "Agrega un nuevo participante",
     "ADD-MEMBER-PROMPT": "Invita o agrega manualmente un nuevo participante al grupo pequeño.",
     "ADD-MEMBER-EMAIL-PROMPT": "Si incluyes una dirección de correo electrónico, el nuevo miembro recibirá una invitación para unirse a este grupo.",
-    "CO-LEADER": "Asistente?",
+    "CO-LEADER": "¿Asistente?",
     "ADD-MEMBER": "Agregar participante",
     "EMAIL-EXISTS-ERROR": "Esta dirección de correo electrónico ya está registrada en tu lista.",
     "PENDING-APPROVAL": "Aprobación Pendiente",
@@ -288,12 +288,12 @@
       "NEW-PASSWD": "Nueva Contraseña",
       "NEW-PASSWD-REQD": "La nueva contraseña es obligatoria",
       "PASSWD-SUBMIT": "Actualizar contraseña",
-      "DELETE-PROMPT1": "Click the 'Close My Account' button below if you would like to remove your account from the Smallgroups.church system.",
-      "DELETE-PROMPT2": "WARNING: This action will close your account, and cannot be undone.",
-      "DELETE-PROMPT-ADMIN": "As a church administrator, please contact us directory at hello@smallgroups.church in order to close your account.",
-      "DELETE-NOTE": "PLEASE NOTE: Closing your account will completely purge your personally-identifiable account, replacing it will an anonymized user — e.g., 'Account Closed' for your name, and no email or phone number. However, in order to help your church maintain consistent statistical records, a record will still exist that a (now-anonymous) member was part of a church or in a group. If you require us to completely remove any record of your church and group membership, then please contact support with your request before closing your account.",
-      "DELETE-PERFORM": "Close My Account",
-      "DELETE-CONFIRM": "You're attempting to permanantly close your Smallgroups.church account. This action cannot be undone!"
+      "DELETE-PROMPT1": "Haga clic en el botón "Eliminar mi cuenta" si desea eliminar su cuenta del sistema Smallgroups.church.",
+      "DELETE-PROMPT2": "ADVERTENCIA: Esta acción cerrará su cuenta y no podrá deshacerse.",
+      "DELETE-PROMPT-ADMIN": "Como administrador de la iglesia, contáctenos en el directorio en hello@smallgroups.church para cerrar su cuenta.",
+      "DELETE-NOTE": "TENGA EN CUENTA: Cerrar su cuenta eliminará completamente su cuenta personal, reemplazándola con un usuario anónimo, por ejemplo, "Cuenta cerrada" en lugar de su nombre, y no figurará ningún correo electrónico o número de teléfono. Sin embargo, para ayudar a su iglesia a mantener registros estadísticos consistentes, seguirá existiendo un registro de que un miembro (ahora anónimo) era parte de una iglesia o de un grupo. Si requiere que eliminemos por completo cualquier registro de su membresía de la iglesia y del grupo, comuníquese con el servicio de asistencia a través de una solicitud antes de cerrar su cuenta.",
+      "DELETE-PERFORM": "Eliminar mi cuenta",
+      "DELETE-CONFIRM": "Estás intentando cerrar permanentemente tu cuenta de Smallgroups.church. ¡Esta acción no se puede deshacer!"
     },
     "EMAIL": {
       "TITLE": "Preferencias de correo electrónico",
@@ -317,9 +317,9 @@
       },
       "ADS": {
         "TITLE": "Marketing",
-        "UPDATES-MAIN": "Relevant Ads",
-        "UPDATES-SUB1": "In order to support the ALWAYS FREE services we provide to your church here at Smallgroups.church, we may use your information to create marketing campaigns that are relevant to you. If you want to help support us, please keep this option enabled.",
-        "UPDATES-SUB2": "PLEASE NOTE: Your privacy is critically important to us and we will never sell your personal information! Please see our Privacy Policy for more information on how we use your information."
+        "UPDATES-MAIN": "Anuncios Relevantes",
+        "UPDATES-SUB1": "Para sostener de forma GRATUITA los servicios que brindamos a las iglesias, hacemos uso de su información para crear campañas de marketing que sean relevantes para usted. Si desea ayudarnos, mantenga esta opción activada.",
+        "UPDATES-SUB2": "TENGA EN CUENTA: su privacidad es de vital importancia para nosotros y nunca venderemos su información personal. Consulte nuestra Política de privacidad para obtener más información sobre cómo usamos su información."
       }
     },
     "EMAIL-VERIFY": {
@@ -391,7 +391,7 @@
       "FORM-TITLE-EDIT": "Completa el siguiente formulario para actualizar este grupo:",
       "FORM-SELECT-ONE": "(Selecciona Uno)",
       "FORM-CAMPUS-LABEL": "Campus",
-      "FORM-CAMPUS-REQD": "Campus is required",
+      "FORM-CAMPUS-REQD": "Campus es requerido",
       "FORM-SEMESTER-LABEL": "Temporada",
       "FORM-SEMESTER-REQD": "Temporada es obligatoria",
       "FORM-NAME-LABEL": "Nombre del Grupo",
@@ -441,9 +441,9 @@
       "PUBLIC-DATE": "Inicio de la temporada",
       "END-DATE": "Fin de temporada",
       "ONGOING": "Continuará",
-      "NO-SEMESTERS-TITLE": "No Active Semesters",
-      "NO-SEMESTERS-P1": "There are currently no active semesters available, so your public directory will appear empty.",
-      "NO-SEMESTERS-BTN": "Update Semesters"
+      "NO-SEMESTERS-TITLE": "No existen temporadas activas",
+      "NO-SEMESTERS-P1": "Actualmente no hay temporadas activas disponibles, por lo que su directorio público aparecerá vacío.",
+      "NO-SEMESTERS-BTN": "Actualizar Temporadas"
     },
     "DASHBOARD": {
       "TITLE": "Panel",
@@ -490,7 +490,7 @@
         "FILTERS": "Filtros de Grupos",
         "SEMESTERS": "Temporadas de Grupos",
         "EXPORT": "Exportar Data",
-        "COMMUNICATION": "Communication Settings"
+        "COMMUNICATION": "Configuración de comunicación"
       },
       "QUICKSTART": {
         "TITLE": "Guía Rápida",
@@ -520,21 +520,21 @@
         "BOX6-P3": "Una vez que esté listo para lanzar sus grupos pequeños comienza a pasar la voz. Te invitamos a usar uno de nuestros diseños o siéntete libre de crear el tuyo.",
         "COPY-URL": "Copiar URL",
         "DOWNLOAD": "Descargar",
-        "BOX7-HEADING": "Decide on Directory Communication Settings",
-        "BOX7-P1": "You can decide whether to allow potential group members to email group leaders using a form in the public directory. Likewise, you may also decide whether to display the 'Join Group' button.",
-        "BOX7-BTN": "Update Communication Settings"
+        "BOX7-HEADING": "Decidir sobre la configuración de comunicación de directorio",
+        "BOX7-P1": "Puede decidir si permitir que los miembros potenciales del grupo envíen un correo electrónico a los líderes de los grupos utilizando un formulario en el directorio público. Del mismo modo, también puede decidir si desea mostrar el botón 'Unirse al grupo'.",
+        "BOX7-BTN": "Actualizar la configuración de comunicación"
       },
       "COMMUNICATION": {
-        "TITLE": "Public Directory Group Communication Settings",
-        "P1": "We recommend enabling both of these features.",
+        "TITLE": "Configuración de comunicación de grupo de directorio público",
+        "P1": "Recomendamos habilitar ambas características.",
         "TOGGLE-CONTACT": {
-          "TITLE": "Allow Group Contact Leader Form",
-          "DESCRIPT": "This button allows anyone browsing the website to use a form to email the group leaders about their group.",
-          "NOTE": "Anyone can send a message through the “Contact Leader” button on the small group directory. Encourage your leaders to use good common sense and be careful with sharing information with people who contact them."
+          "TITLE": "Permitir formulario de contacto al líder de grupo",
+          "DESCRIPT": "Este botón permite que cualquiera que navegue por el sitio web utilice un formulario para enviar un correo electrónico a los líderes del grupo sobre su grupo.",
+          "NOTE": "Cualquiera puede enviar un mensaje a través del botón "Contactar al líder" en el directorio de grupos pequeños. Anime a sus líderes a usar el sentido común adecuadamente y tenga cuidado al compartir información con las personas que los contactan."
         },
         "TOGGLE-JOIN": {
-          "TITLE": "Allow Group Join",
-          "DESCRIPT": "This button allows a user to request to join a group. The user must create an account prior to doing so, and the group leaders will receive a request to join their group (which they may either approve or decline)."
+          "TITLE": "Permitir unirse al grupo",
+          "DESCRIPT": "Este botón le permite al usuario solicitar unirse a un grupo. El usuario debe crear una cuenta antes de hacerlo, y los líderes del grupo recibirán una solicitud para unirse a su grupo (que pueden aprobar o rechazar)."
         }
       },
       "REPORTS": {
@@ -800,27 +800,27 @@
         }
       },
       "CAMPUSES": {
-        "TITLE": "Church Campuses",
-        "BOX1-HEADING": "What are Campuses?",
-        "BOX1-P1": "If your church has multiple campuses, you may create and link them on this page.",
-        "BOX1-P2": "Your church name will be replaced with a drop-down selection of your campuses in your public directory and in the \"Create Group\" form.",
-        "BOX2-HEADING": "Link Multiple Campuses",
-        "BOX2-P1": "Select your church's main campus below. Then select your other campuses. Only church campuses of which you are an administrator will be listed in the table.",
-        "BOX2-NOTE": "(If you wish to link your campus to another campus that you do not have administrative privileges, then you will need to contact an admin at that campus and instruct them to grant you administrative privileges by entering your email address at Church -> Resources -> Church Administrators.)",
-        "BOX2-PERM-DENIED1": "This campus is currently linked with other campuses, and you do not have administrative privileges for all of the campuses.",
-        "BOX2-PERM-DENIED2": "Please speak with your main campus small groups coordinator to resolve this issue.",
+        "TITLE": "Campus de la iglesia",
+        "BOX1-HEADING": "¿Qué son los campus?",
+        "BOX1-P1": "Si su iglesia tiene varios campus, puede crearlos y vincularlos en esta página.",
+        "BOX1-P2": "El nombre de su iglesia será reemplazado con una selección desplegable de sus campus en su directorio público y en el formulario  \"Crear grupo\". ",
+        "BOX2-HEADING": "Vincular múltiples campus",
+        "BOX2-P1": "Seleccione el campus principal de su iglesia a continuación. Luego selecciona tus otros campus. Solo los campus de la iglesia de los cuales usted es administrador serán listados.",
+        "BOX2-NOTE": "(Si desea vincular su campus con otro campus del que no tiene privilegios administrativos, deberá comunicarse con un administrador en ese campus para que le otorguen privilegios administrativos ingresando su dirección de correo electrónico en Iglesia -> Configuración -> Administradores de la Iglesia.)",
+        "BOX2-PERM-DENIED1": "Este campus actualmente está vinculado con otros campus, y usted no tiene privilegios administrativos para todos los campus.",
+        "BOX2-PERM-DENIED2": "Por favor, hable con su coordinador principal de grupos pequeños para resolver este problema.",
         "BOX2-ADD-CAMPUS": {
-          "P1": "You are currently only an administrator of this campus. You will need to either:",
-          "P2": "create a new campus (below), or ",
-          "P3": "if the other campus has already been created, contact an admin at that campus and instruct them to grant you administrative privileges by entering your email address at Church -> Resources -> Church Administrators."
+          "P1": "Actualmente eres solo un administrador de este campus. Tendrá que:",
+          "P2": "crear un nuevo campus (abajo), o ",
+          "P3": "si ya se ha creado el otro campus, comuníquese con un administrador en ese campus y pídales que le otorguen privilegios administrativos ingresando su dirección de correo electrónico en Iglesia -> Configuración -> Administradores de la Iglesia."
         },
-        "BOX2-TABLE-HEADING1": "Campus Name",
-        "BOX2-TABLE-HEADING2": "Main Campus",
-        "BOX2-TABLE-HEADING3": "Other Campuses",
-        "BOX3-HEADING": "Create a New Campus",
-        "BOX2-BTN": "Update Linked Campuses",
-        "BOX3-P1": "Adding another campus is just like creating your initial church, so click the button to create an additional (church) campus.",
-        "BOX3-BTN": "Create Campus"
+        "BOX2-TABLE-HEADING1": "Nombre del campus",
+        "BOX2-TABLE-HEADING2": "Campus principal",
+        "BOX2-TABLE-HEADING3": "Otros campus",
+        "BOX3-HEADING": "Crear un nuevo campus",
+        "BOX2-BTN": "Actualizar los campus vinculados",
+        "BOX3-P1": "Agregar otro campus es como crear su iglesia, así que haga clic en el botón para crear un campus adicional (iglesia).",
+        "BOX3-BTN": "Crear Campus"
       }
     }
   },
@@ -906,11 +906,11 @@
     "READY": "¿Listo para lanzar grupos pequeños en tu iglesia?",
     "READY-BTN": "Aprende más",
     "SERVER-SUCCESS": "Tu mensaje de contacto ha sido enviado.",
-    "WHO": "Who are you trying to contact?",
+    "WHO": "¿A quién estás tratando de contactar?",
     "FORM-SELECT-ONE": "(Selecciona Uno)",
-    "MY-LOCAL-CHURCH": "My local church's small groups coordinator",
-    "MY-TECH-SUPPORT": "Support for an issue with the Smallgroups.church website",
-    "FIND-CHURCH": "Please search for your local church in the input box below:"
+    "MY-LOCAL-CHURCH": "Coordinador de grupos pequeños de mi iglesia local",
+    "MY-TECH-SUPPORT": "Soporte para un problema con el sitio web Smallgroups.church",
+    "FIND-CHURCH": "Por favor, busque su iglesia local en el siguiente cuadro:"
   },
 
   "HOME": {
@@ -1071,12 +1071,12 @@
     "CHURCH": {
       "RESOURCES": {
         "CAMPUSES": {
-          "SUCCESS": "Your church campuses have been linked accordingly.",
-          "ERROR": "There was an error linking your church campuses. If problems persist, please contact tech-support."
+          "SUCCESS": "Sus campus de la iglesia se han vinculado correctamente.",
+          "ERROR": "Hubo un error al vincular los campus de su iglesia. Si los problemas persisten, póngase en contacto con soporte técnico."
         },
         "COMMUNICATION": {
-          "SUCCESS": "Your group communication preference has been updated.",
-          "ERROR": "There was an error updating your communication settings. If problems persist, please contact tech-support."
+          "SUCCESS": "Su preferencia de comunicación grupal ha sido actualizada.",
+          "ERROR": "Se ha producido un error al actualizar la configuración de comunicación. Si los problemas persisten, póngase en contacto con el soporte técnico."
         }
       }
     },
