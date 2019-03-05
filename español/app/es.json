@@ -288,10 +288,10 @@
       "NEW-PASSWD": "Nueva Contraseña",
       "NEW-PASSWD-REQD": "La nueva contraseña es obligatoria",
       "PASSWD-SUBMIT": "Actualizar contraseña",
-      "DELETE-PROMPT1": "Haga clic en el botón "Eliminar mi cuenta" si desea eliminar su cuenta del sistema Smallgroups.church.",
+      "DELETE-PROMPT1": "Haga clic en el botón \"Eliminar mi cuenta\" si desea eliminar su cuenta del sistema Smallgroups.church.",
       "DELETE-PROMPT2": "ADVERTENCIA: Esta acción cerrará su cuenta y no podrá deshacerse.",
       "DELETE-PROMPT-ADMIN": "Como administrador de la iglesia, contáctenos en el directorio en hello@smallgroups.church para cerrar su cuenta.",
-      "DELETE-NOTE": "TENGA EN CUENTA: Cerrar su cuenta eliminará completamente su cuenta personal, reemplazándola con un usuario anónimo, por ejemplo, "Cuenta cerrada" en lugar de su nombre, y no figurará ningún correo electrónico o número de teléfono. Sin embargo, para ayudar a su iglesia a mantener registros estadísticos consistentes, seguirá existiendo un registro de que un miembro (ahora anónimo) era parte de una iglesia o de un grupo. Si requiere que eliminemos por completo cualquier registro de su membresía de la iglesia y del grupo, comuníquese con el servicio de asistencia a través de una solicitud antes de cerrar su cuenta.",
+      "DELETE-NOTE": "TENGA EN CUENTA: Cerrar su cuenta eliminará completamente su cuenta personal, reemplazándola con un usuario anónimo, por ejemplo, \"Cuenta cerrada\" en lugar de su nombre, y no figurará ningún correo electrónico o número de teléfono. Sin embargo, para ayudar a su iglesia a mantener registros estadísticos consistentes, seguirá existiendo un registro de que un miembro (ahora anónimo) era parte de una iglesia o de un grupo. Si requiere que eliminemos por completo cualquier registro de su membresía de la iglesia y del grupo, comuníquese con el servicio de asistencia a través de una solicitud antes de cerrar su cuenta.",
       "DELETE-PERFORM": "Eliminar mi cuenta",
       "DELETE-CONFIRM": "Estás intentando cerrar permanentemente tu cuenta de Smallgroups.church. ¡Esta acción no se puede deshacer!"
     },
@@ -530,7 +530,7 @@
         "TOGGLE-CONTACT": {
           "TITLE": "Permitir formulario de contacto al líder de grupo",
           "DESCRIPT": "Este botón permite que cualquiera que navegue por el sitio web utilice un formulario para enviar un correo electrónico a los líderes del grupo sobre su grupo.",
-          "NOTE": "Cualquiera puede enviar un mensaje a través del botón "Contactar al líder" en el directorio de grupos pequeños. Anime a sus líderes a usar el sentido común adecuadamente y tenga cuidado al compartir información con las personas que los contactan."
+          "NOTE": "Cualquiera puede enviar un mensaje a través del botón \"Contactar al líder\" en el directorio de grupos pequeños. Anime a sus líderes a usar el sentido común adecuadamente y tenga cuidado al compartir información con las personas que los contactan."
         },
         "TOGGLE-JOIN": {
           "TITLE": "Permitir unirse al grupo",
