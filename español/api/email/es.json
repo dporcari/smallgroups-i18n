@@ -9,6 +9,7 @@
   "what": "Que",
   "church-campus": "Sede de la iglesia",
   "respond-to": "Por favor responder a {{fromName}} en",
+  "no-solicitation": "Smallgroups.church nunca le pedirá su contraseña, ningún tipo de pago o información personal. Cualquier persona puede enviar correos electrónicos a través del sistema, así que tenga cuidado y sentido común cuando se comunique con otros a través del correo electrónico.",  
   "churchAdminAddedNotifyAdminsEmail": {
     "subject": "Administración de {{churchName}}",
     "p1": "Un nuevo administrador ha sido agregado a {{churchName}}.",
@@ -65,7 +66,7 @@
     "p1": "Lo sentimos  {{toName}}, pero {{leaderName}} rechazó tu solicitud de unirte a {{group.name}} en esta temporada:"
   },
   "groupNewLeaderAdminEmail": {
-    "subject": "Ahora eres un líder de grupos pequeños!",
+    "subject": "Grupo actualizado del líder",
     "subject-admin": "Nuevo Líder para {{group.name}}",
     "p1": "{{leaderName}} agregó {{newLeaderName}} ({{newLeaderEmail}}) como líder del grupo:"
   },
@@ -140,5 +141,8 @@
   "sendVerifyMyAddressEmail": {
     "subject": "Email de Verificación de Smallgroups.church",
     "p1": "Para verificar tu email da click debajo."
+  },
+  "churchSupportEmail": {
+    "note": "Este correo electrónico fue enviado a través de https://www.smallgroups.church/contact. Está pensado como una petición para el coordinador de grupos pequeños."
   }
 }
