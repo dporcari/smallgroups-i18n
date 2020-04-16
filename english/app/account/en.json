@@ -1,0 +1,87 @@
+{
+  "TITLE": "My Account",
+  "PROFILE": {
+    "TITLE": "Profile",
+    "INFO-TITLE": "Manage Profile",
+    "INFO-DESCRIPT": "Use the forms to the right to update your account profile.",
+    "MY-PROFILE": "My Profile",
+    "MY-PROFILE-DESCRIPT": "When you join a small group, these fields will also be shared with confirmed members of the group.",
+    "FIRST-NAME": "First Name",
+    "FIRST-NAME-REQD": "First Name is required",
+    "LAST-NAME": "Last Name",
+    "LAST-NAME-REQD": "Last Name is required",
+    "PHONE": "Phone Number",
+    "PHONE-PLACEHOLDER": "Optional Phone Number",
+    "PHONE-HELP": "(Updating your phone number will automatically update it for all of your groups where you've opted to share it.)",
+    "UPDATE-EMAIL-ADDRESS": "Update Email Address",
+    "EMAIL": "Email Address",
+    "EMAIL-HELP": "(Updating your email address will automatically update it for all of your groups where you've opted to share it.)",
+    "EMAIL-REQD": "Email Address is required",
+    "EMAIL-SUBMIT": "Update Email Address",
+    "CHANGE-PASSWD": "Change Password",
+    "CURRENT-PASSWD": "Current Password",
+    "CURRENT-PASSWD-REQD": "Current Password is required",
+    "NEW-PASSWD": "New Password",
+    "NEW-PASSWD-REQD": "New Password is required",
+    "PASSWD-SUBMIT": "Update Your Password",
+    "DANGER-ZONE": "Danger Zone",
+    "DELETE-PROMPT1": "Click the 'Close My Account' button below if you would like to remove your account from the Smallgroups.church system.",
+    "DELETE-PROMPT2": "WARNING: This action will close your account, and cannot be undone.",
+    "DELETE-PROMPT-ADMIN": "As a church administrator, please contact us directory at hello@smallgroups.church in order to close your account.",
+    "DELETE-NOTE": "PLEASE NOTE: Closing your account will completely purge your personally-identifiable account, replacing it will an anonymized user — e.g., 'Account Closed' for your name, and no email or phone number. However, in order to help your church maintain consistent statistical records, a record will still exist that a (now-anonymous) member was part of a church or in a group. If you require us to completely remove any record of your church and group membership, then please contact support with your request before closing your account.",
+    "DELETE-PERFORM": "Close My Account",
+    "DELETE-CONFIRM": "You're attempting to permanantly close your Smallgroups.church account. This action cannot be undone!",
+    "DELETE-PIC-PROMPT": "Are you sure you want to remove your profile picture?",
+    "EDIT-PIC-PROMPT": "Edit Profile Picture",
+    "EDIT-PIC-BTN": "Save Profile Picture"
+  },
+  "EMAIL": {
+    "TITLE": "Preferences",
+    "INFO-TITLE": "Adjust Preferences",
+    "INFO-DESCRIPT": "We do our best to only send email that matters to you.",
+    "CHURCH": {
+      "TITLE": "Church Administration",
+      "NEW": "New Group",
+      "NEW-SUB": "Get notified immediately when a new group is submitted for approval.",
+      "TRANS": "Group Transferred",
+      "TRANS-SUB": "We suspect you'll want to know if a group leader transfers their group to another leader.",
+      "LEADER": "New Group Leader",
+      "LEADER-SUB": "We want you to know all of your group leaders, so we'll notify you when a new leader is assigned to a group.",
+      "UPDATED": "Group Updated",
+      "UPDATED-SUB": "Whether it's correcting a misspelled word or a complete overhaul of the group's description and audience, we'll keep you informed."
+    },
+    "SITE": {
+      "TITLE": "Smallgroups.church",
+      "UPDATES-MAIN": "Website Updates",
+      "UPDATES-SUB": "We very rarely send email regarding the website, but occaisionally we'll inform you of new features and changes."
+    },
+    "ADS": {
+      "TITLE": "Marketing",
+      "UPDATES-MAIN": "Relevant Ads",
+      "UPDATES-SUB1": "In order to support the ALWAYS FREE services we provide to your church here at Smallgroups.church, we may use your information to create marketing campaigns that are relevant to you. If you want to help support us, please keep this option enabled.",
+      "UPDATES-SUB2": "PLEASE NOTE: Your privacy is critically important to us and we will never sell your personal information! Please see our Privacy Policy for more information on how we use your information."
+    }
+  },
+  "EMAIL-VERIFY": {
+    "TITLE": "Verify Email Address",
+    "VALIDATING-TOKEN": "Validating email address...",
+    "INVALID-TOKEN": "This link is invalid or has expired. Click the button below to request another verification email to be sent."
+  },
+  "CHURCH": {
+    "SET-TITLE": "Set Your Home Church",
+    "SET-PROMPT": "Church members, please type the name of your church in the box below:",
+    "SET-LABEL": "Church Name:",
+    "SET-PLACEHOLDER": "Enter your church's name",
+    "SET-BTN-SELECT": "Select as my church",
+    "SET-NOT-FOUND": "Sorry, no churches by that name were found.",
+    "MEMBERSHIPS-TITLE": "Your Church:",
+    "REMOVE-MEMBERSHIP": "You're attempting to remove your membership from this church.",
+    "REMOVE-YES": "Yes, remove",
+    "REMOVE-NO": "No, cancel",
+    "REMOVE-CHURCH-SERVER-ERROR": "There was an error removing your church. Please make sure you connected to the internet and try again.",
+    "REMOVE-CHURCH-SERVER-SUCCESS": "Your home church has been removed.",
+    "PASTOR-TITLE": "Are you the pastor?",
+    "PASTOR-PROMPT1": "If you are the pastor or small groups coordinator for your church,",
+    "PASTOR-PROMPT2": "and your church is not found in the list to the left, please click below to create your church."
+  }
+}

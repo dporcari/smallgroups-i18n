@@ -1,0 +1,38 @@
+{
+  "ASSIGN-CHURCH": {
+    "TITLE": "Asignar tu iglesia local",
+    "P1": "Oops, necesitamos saber a qué iglesia llamas casa.",
+    "BTN": "Buscar Mi Iglesia."
+  },
+  "DASHBOARD": {
+    "TITLE": "Panel",
+    "MY-GROUPS": {
+      "TITLE": "Mis Grupos",
+      "DESCRIPT": "Ve todos los grupos que lideras y / o en los que participas.",
+      "PENDING-ONE": "Tienes una invitación de grupo pendiente esperando tu aprobación.",
+      "PENDING-MULTIPLE": "Tiene invitaciones de grupo pendientes esperando tu aprobación.",
+      "BTN-VIEW": "Ver mis grupos"
+    },
+    "DIRECTORY": {
+      "TITLE": "Directorio de Grupos",
+      "DESCRIPT": "Filtra y ve los grupos actuales listados por {{name}}.",
+      "BTN-VIEW": "Encuentra un Grupo"
+    },
+    "CREATE": {
+      "TITLE": "Registra un Grupo",
+      "DESCRIPT": "Listo para liderar un grupo? Solo completa este sencillo formulario",
+      "BTN-VIEW": "Registra un Grupo"
+    },
+    "PENDING": {
+      "TITLE": "Tienes invitaciones de grupo pendientes.",
+      "P1": "Para verlas, deberás confirmar tu dirección de correo electrónico.",
+      "BTN": "Enviar email de verificación"
+    }
+  },
+  "LIST": {
+    "TITLE": "Mis Grupos",
+    "TAB-CURRENT": "Grupos Actuales",
+    "TAB-PAST": "Grupos Antiguos",
+    "NO-GROUPS-FOUND": "¡Vaya, parece que no eres miembro de ningún grupo! Arreglémoslo seleccionando una de las siguientes opciones:"
+  }
+}

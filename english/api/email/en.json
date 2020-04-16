@@ -5,10 +5,12 @@
   "no-action": "No action is necessary.",
   "approve": "Approve",
   "decline": "Decline",
+  "groups-dashboard": "Groups Dashboard",
   "who": "Who",
   "what": "What",
   "church-campus": "Church Campus",
   "respond-to": "Please respond to {{fromName}} at",
+  "no-solicitation": "Smallgroups.church will never ask for your password, payments of any type, or personal information. Anyone can send emails through the system, so please use caution and common sense when communicating with others through email.",
   "churchAdminAddedNotifyAdminsEmail": {
     "subject": "{{churchName}} Administration",
     "p1": "A new administrator has been added to {{churchName}}.",
@@ -65,7 +67,7 @@
     "p1": "I'm sorry {{toName}}, but {{leaderName}} has declined your request to join {{group.name}} for the following reason:"
   },
   "groupNewLeaderAdminEmail": {
-    "subject": "You are now a small group leader!",
+    "subject": "Leader updated group",
     "subject-admin": "New Leader for {{group.name}}",
     "p1": "{{leaderName}} added {{newLeaderName}} ({{newLeaderEmail}}) as a leader to the following group:"
   },
@@ -140,5 +142,8 @@
   "sendVerifyMyAddressEmail": {
     "subject": "Smallgroups.church email verification",
     "p1": "To verify your email address, simply click the link below."
+  },
+  "churchSupportEmail": {
+    "note": "This email was sent through https://www.smallgroups.church/contact. It is intended as a request for the small groups coordinator."
   }
 }

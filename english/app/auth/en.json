@@ -1,0 +1,71 @@
+{
+  "LOGIN": {
+    "TITLE": "Log in to Smallgroups",
+    "PASSWD": "Password",
+    "FORGOT-PASSWD": "Forgot Password?",
+    "SIGN-IN-BTN": "Sign In",
+    "NEED-ACCOUNT": "Don't have a Smallgroups account yet?",
+    "CREATE-ACCOUNT": "Create your account now",
+    "ERROR": "There was an error logging in. Please make sure your email address and password are correct, and that you are connected to the internet."
+  },
+  "CREATE": {
+    "TITLE": "Create a New Account",
+    "REGISTER-BTN": "Register",
+    "TOS-AGREE": "By signing up, you agree to our",
+    "TOS": "terms of services",
+    "PRIVACY": "privacy policy",
+    "ALREADY-REGISTERED": "Already have an account?",
+    "FIRST-NAME": "First Name",
+    "LAST-NAME": "Last Name",
+    "PHONE": "Phone Number",
+    "PHONE-PLACEHOLDER": "Optional Phone Number",
+    "EXISTS-ERROR": "An account with this email address already exists. Please sign in instead.",
+    "CREATE-ERROR": "There was an error creating your account. Please make sure you've completed the form, and that you are connected to the internet."
+  },
+  "CREATE-LEADER": {
+    "TITLE": "You’ve been invited to be a small group leader!",
+    "PROMPT": "Your church wants you to have the awesome experience of building relationships with others. To make small groups easy, your church is using Smallgroups.church.",
+    "STEP1-TITLE": "Create an Account",
+    "STEP1-MSG": "Sign up for a free Smallgroups.church account using the form on this page.",
+    "STEP2-TITLE": "Create Group",
+    "STEP2-MSG": "Include the who, what, when, where, and why. Your group will be approved by your church and will appear in the directory on Smallgroups.church.",
+    "STEP3-TITLE": "Invite Friends",
+    "STEP3-MSG": "Just tell them to go to Smallgroups.church and join from the directory. Spread the word through email, social media, or a good old-fashioned conversation."
+  },
+  "CREATE-ADMIN": {
+    "TITLE": "You’ve been invited to be an administrator for your church at Smallgroups.church!",
+    "PROMPT": "Administrators have special privileges to manage small groups. Get started now:",
+    "STEP1-TITLE": "Create an Account",
+    "STEP1-MSG": "Sign up for a free Smallgroups.church account using the form on this page.",
+    "STEP2-TITLE": "My Church",
+    "STEP2-MSG": "The \"Church\" dashboard is where you can invite small group leaders, approve and manage groups, and view church metrics.",
+    "STEP3-TITLE": "My Groups",
+    "STEP3-MSG": "The \"Groups\" dashboard lets you create and manage the small groups you lead. Participants can view the group's details and roster."
+  },
+  "FORGOT": {
+    "TITLE": "Forgot Password",
+    "EMAIL-LINK-BTN": "Email Reset Link",
+    "RESET-EMAIL-SENT": "A password reset email has been sent.",
+    "RESET-EMAIL-ERROR": "There was an error resetting your password. Please make sure the email address you've entered is correct, and that your password is between 7 and 100 characters."
+  },
+  "LOGGED-OUT": {
+    "TITLE": "You are Logged Out",
+    "MESSAGE": "You've been logged out of Smallgroups.church."
+  },
+  "LOGGED-IN": {
+    "TITLE": "Logged In",
+    "MESSAGE": "Hi {{name}}, you're already logged in.",
+    "LOGOUT-BTN": "Log Out",
+    "LOGGING-IN": "Logging in..."
+  },
+  "RESET": {
+    "TITLE": "Reset Your Password",
+    "PROMPT": "Enter a new password.",
+    "SUBMIT-BTN": "Set Password",
+    "VALIDATING-TOKEN": "Validating reset link...",
+    "INVALID-TOKEN": "This link is invalid or has expired. Click the button below to request another password reset link.",
+    "REQUEST-RESET-TOKEN": "Reset Password",
+    "UPDATED-PROMPT": "Your password has been updated. Please click the button below to sign in."
+  },
+  "PASSWORD-ERROR": "Your password must be greater than 7 characters and less than 100 characters."
+}

@@ -1,0 +1,71 @@
+{
+  "LOGIN": {
+    "TITLE": "Regístrate en Smallgroups",
+    "PASSWD": "Contraseña",
+    "FORGOT-PASSWD": "¿Olvidaste tu contraseña?",
+    "SIGN-IN-BTN": "Regístrate",
+    "NEED-ACCOUNT": "¿Aún no tienes una cuenta en Smallgroups?",
+    "CREATE-ACCOUNT": "Crea tu cuenta ahora",
+    "ERROR": "Hubo un error al ingresar. Asegúrate que tu correo y contraseña sean las correctas, y que tengas conexión de internet."
+  },
+  "CREATE": {
+    "TITLE": "Crea una cuenta nueva",
+    "REGISTER-BTN": "Registro",
+    "TOS-AGREE": "Al registrarte aceptas nuestros",
+    "TOS": "Términos y condiciones",
+    "PRIVACY": "Políticas de privacidad",
+    "ALREADY-REGISTERED": "¿Ya tienes una cuenta?",
+    "FIRST-NAME": "Nombres",
+    "LAST-NAME": "Apellidos",
+    "PHONE": "Celular",
+    "PHONE-PLACEHOLDER": "Número de teléfono opcional",
+    "EXISTS-ERROR": "Ya existe una cuenta con este correo electrónico. Inicie sesión.",
+    "CREATE-ERROR": "Hubo un error al crear tu cuenta. Asegúrese de completar el formulario y de que esté conectado a Internet."
+  },
+  "CREATE-LEADER": {
+    "TITLE": "¡Has sido invitado a ser un líder de grupo pequeño!",
+    "PROMPT": "Tu iglesia quiere que tengas una experiencia increíble en construir relaciones con otros. Para hacer que los grupos pequeños sean fáciles, tu iglesia está usando Smallgroups.church.",
+    "STEP1-TITLE": "Crea una Cuenta",
+    "STEP1-MSG": "Regístrate gratis en Smallgroups.church usando el formulario de esta página.",
+    "STEP2-TITLE": "Registra un Grupo",
+    "STEP2-MSG": "Incluye que, para quien, cuando, a que hora, donde y porque. Tu grupo será aprobado tu iglesia y aparecerá en el directorio de Smallgroups.church.",
+    "STEP3-TITLE": "Invita amigos",
+    "STEP3-MSG": "Diles que ingresen a Smallgroups.church y se unan a un grupo desde el directorio. Pasa la voz por mail, redes sociales o contándole a alguien más."
+  },
+  "CREATE-ADMIN": {
+    "TITLE": "¡Has sido invitado a ser administrador de tu iglesia en Smallgroups.church!",
+    "PROMPT": "Los administradores tienen privilegios especiales para administrar grupos pequeños. Empieza ahora:",
+    "STEP1-TITLE": "Crea una cuenta",
+    "STEP1-MSG": "Regístrate gratis en Smallgroups.church usando el formulario de esta página.",
+    "STEP2-TITLE": "Mi Iglesia",
+    "STEP2-MSG": "El panel de \"Iglesia\"  es donde puedes invitar líderes de grupos pequeños, aprobar y administrar grupos, ver las estadísticas de tu iglesia.",
+    "STEP3-TITLE": "Mis Grupos",
+    "STEP3-MSG": "El panel de \"Grupos\" te permite crear y administrar los grupos pequeños que lideres. Los participantes pueden ver los detalles e información del grupo."
+  },
+  "FORGOT": {
+    "TITLE": "Olvidé la contraseña",
+    "EMAIL-LINK-BTN": "Email para link de restablecimiento",
+    "RESET-EMAIL-SENT": "Se ha enviado un correo electrónico de restablecimiento de contraseña.",
+    "RESET-EMAIL-ERROR": "Se produjo un error al restablecer la contraseña. Asegúrese de que la dirección de correo electrónico que ingresó es correcta y que tu contraseña tiene entre 7 y 100 caracteres."
+  },
+  "LOGGED-OUT": {
+    "TITLE": "Has cerrado sesión",
+    "MESSAGE": "Has salido de Smallgroups.church."
+  },
+  "LOGGED-IN": {
+    "TITLE": "Conectado",
+    "MESSAGE": "Hola {{name}}, ya estás conectado.",
+    "LOGOUT-BTN": "Cerrar Sesión",
+    "LOGGING-IN": "Iniciar Sesión..."
+  },
+  "RESET": {
+    "TITLE": "Restablecer Contraseña",
+    "PROMPT": "Ingresar nueva contraseña.",
+    "SUBMIT-BTN": "Configurar Contraseña",
+    "VALIDATING-TOKEN": "Validando link de restablecimiento...",
+    "INVALID-TOKEN": "Este enlace no es válido o ha caducado. Haga clic en el botón de abajo para solicitar otro enlace de restablecimiento de contraseña.",
+    "REQUEST-RESET-TOKEN": "Restablecer Contraseña",
+    "UPDATED-PROMPT": "Se ha actualizado tu contraseña. Haga clic en el botón de abajo para iniciar sesión."
+  },
+  "PASSWORD-ERROR": "Tu contraseña debe tener más de 7 caracteres y menos de 100 caracteres."
+}

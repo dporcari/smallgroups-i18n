@@ -1,0 +1,85 @@
+{
+  "TITLE": "Mi Cuenta",
+  "PROFILE": {
+    "TITLE": "Perfil",
+    "INFO-TITLE": "Administrar Perfil",
+    "INFO-DESCRIPT": "Usar el formulario de la derecha para actualizar tu perfil.",
+    "MY-PROFILE": "Mi Perfil",
+    "MY-PROFILE-DESCRIPT": "Al unirse a un grupo pequeño, estos campos también se compartirán con los miembros confirmados del grupo.",
+    "FIRST-NAME": "Nombres",
+    "FIRST-NAME-REQD": "Los nombres son obligatorios",
+    "LAST-NAME": "Apellidos",
+    "LAST-NAME-REQD": "Los apellidos son obligatorios",
+    "PHONE": "Celular",
+    "PHONE-PLACEHOLDER": "Número de teléfono opcional",
+    "PHONE-HELP": "(Al actualizar tu número de teléfono se actualizará automáticamente para todos los grupos en los que hayas optado por compartirlo.)",
+    "UPDATE-EMAIL-ADDRESS": "Actualizar Correo Electrónico",
+    "EMAIL": "Correo Electrónico",
+    "EMAIL-HELP": "(Al actualizar tu dirección de correo electrónico se actualizará automáticamente para todos los grupos en los que has optado por compartirlo.)",
+    "EMAIL-REQD": "Correo Electrónico Requerido",
+    "EMAIL-SUBMIT": "Actualizar Correo Electrónico",
+    "CHANGE-PASSWD": "Cambiar Contraseña",
+    "CURRENT-PASSWD": "Contraseña Actual",
+    "CURRENT-PASSWD-REQD": "La contraseña actual es obligatoria",
+    "NEW-PASSWD": "Nueva Contraseña",
+    "NEW-PASSWD-REQD": "La nueva contraseña es obligatoria",
+    "PASSWD-SUBMIT": "Actualizar contraseña",
+    "DANGER-ZONE": "Zona peligrosa",
+    "DELETE-PROMPT1": "Haga clic en el botón \"Eliminar mi cuenta\" si desea eliminar su cuenta del sistema Smallgroups.church.",
+    "DELETE-PROMPT2": "ADVERTENCIA: Esta acción cerrará su cuenta y no podrá deshacerse.",
+    "DELETE-PROMPT-ADMIN": "Como administrador de la iglesia, contáctenos en el directorio en hello@smallgroups.church para cerrar su cuenta.",
+    "DELETE-NOTE": "TENGA EN CUENTA: Cerrar su cuenta eliminará completamente su cuenta personal, reemplazándola con un usuario anónimo, por ejemplo, \"Cuenta cerrada\" en lugar de su nombre, y no figurará ningún correo electrónico o número de teléfono. Sin embargo, para ayudar a su iglesia a mantener registros estadísticos consistentes, seguirá existiendo un registro de que un miembro (ahora anónimo) era parte de una iglesia o de un grupo. Si requiere que eliminemos por completo cualquier registro de su membresía de la iglesia y del grupo, comuníquese con el servicio de asistencia a través de una solicitud antes de cerrar su cuenta.",
+    "DELETE-PERFORM": "Eliminar mi cuenta",
+    "DELETE-CONFIRM": "Estás intentando cerrar permanentemente tu cuenta de Smallgroups.church. ¡Esta acción no se puede deshacer!",
+    "DELETE-PIC-PROMPT": "Are you sure you want to remove your profile picture?"
+  },
+  "EMAIL": {
+    "TITLE": "Preferencias de correo electrónico",
+    "INFO-TITLE": "Ajustar preferencias de correo electrónico",
+    "INFO-DESCRIPT": "Hacemos lo mejor para enviar solamente los mails necesarios.",
+    "CHURCH": {
+      "TITLE": "Administración de la Iglesia",
+      "NEW": "Nuevo Grupo",
+      "NEW-SUB": "Ser notificado inmediatamente cuando se registra un grupo.",
+      "TRANS": "Transferencia de Grupo",
+      "TRANS-SUB": "Creemos que querrás saber si un líder de grupo transfiere su grupo a otro líder.",
+      "LEADER": "Nuevo Líder de Grupo",
+      "LEADER-SUB": "Queremos que conozcas a todos los líderes de grupos, así que te notificaremos cuando un nuevo líder sea asignado a un grupo.",
+      "UPDATED": "Actualización de Grupo",
+      "UPDATED-SUB": "Ya sea que se trate de la corrección de una palabra mal escrita o de una revisión completa de la descripción del grupo y de la audiencia, te mantendremos informado."
+    },
+    "SITE": {
+      "TITLE": "Smallgroups.church",
+      "UPDATES-MAIN": "Actualizaciones de la web",
+      "UPDATES-SUB": "Rara vez enviamos correos electrónicos con respecto al sitio web, pero de vez en cuando le informaremos de nuevas características y cambios."
+    },
+    "ADS": {
+      "TITLE": "Marketing",
+      "UPDATES-MAIN": "Anuncios Relevantes",
+      "UPDATES-SUB1": "Para sostener de forma GRATUITA los servicios que brindamos a las iglesias, hacemos uso de su información para crear campañas de marketing que sean relevantes para usted. Si desea ayudarnos, mantenga esta opción activada.",
+      "UPDATES-SUB2": "TENGA EN CUENTA: su privacidad es de vital importancia para nosotros y nunca venderemos su información personal. Consulte nuestra Política de privacidad para obtener más información sobre cómo usamos su información."
+    }
+  },
+  "EMAIL-VERIFY": {
+    "TITLE": "Verificación de correo electrónico",
+    "VALIDATING-TOKEN": "Validando correo electrónico...",
+    "INVALID-TOKEN": "Este enlace no es válido o ha caducado. Haga clic en el botón de abajo para solicitar que se envíe otro correo electrónico de verificación."
+  },
+  "CHURCH": {
+    "SET-TITLE": "Selecciona tu Iglesia",
+    "SET-PROMPT": "Miembros de la iglesia, por favor escriban el nombre de su iglesia en el cuadro de abajo:",
+    "SET-LABEL": "Nombre de la iglesia:",
+    "SET-PLACEHOLDER": "Ingresa el nombre de tu iglesia",
+    "SET-BTN-SELECT": "Seleccionar como mi iglesia",
+    "SET-NOT-FOUND": "Lo sentimos, no se encontraron iglesias con ese nombre.",
+    "MEMBERSHIPS-TITLE": "Tu iglesia",
+    "REMOVE-MEMBERSHIP": "Estás intentando eliminar tu pertenencia en esta iglesia.",
+    "REMOVE-YES": "Si, eliminar",
+    "REMOVE-NO": "No, cancelar",
+    "REMOVE-CHURCH-SERVER-ERROR": "Se produjo un error al eliminar tu iglesia. Asegúrate de estar conectado a Internet e inténtalo de nuevo.",
+    "REMOVE-CHURCH-SERVER-SUCCESS": "Tu iglesia ha sido eliminada.",
+    "PASTOR-TITLE": "¿Eres el pastor?",
+    "PASTOR-PROMPT1": "Si eres el pastor o coordinador de grupos pequeños de tu iglesia,",
+    "PASTOR-PROMPT2": "y tu iglesia no se encuentra en la lista de la izquierda, por favor da clic abajo para registrar tu iglesia."
+  }
+}

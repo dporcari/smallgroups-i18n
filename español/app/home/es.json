@@ -1,0 +1,114 @@
+{
+  "HERO": {
+    "TITLE": "Administrar grupos pequeños en línea- Gratis",
+    "SUBTITLE": "Pastorea en línea con más efectividad los grupos pequeños de tu iglesia",
+    "ACTION-BTN": "Crear mi cuenta gratis",
+    "ACTION-LEARN-MORE": "Aprende más"
+  },
+  "HOW": {
+    "TITLE": "¿Cómo me puede ayudar Smallgroups.church?",
+    "SUBTITLE": "Únete a cientos de pastores y coordinadores de grupos pequeños que manejan sus grupos pequeños con Smallgroups.church."
+  },
+  "FEATURE1": {
+    "TITLE": "Construye un directorio en línea simple y bonito",
+    "P1": "Los líderes registran sus grupos pequeños y los participantes pueden encontrar uno",
+    "QUOTE": "",
+    "QUOTER": "",
+    "SCREENSHOT": "(Captura de pantalla: directorio de grupos pequeños)"
+  },
+  "FEATURE2": {
+    "TITLE": "Empodera a los líderes a que cuiden a los propios participantes de sus grupos",
+    "P1": "Los líderes de grupos pequeños pueden administrar la lista de contactos de su grupo y tomar propiedad de la información de contacto sin depender de una persona del staff.",
+    "QUOTE": "",
+    "QUOTER": "",
+    "SCREENSHOT": "(Captura de pantalla: los líderes administrando sus propios grupos)"
+  },
+  "FEATURE3": {
+    "TITLE": "Usa la data de tus grupos pequeños para mantener al ministerio saludable",
+    "P1": "Reportes fáciles de usar que te ayudarán a medir la participación de las personas a través del tiempo.",
+    "QUOTE": "",
+    "QUOTER": "",
+    "SCREENSHOTA": "(Captura de pantalla: panel de grupos pequeños de una iglesia)",
+    "SCREENSHOTB": "(Captura de pantalla: reporte de grupos pequeños de una temporada)"
+  },
+  "QUESTIONS": {
+    "TITLE": "¿Aún tienes preguntas?",
+    "BTN": "Revisa la lista de preguntas y respuestas",
+    "SIGN-UP": "Regístrate ahora"
+  },
+  "SAYING": {
+    "TITLE": "¿Que están diciendo los pastores y staff?",
+    "Q1": {
+      "QUOTE": "Eventualmente, nos gustaría ver a todos en nuestra iglesia en un pequeño grupo. Vemos que más personas encuentran libertad si están en un grupo y creemos que es la mejor manera de conectarse y mantenerse conectados.",
+      "NAME": "Melton Weaver",
+      "TITLE": "Director de relaciones, Our Savior’s Church"
+    },
+    "Q2": {
+      "QUOTE": "Cita 2",
+      "NAME": "Melton Weaver",
+      "TITLE": "Director de relaciones, Our Savior’s Church"
+    },
+    "Q3": {
+      "QUOTE": "Cita 3",
+      "NAME": "Melton Weaver",
+      "TITLE": "Director de relaciones, Our Savior’s Church"
+    }
+  },
+  "WHO": {
+    "TITLE": "¿Quién más está usando Smallgroups.church?",
+    "LOOKING": "¿Estás buscando una iglesia en específico?",
+    "LOOKING-LINK1": "Encuéntrala aquí",
+    "LOOKING-LINK2": "Ponte en contacto"
+  },
+  "GET-STARTED-BTN": "¡Crea tu cuenta gratis ahora!",
+  "FAQ": {
+    "TITLE": "Preguntas frecuentes",
+    "P1A": " ¿Nuevo por aquí? Dale una revisada a nuestras preguntas frecuentes y si aún tienes preguntas,",
+    "P1B": "Contáctanos aquí.",
+    "Q1": {
+      "QUEST": "¿Cómo funciona Smallgroups.church?",
+      "ANS1": "Smallgroups.church es un sistema de gestión de grupos pequeños y directorio en línea. Los pastores y / o coordinadores invitan a los líderes de grupo a crear cuentas, luego los líderes crean sus propios grupos, los cuales son aprobados o rechazados por los administradores. Los miembros de la iglesia pueden buscar en el directorio y (opcionalmente) registrarse para grupos. Nuestros informes le dan una visión general de la salud de su ministerio de grupos pequeños, mientras que quita gran parte del trabajo administrativo."
+    },
+    "Q2": {
+      "QUEST": "¿Realmente este servicio es gratis?",
+      "ANS1": "¡Sí! Cuando lanzamos Smallgroups.church, sentimos que Dios nos estaba llamando para regalarlo sin costo alguno. ¡Ahora podemos ayudar a que más iglesias locales tengan grupos pequeños exitosos!"
+    },
+    "Q3": {
+      "QUEST": "¿Hay alguna trampa?",
+      "ANS1": "Nope. Podemos ofrecer servicios premium en el futuro, pero serás incluido en el plan \"Gratis por siempre\". Ninguna característica se quitará y se empaquetará en una oferta superior si han usado el sistema previamente.",
+      "ANS2A": "También hemos considerado la incorporación de anuncios cristianos seleccionados que apropiados para el sitio web y / o correos electrónicos. Deberíamos hacerlo, puedes estar seguro de que seremos 100% transparentes, ofreceremos la posibilidad de optar por",
+      "ANS2B": "nunca venderemos ni compartiremos ningún dato de identificación personal."
+    },
+    "Q4": {
+      "QUEST": "¿Puedo crear los grupos o el líder del grupo tiene que hacerlo?",
+      "ANS1": "Puedes hacerlo de cualquier manera, aunque te alentamos a fortalecer a tus líderes de grupo para que creen sus propios grupos.",
+      "ANS2": "Si creas el grupo para tus líderes, puedes invitar al líder del grupo a ser un co-líder del grupo. Una vez que se inscriban, tendrás la opción de transferir el grupo a ellos.",
+      "ANS3": "Pero, hemos encontrado que los líderes sentirán más \"pertenencia\" si los líderes del grupo crean sus propios grupos. Ellos sentirán una sensación de propiedad sobre su grupo, ya que a medida que crezcan, estarás contento de que solo tengas que aprobar el grupo, no entrar para verificar todos los detalles para decenas o cientos de grupos."
+    },
+    "Q5": {
+      "QUEST": "¿Cada líder del grupo necesita tener privilegios administrativos?",
+      "ANS1": "No, una vez que un líder del grupo crea su cuenta y su grupo pequeño tendrán todos los privilegios que necesitan para administrar su propio grupo."
+    },
+    "Q6": {
+      "QUEST": "Tenemos muchos ministerios diferentes, no sólo grupos pequeños. ¿Puedo personalizar Smallgroups.church?",
+      "ANS1": "¡Claro, te animamos a que lo hagas! Nuestros filtros incluyen definiciones amplias de quién, qué, cuándo y edad, todo lo cual puede personalizarse según las necesidades específicas de su iglesia."
+    },
+    "Q7": {
+      "QUEST": "¿Apoya varios campus?",
+      "ANS1A": "Si, sola usa el formulario",
+      "ANS1B": "Registrar iglesia",
+      "ANS1C": "Para crear todos los campuses que necesites."
+    },
+    "Q8": {
+      "QUEST": "¿A donde voy desde aqui?",
+      "ANS1A": "Primero,",
+      "ANS1B": "Crea tu cuenta",
+      "ANS1C": "Si aún no lo has hecho.",
+      "ANS2A": "entonces",
+      "ANS2B": "registra tu iglesia,",
+      "ANS3A": " y sigue",
+      "ANS3B": "la guía rápida",
+      "ANS3C": "para comenzar y avanzar."
+    }
+  }
+}

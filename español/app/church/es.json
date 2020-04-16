@@ -1,0 +1,443 @@
+{
+  "SEMESTERS": {
+    "ALL-ACTIVE": "Todas las temporadas activas",
+    "ACTIVE-LABEL": "Temporadas Activas",
+    "ARCHIVED-LABEL": "Temporada Archivadas",
+    "PUBLIC-DATE": "Inicio de la temporada",
+    "END-DATE": "Fin de temporada",
+    "ONGOING": "Continuará",
+    "NO-SEMESTERS-TITLE": "No existen temporadas activas",
+    "NO-SEMESTERS-P1": "Actualmente no hay temporadas activas disponibles, por lo que su directorio público aparecerá vacío.",
+    "NO-SEMESTERS-BTN": "Actualizar Temporadas"
+  },
+  "DASHBOARD": {
+    "TITLE": "Panel",
+    "VIEW-ALL": "Ver todo",
+    "TOTAL-LEADERS": "Líderes Aprobados",
+    "TOTAL-MEMBERS": "Miembros Aprobados",
+    "TOTAL-GROUPS": "Grupos Aprobados",
+    "PENDING": "Pendientes",
+    "LISTED": "Listado",
+    "LISTED-DIR": "Listado en el Directorio",
+    "UNLISTED": "Privados",
+    "PENDING-GROUPS": "Grupos Pendientes:"
+  },
+  "GROUPS": {
+    "TITLE": "Grupos Pequeños",
+    "APPROVE-GROUP": "Aprobar el Grupo",
+    "APPROVE": "Aprobar:",
+    "ENCOURAGE": "Envía una palabra de ánimo al líder(es).",
+    "DECLINE-GROUP": "Rechazar Grupo",
+    "DECLINE-REASON": "Por favor, avísale al líder por qué su grupo está siendo rechazado.",
+    "VISIBLE": "Visible",
+    "SEMESTER": "Temporada",
+    "UPDATED-AT": "Actualizado el"
+  },
+  "LEADERS": {
+    "TITLE": "Líderes de Grupo",
+    "GROUPS": "Grupos",
+    "CREATED": "Creado",
+    "SEARCH-LEADER": "Buscar por nombre",
+    "SEARCH-EMAIL": "Buscar por correo electrónico",
+    "SEARCH-PHONE": "Buscar por teléfono",
+    "SEARCH-GROUP": "Buscar por nombre del grupo"
+  },
+  "MEMBERS": {
+    "TITLE": "Participantes del Grupo"
+  },
+  "RESOURCES": {
+    "QUICKSTART": {
+      "TITLE": "Guía Rápida",
+      "PROMPT": "Si es la primera vez que configura Smallgroups.church o si regresas despues de otro semestre de grupos, utilice los siguientes bloques para asegurarse rápidamente de que está listo para comenzar con su directorio de grupos:",
+      "BOX1-HEADING": "Configurar Administradores de la iglesia",
+      "BOX1-P": "Puedes agregar nuevos administradores de la iglesia a tu cuenta, así como eliminar las cuentas de administradores existentes.",
+      "BOX1-BTN": "Administrar cuentas de administradores",
+      "BOX2-HEADING": "Configurar temporadas de grupos",
+      "BOX2-P": "Las temporadas de grupos pequeños proporcionan una manera fácil de administrar y recopilar estadísticas para sus grupos con el paso del tiempo.",
+      "BOX2-BTN": "Administrar temporadas",
+      "COPY-ME": "Cópiame!",
+      "BOX3-HEADING": "Invita Líderes de Grupos Pequeños",
+      "BOX3-P1": "Cualquier persona con una cuenta en Smallgroups.church que ha asociado su cuenta con tu iglesia puede crear un pequeño grupo. (Por supuesto, tu debes aprobar el grupo antes de que aparezca en su directorio.)",
+      "BOX3-P2": "Para registros de nuevos de líderes de grupo, puedes enviarlas o publicarlas en tu sitio web:",
+      "BOX4-HEADING": "Registra un Grupo",
+      "BOX4-P1": "¿Estás liderando un grupo?",
+      "BOX4-BTN": "Crea tu grupo",
+      "BOX4-P2": "Actualmente, tienes {{groups}} disponibles en el directorio de grupos.",
+      "BOX5-HEADING": "Aprobar Grupos",
+      "BOX5-P1": "Sólo los grupos aprobados por un administrador aparecerán en el directorio de grupos.",
+      "BOX5-P2": "Hay {{groups}} grupos en espera de aprobación.",
+      "BOX5-BTN": "Administrar Grupos",
+      "BOX6-HEADING": "Compartir tus Grupos Pequeños",
+      "BOX6-P1": "La dirección web directa al directorio de grupos pequeños de tu iglesia es:",
+      "BOX6-P2": "Si deseas cambiar la URL de tu iglesia,",
+      "BOX6-CLICK-HERE": "click aquí",
+      "BOX6-P3": "Una vez que esté listo para lanzar sus grupos pequeños comienza a pasar la voz. Te invitamos a usar uno de nuestros diseños o siéntete libre de crear el tuyo.",
+      "COPY-URL": "Copiar URL",
+      "DOWNLOAD": "Descargar",
+      "BOX7-HEADING": "Decidir sobre la configuración de comunicación de directorio",
+      "BOX7-P1": "Puede decidir si permitir que los miembros potenciales del grupo envíen un correo electrónico a los líderes de los grupos utilizando un formulario en el directorio público. Del mismo modo, también puede decidir si desea mostrar el botón 'Unirse al grupo'.",
+      "BOX7-BTN": "Actualizar la configuración de comunicación"
+    },
+    "COMMUNICATION": {
+      "TITLE": "Configuración de comunicación de grupo de directorio público",
+      "P1": "Recomendamos habilitar ambas características.",
+      "TOGGLE-CONTACT": {
+        "TITLE": "Permitir formulario de contacto al líder de grupo",
+        "DESCRIPT": "Este botón permite que cualquiera que navegue por el sitio web utilice un formulario para enviar un correo electrónico a los líderes del grupo sobre su grupo.",
+        "NOTE": "Cualquiera puede enviar un mensaje a través del botón \"Contactar al líder\" en el directorio de grupos pequeños. Anime a sus líderes a usar el sentido común adecuadamente y tenga cuidado al compartir información con las personas que los contactan."
+      },
+      "TOGGLE-JOIN": {
+        "TITLE": "Permitir unirse al grupo",
+        "DESCRIPT": "Este botón le permite al usuario solicitar unirse a un grupo. El usuario debe crear una cuenta antes de hacerlo, y los líderes del grupo recibirán una solicitud para unirse a su grupo (que pueden aprobar o rechazar)."
+      }
+    },
+    "REPORTS": {
+      "RETURNING-SOON": "¡Estas características volverán pronto! Lamentamos el retraso. Mientras tanto, póngase en contacto con el soporte técnico (hello@smallgroups.church) para obtener ayuda adicional.",
+      "TITLE": "Reportes de la iglesia",
+      "VIEW": "Ver",
+      "OVERVIEW": {
+        "TITLE": "Grupos Pequeños",
+        "DESCRIPT": "Obtén información sobre sus grupos con una visión general de métricas de alto nivel; como quién, qué, cuándo y cuántos.",
+        "WHO-TITLE": "¿Quién asiste a estos grupos?",
+        "AGES-TITLE": "¿Cuáles son sus edades?",
+        "WHAT-TITLE": "¿Qué están haciendo?",
+        "WHAT-CHART-X": "Cantidad de Grupos"
+      },
+      "PRINT": {
+        "TITLE": "Imprimir Grupos",
+        "DESCRIPT": "Ver un formato de impresión de sus grupos pequeños activos para su uso sin conexión, como en un directorio o para publicarlo.",
+        "ALL-GROUPS": "Todos Los Grupos"
+      }
+    },
+    "PROFILE": {
+      "CREATE": {
+        "TITLE": "Bienvenido a Smallgroups.church!",
+        "PROMPT": "Create your church/campus using the form below:",
+        "PASTORS": {
+          "TITLE": "Pastores / Coordinadores",
+          "P1": "Si no eres el pastor y / o coordinador de grupos pequeños de tu iglesia, por favor regrese y busque su iglesia.",
+          "BTN": "Buscar mi iglesia"
+        },
+        "PLAN": {
+          "TITLE": "Escoger plan",
+          "P1": "Por ahora solo ofrecemos un plan:",
+          "FREE-FOREVER": "Gratis por siempre",
+          "PER-MONTH": "por mes",
+          "F1": "miembros de la iglesia ilimitados",
+          "F2": "grupos pequeños ilimitados",
+          "F3": "directorio público",
+          "F4": "100% gratis, para siempre"
+        },
+        "FORM": {
+          "TITLE": "Registra tu iglesia",
+          "BTN": "Registrar iglesia"
+        }
+      },
+      "UPDATE": {
+        "FORM": {
+          "TITLE": "Perfil de la iglesia",
+          "BTN": "Actualizar perfil de la iglesia"
+        }
+      },
+      "FORM": {
+        "CREATE": {
+          "TITLE": "Registra tu iglesia",
+          "BTN": "Registrar iglesia"
+        },
+        "UPDATE": {
+          "TITLE": "Perfil de la iglesia",
+          "BTN": "Actualizar perfil de la iglesia"
+        },
+        "NAME": {
+          "LABEL": "Nombre de la iglesia",
+          "REQD": "El nombre de la iglesia es obligatorio"
+        },
+        "SLUG": {
+          "LABEL": "Dirección",
+          "REQD": "La dirección es obligatoria"
+        },
+        "PHONE": {
+          "LABEL": "Teléfono",
+          "REQD": "El teléfono es obligatorio"
+        },
+        "FAX": {
+          "LABEL": "Fax"
+        },
+        "WEBSITE": {
+          "LABEL": "Página Web",
+          "REQD": "La página web es obligatoria"
+        },
+        "CONTACTEMAIL": {
+          "LABEL": "Correo Electrónico de contacto",
+          "HELP": "Esta dirección de correo electrónico se utilizará cuando los miembros de la iglesia llenen el formulario de contacto en smallgroups.church (para solicitudes no técnicas), además de ser utilizado como el correo electrónico de \"responder-a\" cuando hayan emails enviados desde smallgroups.church",
+          "REQD": "Correo Electrónico de contacto es obligatorio"
+        }
+      },
+      "SERVER": {
+        "SLUG-CHECK": {
+          "INVALID": "Esta dirección de directorio ya está en uso.",
+          "ERROR": "Se ha producido un error al comprobar la dirección del directorio. Revisa tu conexión a Internet y vuelve a intentarlo."
+        },
+        "UPDATE": {
+          "VALID": "El perfil de tu iglesia ha sido actualizado",
+          "ERROR": "Se ha producido un error al actualizar tu perfil. Asegúrese de haber completado todos los campos del formulario, revisar tu conexión a Internet e intentarlo de nuevo."
+        },
+        "CREATE": {
+          "VALID": "El perfil de tu iglesia ha sido creado.",
+          "ERROR": "Se ha producido un error al crear el perfil de tu iglesia. Asegúrese de haber completado todos los campos del formulario, revisar tu conexión a Internet e intentarlo de nuevo."
+        }
+      }
+    },
+    "ADMINS": {
+      "TITLE": "Administradores de grupos pequeños de la iglesia",
+      "PROMPT": "Agregue a los administradores de grupos pequeños de la iglesia a su cuenta y elimine las cuentas de administrador existentes.",
+      "FORM": {
+        "PROMPT": "Ingrese la dirección de correo electrónico del usuario que desea agregar como administrador de la iglesia:",
+        "EMAIL-PLACEHOLDER": "Ingresar Correo Electrónico",
+        "BTN": "Agregar Nuevo Administrador"
+      },
+      "STATUS": {
+        "TITLE": "Estado de Cuenta",
+        "ACTIVE": "Cuenta Activa",
+        "SIGNUP": "A la espera del registro de miembros",
+        "RESEND": "Reenviar Invitación"
+      },
+      "REMOVE-PROMPT": "¿Estás seguro de que deseas eliminar a esta persona de la administración de la iglesia?",
+      "SERVER": {
+        "ADD": {
+          "SUCCESS": "El nuevo administrador ha sido agregado.",
+          "ERROR": "Ha habido un error al agregar al nuevo administrador. Por favor revisa tu conexión de Internet e intento de nuevo."
+        },
+        "RESEND": {
+          "SUCCESS": "Se ha reenviado una invitación al nuevo administrador.",
+          "ERROR": "Se ha producido un error al volver a enviar tu invitación. Comprueba tu conexión a Internet y vuelve a intentarlo."
+        },
+        "REMOVE": {
+          "SUCCESS": "El administrador ha sido eliminado.",
+          "ERROR": "Se produjo un error al eliminar al administrador. Comprueba tu conexión a Internet y vuelve a intentarlo."
+        }
+      }
+    },
+    "SEMESTERS": {
+      "TITLE": "Temporadas de Grupos",
+      "EXPLANATIONS": {
+        "TITLE": "Explicación de temporadas",
+        "WHY": {
+          "TITLE": "¿Porqué temporadas?",
+          "P1": "Las temporadas de grupos pequeños proporcionan una manera fácil de administrar y recopilar estadísticas.",
+          "P2": "Incluso si los grupos pequeños de tu iglesia no están organizados por temporadas, puedes pensar en éstos como períodos de tiempo para organizar sus grupos."
+        },
+        "USE": {
+          "TITLE": "¿Cómo se usan las temporadas?",
+          "P1": "Todas las iglesias inician con ciclo de vida de grupos pequeños que no tiene fin. Sin embargo, sino aplica a tu iglesia puedes eliminarlo.",
+          "P2": "Los pastores crean una nueva temporada con las fechas de inicio y fin correspondientes.",
+          "P3": "Los líderes de grupo eligen la temporada apropiada cuando crean su lista de grupos. (Las temporadas pasadas ​​están ocultas a menos que estén marcados como \"En curso\".)"
+        },
+        "POST": {
+          "TITLE": "¿Cómo puedo publicar un anuncio en la parte superior de mi directorio?",
+          "P1": "Personalice su \"Mensaje de Directorio Fijo\" en la página de Temporadas de Grupo.",
+          "P2": "Este mensaje se mostrará públicamente en tu directorio de grupos pequeños cuando cambie el mensaje \"Mostrar mensaje? \" A Sí."
+        },
+        "PINNED": {
+          "TITLE": "¿Qué puede incluir mi mensaje de directorio?",
+          "P1": "¡Lo que quieras! Utilízalo como un llamado a acción para que los potenciales nuevos líderes de grupos puedan crear grupos. Compartir información sobre próximos entrenamientos o fechas de lanzamiento de temporadas."
+        },
+        "END": {
+          "TITLE": "¿Qué pasa al final de la temporada?",
+          "P1": "Los grupos pequeños se archivarán automáticamente y se eliminarán del directorio público y se archivarán a la fecha que elija como la \"Fecha de finalización del temporada\". Le enviaremos un recordatorio para configurar la próxima temporada de grupos pequeños a medida que se acerque el final de la temporada actual ."
+        },
+        "DELETE": {
+          "TITLE": "¿Debería eliminar los grupos anteriores?",
+          "P1": "¡No! Te animamos a que nunca elimine sus antiguos grupos, ya que se archivan automáticamente. Puedes usar la información de Temporadas/ Grupos anterior para referirte al crecimiento y ayudar a informar a las áreas de enfoque de grupos pequeños de tu iglesia. Con el tiempo, la eliminación de los grupos impacta tus métricas. "
+        }
+      },
+      "MESSAGE": {
+        "TITLE": "Mensaje de directorio Fijado",
+        "P1": "Utiliza este formulario para agregar un mensaje personalizado en tu directorio de grupos públicos.",
+        "P2": "Por ejemplo, cuando entre temporadas este es un buen lugar para que los visitantes sepan cuándo comenzará la próxima temporada, así como para animarlos a considerar liderar un grupo.",
+        "FORM": {
+          "SHOW": "¿Mostrar mensaje?",
+          "TITLE": "Título",
+          "MESSAGE": "Mensaje"
+        },
+        "SERVER": {
+          "SUCCESS": "Su mensaje en el directorio se actualizó correctamente.",
+          "ERROR": "Se ha producido un error al actualizar tu mensaje de directorio. Comprueba tu conexión a Internet y vuelve a intentarlo."
+        }
+      },
+      "CURRENT": {
+        "TITLE": "Temporadas actuales",
+        "PUBLIC-DATE": "Fecha de inicio:",
+        "END-DATE": "Fecha de fin:",
+        "ONGOING": "Continuará?",
+        "REMOVE": "Eliminar",
+        "REMOVE-SEMESTER-PROMPT": "Estás intentando eliminar esta temporada. Si hay grupos aún asociados, se convertirán en \"perdidos \" y, por lo tanto, deben ser reasignados ahora. (Ve al enlace \"Grupos pequeños\" de arriba, cambie a esta temporada, y asegúrese de que no haya grupos vinculados.) ¡Esto no se puede deshacer!",
+        "SERVER": {
+          "REMOVE": {
+            "SUCCESS": "La temporada ha sido eliminada",
+            "ERROR": "Se produjo un error al eliminar esta temporada. Comprueba tu conexión a Internet y vuelve a intentarlo."
+          },
+          "UPDATE": {
+            "SUCCESS": "La temporada ha sido actualizada",
+            "ERROR": "Hubo un error al actualizar esta temporada. Comprueba tu conexión a Internet y vuelve a intentarlo."
+          }
+        }
+      },
+      "NEW": {
+        "TITLE": "Crear nueva temporada",
+        "PROMPT": "Agregar tu siguiente temporada de grupos pequeños",
+        "NAME": "Nombre de la temporada",
+        "PUBLIC-DATE": "Inicio de la temporada",
+        "END-DATE": "Fin de la temporada",
+        "ONGOING": "¿Continuará esta temporada?",
+        "CREATE-BTN": "Crear temporada",
+        "SERVER": {
+          "SUCCESS": "Tu nueva temporada ha sido creada.",
+          "ERROR": "Se produjo un error al crear la nueva temporada. Comprueba tu conexión a Internet y vuelve a intentarlo."
+        }
+      }
+    },
+    "FILTERS": {
+      "TITLE": "Filtro de grupos",
+      "PROMPT": "Las siguientes son listas de los filtros principales usados ​​para categorizar los grupos pequeños de tu iglesia. Estos filtros también se utilizan en el directorio público para ayudar a restringir la búsqueda de grupos.",
+      "LABEL": "Etiqueta del filtro",
+      "REMOVE-FILTER-PROMPT": "Estás intentando quitar este filtro. Si hay grupos aún asociados con él, se convertirán en \"perdidos\" y, por lo tanto, deben ser reasignados ahora. (Ve al enlace \"Grupos pequeños\" de arriba y asegúrate de que no hay grupos asociados con este filtro de grupo.) ¡Esto no se puede deshacer!",
+      "WHO": {
+        "TITLE": "Quién"
+      },
+      "WHAT": {
+        "TITLE": "Qué"
+      },
+      "WHEN": {
+        "TITLE": "Cuando"
+      },
+      "AGES": {
+        "TITLE": "Edad"
+      },
+      "CREATE": {
+        "TITLE": "Crear un nuevo filtro:",
+        "NAME": "Nombre",
+        "BTN": "Crear"
+      },
+      "SERVER": {
+        "UPDATE": {
+          "SUCCESS": "Tus filtros han sido actualizados",
+          "ERROR": "Se ha producido un error al actualizar tu filtro. Comprueba tu conexión a Internet y vuelve a intentarlo."
+        },
+        "REMOVE": {
+          "SUCCESS": "Tu filtro ha sido eliminado",
+          "ERROR": "Se ha producido un error al eliminar el filtro. Comprueba tu conexión a Internet y vuelve a intentarlo."
+        },
+        "CREATE": {
+          "SUCCESS": "Tu filtro ha sido creado.",
+          "ERROR": "Se produjo un error al crear el filtro. Comprueba tu conexión a Internet y vuelve a intentarlo."
+        }
+      }
+    },
+    "EXPORT": {
+      "TITLE": "Exportar Data de la Iglesia",
+      "PROMPT": "Descarga un archivo CSV para que puedas usarlo en Microsoft Excel, Google Docs.",
+      "GROUPS": {
+        "TITLE": "Grupos Pequeños",
+        "DESCRIPT": "Descarga toda la información de tus grupos pequeños.",
+        "INCLUDES": "Incluye información del grupo, del líder y de los participantes."
+      },
+      "LEADERS": {
+        "TITLE": "Líderes de grupo",
+        "DESCRIPT": "Descargar toda la información actual sobre líderes de grupos.",
+        "INCLUDES": "Incluye toda la información ingresada por el líder."
+      },
+      "MEMBERS": {
+        "TITLE": "Participantes del grupo",
+        "DESCRIPT": "Descargar toda tu información actual sobre los participantes de grupos.",
+        "INCLUDES": "Incluye toda la información de los participantes registrados."
+      }
+    },
+    "CAMPUSES": {
+      "TITLE": "Campus de la iglesia",
+      "BOX1-HEADING": "¿Qué son los campus?",
+      "BOX1-P1": "Si su iglesia tiene varios campus, puede crearlos y vincularlos en esta página.",
+      "BOX1-P2": "El nombre de su iglesia será reemplazado con una selección desplegable de sus campus en su directorio público y en el formulario  \"Crear grupo\". ",
+      "BOX2-HEADING": "Vincular múltiples campus",
+      "BOX2-P1": "Seleccione el campus principal de su iglesia a continuación. Luego selecciona tus otros campus. Solo los campus de la iglesia de los cuales usted es administrador serán listados.",
+      "BOX2-NOTE": "(Si desea vincular su campus con otro campus del que no tiene privilegios administrativos, deberá comunicarse con un administrador en ese campus para que le otorguen privilegios administrativos ingresando su dirección de correo electrónico en Iglesia -> Configuración -> Administradores de la Iglesia.)",
+      "BOX2-PERM-DENIED1": "Este campus actualmente está vinculado con otros campus, y usted no tiene privilegios administrativos para todos los campus.",
+      "BOX2-PERM-DENIED2": "Por favor, hable con su coordinador principal de grupos pequeños para resolver este problema.",
+      "BOX2-ADD-CAMPUS": {
+        "P1": "Actualmente eres solo un administrador de este campus. Tendrá que:",
+        "P2": "crear un nuevo campus (abajo), o ",
+        "P3": "si ya se ha creado el otro campus, comuníquese con un administrador en ese campus y pídales que le otorguen privilegios administrativos ingresando su dirección de correo electrónico en Iglesia -> Configuración -> Administradores de la Iglesia."
+      },
+      "BOX2-TABLE-HEADING1": "Nombre del campus",
+      "BOX2-TABLE-HEADING2": "Campus principal",
+      "BOX2-TABLE-HEADING3": "Otros campus",
+      "BOX3-HEADING": "Crear un nuevo campus",
+      "BOX2-BTN": "Actualizar los campus vinculados",
+      "BOX3-P1": "Agregar otro campus es como crear su iglesia, así que haga clic en el botón para crear un campus adicional (iglesia).",
+      "BOX3-BTN": "Crear Campus"
+    }
+  },
+  "PREMIUM": {
+    "BRANDING": {
+      "TITLE": "Church Branding",
+      "P1": "Integrate Smallgroups.church into your website with your church logo and a custom URL.",
+      "LOGO": {
+        "BTN-LOGO": "Customize Logo",
+        "REMOVE-P1": "By removing your logo, the Smallgroups.church logo will appear in its place.",
+        "REMOVE-LINK": "Remove Logo",
+        "EDIT-TITLE": "Edit Logo",
+        "EDIT-SQUARE": "Square",
+        "EDIT-RECTANGLE": "Rectangle",
+        "EDIT-FILL": "Fill",
+        "EDIT-CONTAIN": "Contain",
+        "EDIT-SAVE": "Save Logo",
+        "SERVER": {
+          "CREATE": {
+            "ERROR": "There was an error saving your church logo. Please try again.",
+            "VALID": "Your church logo has been saved."
+          },
+          "REMOVE": {
+            "ERROR": "There was an error removing your church logo. Please try again.",
+            "VALID": "Your church logo has been removed."
+          }
+        }
+      },
+      "URL": {
+        "TITLE": "Custom Web Address",
+        "P1A": "Your small groups directory is currently linked to",
+        "P1B": ", but with a Premium account you can customize this URL to use your church's domain.",
+        "P2A": "Since your",
+        "P2-PROFILE": "church's profile",
+        "P2B": "lists your website as",
+        "P2C": ", you can set your public directory to be available at a subdomain, like:",
+        "INSTRUCTIONS": {
+          "P1": "Please note, this can only be done by your church's website administrator.",
+          "P2": "You will be adding a <strong>subdomain</strong> to your church's primary root domain (presumably {{churchHost}}). Any valid subdomain (or root domain if your prefer) will work, but we suggest naming it after the conventional name for your church's small groups &mdash; like groups, egroups, lifegroups, smallgroups, etc.",
+          "P3": "Once you've decided on your subdomain, add the full URL in the form below and click the \"Save Custom Address\" button.",
+          "P4": "It will take us up to two business days to make the necessary changes on our end to support your new website.",
+          "P5": "Once we've completed the changes on our end, we will email you instructions to send to your website administrator that <strong>must</strong> be completed before your new web address will be functional."
+        },
+        "FORM-PROMPT": "Enter your Custom Web Address (URL)",
+        "FORM-PLACEHOLDER": "e.g., groups.churchofthedemo.com",
+        "FORM-BTN": "Save Custom Address",
+        "REMOVE-P1": "By removing your custom web address (URL), your public directory will only be available through the Smallgroups.church website.",
+        "REMOVE-P2": "Please update any links on your website that currently use your custom web address before continuing.",
+        "REMOVE-LINK": "Remove URL",
+        "ADDRESS": "Your address is:",
+        "NOTE-P1": "This may take up to 2 business days to complete; you will receive an email once we've made the required changes.",
+        "NOTE-P2": "Your website administrator must complete the steps in the email instructions in order for your custom web address to work.",
+        "SERVER": {
+          "CREATE": {
+            "EMPTY-ERROR": "Please enter a custom web address (URL) in the space provided..",
+            "ERROR": "There was an error saving your custom web address (URL). Please try again.",
+            "VALID": "Your custom web address has been saved."
+          },
+          "REMOVE": {
+            "ERROR": "There was an error removing your custom web address (URL). Please try again.",
+            "VALID": "Your custom web address has been removed."
+          }
+        }
+      }
+    }
+  }
+}

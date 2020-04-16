@@ -1,0 +1,114 @@
+{
+  "HERO": {
+    "TITLE": "Manage small groups online – for free",
+    "SUBTITLE": "Pastor more effectively with online small group management",
+    "ACTION-BTN": "Create my free account",
+    "ACTION-LEARN-MORE": "Learn more below"
+  },
+  "HOW": {
+    "TITLE": "How can Smallgroups.church help you?",
+    "SUBTITLE": "Join hundreds of pastors and small groups coordinators who manage their small groups with Smallgroups.church."
+  },
+  "FEATURE1": {
+    "TITLE": "Build a simple, beautiful online directory",
+    "P1": "Leaders add their groups, and church members can search easily with maps and filters.",
+    "QUOTE": "",
+    "QUOTER": "",
+    "SCREENSHOT": "(Screenshot: Small groups directory)"
+  },
+  "FEATURE2": {
+    "TITLE": "Empower leaders to care for their own group members",
+    "P1": "Small group leaders manage their own group listings and rosters. They can take ownership over their group instead of relying on staff members.",
+    "QUOTE": "",
+    "QUOTER": "",
+    "SCREENSHOT": "(Screenshot: Leaders manage their own groups)"
+  },
+  "FEATURE3": {
+    "TITLE": "Use data to keep your small groups ministry healthy",
+    "P1": "Easy-to-use reports help you see participation and trends over time.",
+    "QUOTE": "",
+    "QUOTER": "",
+    "SCREENSHOTA": "(Screenshot: Church small groups dashboard)",
+    "SCREENSHOTB": "(Screenshot: Church semester snapshot report)"
+  },
+  "QUESTIONS": {
+    "TITLE": "Still have questions?",
+    "BTN": "Browse the FAQ",
+    "SIGN-UP": "sign up now"
+  },
+  "SAYING": {
+    "TITLE": "What are pastors and staff saying?",
+    "Q1": {
+      "QUOTE": "Eventually, we’d like to see everybody at our church in a small group. We see that more people find freedom if they’re in a group and we feel they’re the best way for people to get connected and stay connected.",
+      "NAME": "Melton Weaver",
+      "TITLE": "Connections Director, Our Savior’s Church"
+    },
+    "Q2": {
+      "QUOTE": "Quote2",
+      "NAME": "Melton Weaver",
+      "TITLE": "Connections Director, Our Savior’s Church"
+    },
+    "Q3": {
+      "QUOTE": "Quote3",
+      "NAME": "Melton Weaver",
+      "TITLE": "Connections Director, Our Savior’s Church"
+    }
+  },
+  "WHO": {
+    "TITLE": "Who else is using Smallgroups.church?",
+    "LOOKING": "Looking for a specific church?",
+    "LOOKING-LINK1": "Find it here",
+    "LOOKING-LINK2": "get in touch"
+  },
+  "GET-STARTED-BTN": "Create Your Free Account Now!",
+  "FAQ": {
+    "TITLE": "Frequently Asked Questions",
+    "P1A": "New around here? Take a look at our most common questions. If you still have questions,",
+    "P1B": "contact us here.",
+    "Q1": {
+      "QUEST": "How does Smallgroups.church work?",
+      "ANS1": "Smallgroups.church is a small groups management system and online directory. Pastors and/or coordinators invite  group leaders to create accounts, then leaders create their own groups — which are approved or declined by administrators. Church members may browse the directory and (optionally) sign up for groups. Our reporting data gives you an overview of the health of your small groups ministry while taking away much of the legwork of actually managing them."
+    },
+    "Q2": {
+      "QUEST": "Is this service actually free to use?",
+      "ANS1": "Yes! As we launched Smallgroups.church, we felt that God was calling us to give it away for no cost. Now we can help more local churches have successful small groups!"
+    },
+    "Q3": {
+      "QUEST": "Is there a catch?",
+      "ANS1": "Nope. We may offer premium services in the future, but you will be included in the \"Free Forever\" plan. No features will ever be taken away and bundled into a premium offering if they have ever been previously free to use.",
+      "ANS2A": "We've also considered incorporating vetted, Christian-appropriate advertisements into the website and/or emails. Should we do this, rest assured we will be 100% transparent, provide the ability to opt-out, and",
+      "ANS2B": "we will never sell or otherwise share any personally-identifiable data."
+    },
+    "Q4": {
+      "QUEST": "Can I create the groups, or does the group leader have to do it?",
+      "ANS1": "You can do it either way, though we highly encourage you to empower your group leaders to create their own groups.",
+      "ANS2": "If you create the group for your leaders, then you can invite the group leader to be a co-leader of the group. Once they sign-up, you'll have the option to transfer the group to them.",
+      "ANS3": "But, we have found that you will get more \"buy in\" if the group leaders create their own groups. They'll feel a sense of ownership over their group, and as you grow, you'll be glad you're only having to approve the group, not enter all the details for tens or hundreds of groups."
+    },
+    "Q5": {
+      "QUEST": "Does each group leader need to have administrative privileges?",
+      "ANS1": "No, once a group leader creates his/her account and small group, they will have all the priviliges they need to manage their group."
+    },
+    "Q6": {
+      "QUEST": "We have a lot of different ministries, not just small groups. Can I customize Smallgroups.church?",
+      "ANS1": "Sure, we encourage it! Our filters include broad definitions for who, what, when, and age, all of which can be customized to your specific church's requirements."
+    },
+    "Q7": {
+      "QUEST": "Do you support multiple campuses?",
+      "ANS1A": "Yes, simply use the",
+      "ANS1B": "create church",
+      "ANS1C": "form to create as many campuses as you need."
+    },
+    "Q8": {
+      "QUEST": "Where do I go from here?",
+      "ANS1A": "First,",
+      "ANS1B": "create your account",
+      "ANS1C": "if you've not already done so.",
+      "ANS2A": "Then",
+      "ANS2B": "create your church,",
+      "ANS3A": "and follow the",
+      "ANS3B": "QuickStart Guide",
+      "ANS3C": "to get up-and-running."
+    }
+  }
+}

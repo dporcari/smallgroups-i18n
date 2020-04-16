@@ -1,0 +1,38 @@
+{
+  "ASSIGN-CHURCH": {
+    "TITLE": "Assign your home church",
+    "P1": "Oops, we need to know which church you call home.",
+    "BTN": "Find My Church"
+  },
+  "DASHBOARD": {
+    "TITLE": "Dashboard",
+    "MY-GROUPS": {
+      "TITLE": "My Groups",
+      "DESCRIPT": "View all of the groups you lead and/or participate in.",
+      "PENDING-ONE": "You have a pending group invitation waiting for your approval.",
+      "PENDING-MULTIPLE": "You have pending group invitations waiting for your approval.",
+      "BTN-VIEW": "View My Groups"
+    },
+    "DIRECTORY": {
+      "TITLE": "Groups Directory",
+      "DESCRIPT": "Filter and view the current groups listed for {{name}}.",
+      "BTN-VIEW": "Find a Group"
+    },
+    "CREATE": {
+      "TITLE": "Create a Group",
+      "DESCRIPT": "Ready to lead a group? Just complete this simple form and you'll be on your way.",
+      "BTN-VIEW": "Create a Group"
+    },
+    "PENDING": {
+      "TITLE": "You have pending group invitations.",
+      "P1": "In order to see them, you will need to confirm your email address.",
+      "BTN": "Send Verification Email"
+    }
+  },
+  "LIST": {
+    "TITLE": "My Groups",
+    "TAB-CURRENT": "Current Groups",
+    "TAB-PAST": "Past Groups",
+    "NO-GROUPS-FOUND": "Oops, it appears you're not a member of any groups! Let's fix that by selecting one of the options below:"
+  }
+}
