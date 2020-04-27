@@ -10,7 +10,10 @@
   "what": "Que",
   "church-campus": "Sede de la iglesia",
   "respond-to": "Por favor responder a {{fromName}} en",
-  "no-solicitation": "Smallgroups.church nunca le pedirá su contraseña, ningún tipo de pago o información personal. Cualquier persona puede enviar correos electrónicos a través del sistema, así que tenga cuidado y sentido común cuando se comunique con otros a través del correo electrónico.",  
+  "powered-by": "Powered by Smallgroups.church",
+  "email-preferences1": "If you’d rather not receive this kind of email, you can manage your email preferences.",
+  "email-preferences2": "manage your email preferences.",
+  "no-solicitation": "Smallgroups.church nunca le pedirá su contraseña, ningún tipo de pago o información personal. Cualquier persona puede enviar correos electrónicos a través del sistema, así que tenga cuidado y sentido común cuando se comunique con otros a través del correo electrónico.",
   "churchAdminAddedNotifyAdminsEmail": {
     "subject": "Administración de {{churchName}}",
     "p1": "Un nuevo administrador ha sido agregado a {{churchName}}.",
@@ -34,7 +37,7 @@
     "subject": "Solicitud de contacto de Smallgroups.church"
   },
   "emailAddressUpdated": {
-    "subject": "Tu correo en Smallgroups.church ha sido actualizado",
+    "subject": "Tu correo en {{siteURL}} ha sido actualizado",
     "p1a": "Esta es una confirmación para avisarte que tu correo ",
     "p1b": " ha sido cambiado de {{oldEmail}} a {{newEmail}}."
   },
@@ -131,19 +134,20 @@
     "questions": "Responde este mail si tienes preguntas!"
   },
   "passwordUpdated": {
-    "subject": "Tu contraseña de Smallgroups.church ha sido actualizada",
+    "subject": "Tu contraseña de {{siteURL}} ha sido actualizada",
     "p1a": "Esta es una confirmación para avisarte que tu contraseña ",
     "p1b": " ha sido cambiada."
   },
   "resetPasswordRequestEmail": {
-    "subject": "Cómo restablecer tu contraseña en Smallgroups.church",
+    "subject": "Cómo restablecer tu contraseña en {{siteURL}}",
     "p1": "Para restablecer tu contraseña da click debajo."
   },
   "sendVerifyMyAddressEmail": {
-    "subject": "Email de Verificación de Smallgroups.church",
+    "subject": "Email de Verificación de {{siteURL}}",
     "p1": "Para verificar tu email da click debajo."
   },
   "churchSupportEmail": {
-    "note": "Este correo electrónico fue enviado a través de https://www.smallgroups.church/contact. Está pensado como una petición para el coordinador de grupos pequeños."
-  }
+    "note": "Este correo electrónico fue enviado a través de https://{{siteURL}}/contact. Está pensado como una petición para el coordinador de grupos pequeños."
+  },
+  "email-preferences": "email-preferences"
 }

@@ -10,7 +10,10 @@
   "what": "What",
   "church-campus": "Church Campus",
   "respond-to": "Please respond to {{fromName}} at",
-  "no-solicitation": "Smallgroups.church will never ask for your password, payments of any type, or personal information. Anyone can send emails through the system, so please use caution and common sense when communicating with others through email.",
+  "powered-by": "Powered by Smallgroups.church",
+  "email-preferences1": "If you’d rather not receive this kind of email, you can ",
+  "email-preferences2": "manage your email preferences.",
+  "no-solicitation": "We will never ask for your password, payments of any type, or personal information. Anyone can send emails through this system, so please use caution and common sense when communicating with others through email.",
   "churchAdminAddedNotifyAdminsEmail": {
     "subject": "{{churchName}} Administration",
     "p1": "A new administrator has been added to {{churchName}}.",
@@ -34,7 +37,7 @@
     "subject": "Smallgroups.church contact request"
   },
   "emailAddressUpdated": {
-    "subject": "Your Smallgroups.church email address has been updated",
+    "subject": "Your {{siteURL}} email address has been updated",
     "p1a": "This is a confirmation to let you know your email address for ",
     "p1b": " has been changed from {{oldEmail}} to {{newEmail}}."
   },
@@ -131,19 +134,20 @@
     "questions": "Simply reply to this email if you have any questions!"
   },
   "passwordUpdated": {
-    "subject": "Your Smallgroups.church password has been updated",
+    "subject": "Your {{siteURL}} password has been updated",
     "p1a": "This is a confirmation to let you know your password for ",
     "p1b": " has been changed."
   },
   "resetPasswordRequestEmail": {
-    "subject": "How to reset your password on Smallgroups.church",
+    "subject": "How to reset your password on {{siteURL}}",
     "p1": "To reset your password, simply click the link below."
   },
   "sendVerifyMyAddressEmail": {
-    "subject": "Smallgroups.church email verification",
+    "subject": "{{siteURL}} email verification",
     "p1": "To verify your email address, simply click the link below."
   },
   "churchSupportEmail": {
-    "note": "This email was sent through https://www.smallgroups.church/contact. It is intended as a request for the small groups coordinator."
-  }
+    "note": "This email was sent through https://{{siteURL}}/contact. It is intended as a request for the small groups coordinator."
+  },
+  "email-preferences": "email-preferences"
 }
