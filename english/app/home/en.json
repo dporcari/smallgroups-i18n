@@ -1,58 +1,70 @@
 {
   "HERO": {
     "TITLE": "Manage small groups online – for free",
-    "SUBTITLE": "Pastor more effectively with online small group management",
+    "SUBTITLE": "Custom directory and easy small group management",
     "ACTION-BTN": "Create my free account",
     "ACTION-LEARN-MORE": "Learn more below"
   },
-  "HOW": {
-    "TITLE": "How can Smallgroups.church help you?",
-    "SUBTITLE": "Join hundreds of pastors and small groups coordinators who manage their small groups with Smallgroups.church."
+  "FREE": {
+    "PROMPT": "Free features",
+    "TITLE": "How Smallgroups.church can help you",
+    "SUBTITLE": "Join hundreds of pastors and small groups coordinators who manage their small groups with Smallgroups.church.",
+    "FEATURES": {
+      "FEATURE1": {
+        "LINK": "Online Directory",
+        "TITLE": "Build a simple, beautiful online directory",
+        "P1": "Leaders add their groups, and church members can search easily with maps and filters.",
+        "C1": "Filter by day or target audience",
+        "C2": "Easily find groups by location or subject",
+        "C3": "Contact the leader or join instantly",
+        "SCREENSHOT": "(Screenshot: Small groups directory)"
+      },
+      "FEATURE2": {
+        "LINK": "Empowered Leaders",
+        "TITLE": "Empower leaders to care for their own group members",
+        "P1": "Small group leaders manage their own group listings and rosters. They can take ownership over their group instead of relying on staff members.",
+        "C1": "Create \"buy-in\" from your group leaders by allowing them to manage their own groups",
+        "C2": "Get better church metrics of who is leading and attending your small groups",
+        "C3": "Retain control and take the load off of your shoulders",
+        "SCREENSHOT": "(Screenshot: Leaders manage their own groups)"
+      },
+      "FEATURE3": {
+        "LINK": "Tracking",
+        "TITLE": "Use data to keep your small groups ministry healthy",
+        "P1": "Easy-to-use reports help you see participation and trends over time.",
+        "C1": "View your small groups strengths & weaknesses at a glance",
+        "C2": "Easily compare group statistics across semesters",
+        "C3": "Provide a one-page summary to your pastor & team",
+        "SCREENSHOT": "(Screenshot: Church semester snapshot report)"
+      }
+    }
   },
-  "FEATURE1": {
-    "TITLE": "Build a simple, beautiful online directory",
-    "P1": "Leaders add their groups, and church members can search easily with maps and filters.",
-    "QUOTE": "",
-    "QUOTER": "",
-    "SCREENSHOT": "(Screenshot: Small groups directory)"
-  },
-  "FEATURE2": {
-    "TITLE": "Empower leaders to care for their own group members",
-    "P1": "Small group leaders manage their own group listings and rosters. They can take ownership over their group instead of relying on staff members.",
-    "QUOTE": "",
-    "QUOTER": "",
-    "SCREENSHOT": "(Screenshot: Leaders manage their own groups)"
-  },
-  "FEATURE3": {
-    "TITLE": "Use data to keep your small groups ministry healthy",
-    "P1": "Easy-to-use reports help you see participation and trends over time.",
-    "QUOTE": "",
-    "QUOTER": "",
-    "SCREENSHOTA": "(Screenshot: Church small groups dashboard)",
-    "SCREENSHOTB": "(Screenshot: Church semester snapshot report)"
+  "PREMIUM": {
+    "PROMPT": "Premium Features",
+    "TITLE": "Upgrade to take your directory to the next level.",
+    "SUBTITLE": "Get advanced features for growing your small groups ministry.",
+    "FEATURES": {
+      "FEATURE1": {
+        "TITLE": "Branding",
+        "P1": "Customize your church experience with your church's logo and custom domain.",
+        "SCREENSHOT": "(Screenshot: Branded small groups directory)"
+      },
+      "FEATURE2": {
+        "TITLE": "Attendance Tracking",
+        "P1": "Allow your group leaders to track weekly group attendance.",
+        "SCREENSHOT": "(Screenshot: Mobile attendance tracking)"
+      },
+      "FEATURE3": {
+        "TITLE": "Messenger",
+        "P1": "Safely send messages to and from church administrators, group leaders, and group members.",
+        "SCREENSHOT": "(Screenshot: Messenger)"
+      }
+    }
   },
   "QUESTIONS": {
     "TITLE": "Still have questions?",
     "BTN": "Browse the FAQ",
     "SIGN-UP": "sign up now"
-  },
-  "SAYING": {
-    "TITLE": "What are pastors and staff saying?",
-    "Q1": {
-      "QUOTE": "Eventually, we’d like to see everybody at our church in a small group. We see that more people find freedom if they’re in a group and we feel they’re the best way for people to get connected and stay connected.",
-      "NAME": "Melton Weaver",
-      "TITLE": "Connections Director, Our Savior’s Church"
-    },
-    "Q2": {
-      "QUOTE": "Quote2",
-      "NAME": "Melton Weaver",
-      "TITLE": "Connections Director, Our Savior’s Church"
-    },
-    "Q3": {
-      "QUOTE": "Quote3",
-      "NAME": "Melton Weaver",
-      "TITLE": "Connections Director, Our Savior’s Church"
-    }
   },
   "WHO": {
     "TITLE": "Who else is using Smallgroups.church?",
@@ -60,7 +72,11 @@
     "LOOKING-LINK1": "Find it here",
     "LOOKING-LINK2": "get in touch"
   },
-  "GET-STARTED-BTN": "Create Your Free Account Now!",
+  "CTA": {
+    "PROMPT1": "It's FREE with no obligation",
+    "PROMPT2": "no credit card required",
+    "BTN": "Create Your Account Now!"
+  },
   "FAQ": {
     "TITLE": "Frequently Asked Questions",
     "P1A": "New around here? Take a look at our most common questions. If you still have questions,",
@@ -110,5 +126,40 @@
       "ANS3B": "QuickStart Guide",
       "ANS3C": "to get up-and-running."
     }
+  },
+  "PRICING": {
+    "PLANS": "Pricing plans",
+    "TITLE": "All you need is free forever.<br>Upgrade for extra oomph.",
+    "SUB-TITLE": "Select how many campuses you have and get started.",
+    "SINGLE-CAMPUS": "Single campus",
+    "MULTI-CAMPUS": "Multi-campus",
+    "PER-MONTH": "per month",
+    "COMING-SOON": "Coming Soon!",
+    "COMING-SUMMER": "Coming this Summer",
+    "FREE": {
+      "PLAN-NAME": "FREE Forever Plan",
+      "UNLIMITED-CAMPUSES": "Unlimited Campuses",
+      "ONLINE-DIRECTORY": "Online Directory",
+      "GROUPS": "Manage Small Groups",
+      "LEADERS": "Manage Group Leaders",
+      "MEMBERS": "View Group Members",
+      "SEMESTERS": "Group Semesters & Filters",
+      "REPORTS": "View Reports",
+      "EXPORT": "Export Data"
+    },
+    "PREMIUM": {
+      "PLAN-NAME": "Premium Plan",
+      "FREE": "All FREE Forever Features",
+      "FLAT-RATE": "One Flat Monthly Rate",
+      "BRANDING": "Customize Branding",
+      "ATTENDANCE": "Group Attendance Tracking",
+      "MESSAGING": "Built-in Messaging",
+      "GROUP-PHOTOS": "Group Photos"
+    },
+    "DOWNGRADE": {
+      "P1": "We would hate to see you go, so please know you're welcome to continue using the FREE Forever Plan.",
+      "P2": "By downgrading your plan, you will no longer have access to the Premium features <strong>effective immediately</strong>."
+    },
+    "NOTE": "Each plan is month-to-month. Cancel any time."
   }
 }
