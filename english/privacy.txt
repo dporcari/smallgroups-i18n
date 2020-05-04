@@ -1,5 +1,4 @@
 Your privacy is critically important to us. At 1thrasher we have a few fundamental principles:
-
 We are thoughtful about the personal information we ask you to provide and the personal information that we collect about you through the operation of our services.
 We store personal information for only as long as we have a reason to keep it.
 We aim to make it as simple as possible for you to control what information on this website is shared publicly, indexed by search engines, and permanently deleted.
@@ -32,8 +31,8 @@ Communications With Us (Hi There!): You may also provide us information when you
 Information We Collect Automatically
 We also collect some information automatically:
 
-Log Information: Like most online service providers, we collect information that web browsers, mobile devices, and servers typically make available, such as the browser type, IP address, unique device identifiers, language preference, referring site, the date and time of access, operating system, and mobile network information. We collect log information when you use our Services &ndash; for example, when you create or make changes on Smallgroups.church.
-Usage Information: We collect information about your usage of our Services. For example, we collect information about the actions that users perform using our Smallgroups.church services – in other words, who did what, when and to what thing on a site. We also collect information about what happens when you use our Services (e.g., page views, support document searches at help.smallgroups.church, features enabled for your directory or group, interactions with our support and other parts of our Services) along with information about your device (e.g., screen size, name of cellular network, and mobile device manufacturer). We use this information to, for example, provide our Services to you, as well as get insights on how people use our Services, so we can make our Services better.
+Log Information: Like most online service providers, we collect information that web browsers, mobile devices, and servers typically make available, such as the browser type, IP address, unique device identifiers, language preference, referring site, the date and time of access, operating system, and mobile network information. We collect log information when you use our Services – for example, when you create or make changes on Smallgroups.church.
+Usage Information: We collect information about your usage of our Services. For example, we collect information about the actions that users perform using our Smallgroups.church services – in other words, who did what, when and to what thing on the site. We also collect information about what happens when you use our Services (e.g., page views, support document searches at help.smallgroups.church, features enabled for your directory or group, interactions with our support and other parts of our Services) along with information about your device (e.g., screen size, name of cellular network, and mobile device manufacturer). We use this information to, for example, provide our Services to you, as well as get insights on how people use our Services, so we can make our Services better.
 Location Information: We may determine the approximate location of your device from your IP address. We collect and use this information to, for example, calculate how many people visit our Services from certain geographic regions. We may also collect information about your precise location via our mobile apps (when, for example, you post a photograph with location information) if you allow us to do so through your mobile device operating system’s permissions.
 Stored Information: We may access information stored on your mobile device via our mobile app. We access this stored information through your device operating system’s permissions. For example, if you give us permission to access the photographs on your mobile device’s camera roll, our Services may access the photos stored on your device when you upload a photograph for use in our Services.
 Interactions within Small Groups: We collect some information about your interactions within small groups while you are logged in to your account with us, such as when you hide a group from the directory or email another member of your group. Likewise, we may track actions performed by small group administrators to further enhance our Services.
@@ -46,13 +45,13 @@ Purposes for Using Information
 We use information about you as mentioned above and for the purposes listed below:
 
 To provide our Services – for example, to set up and maintain your account, host your small group directory or small group, communicate with members of your church or small groups, or charge you for any of our paid Services;
-To further develop and improve our Services – for example by adding new features that we think our users will enjoy or will help them to create and manage their websites more efficiently;
+To further develop and improve our Services — for example by adding new features that we think our users will enjoy or will help them to create and manage their websites more efficiently;
 To monitor and analyze trends and better understand how users interact with our Services, which helps us improve our Services and make them easier to use;
-To place and manage ads in an advertising program - for example, to place ads with third-party vendors and some of our own sites as part of our advertising program, and understand ad performance;
-To market our Services and measure, gauge, and improve the effectiveness of our marketing - for example, by targeting our marketing messages to groups of our users (like those who have particular interests or have been users for a certain length of time), advertising our Services, analyzing the results of our marketing campaigns (like how many people purchased a paid plan after receiving a marketing message), and understanding and forecasting user retention;
-To protect our Services, our users, and the public - for example, by detecting security incidents; detecting and protecting against malicious, deceptive, fraudulent, or illegal activity; fighting spam; complying with our legal obligations; and protecting the rights and property of 1thrasher and others, which may result in us, for example, declining a transaction or terminating Services;
+To place and manage ads in an advertising program — for example, to place ads with third-party vendors and some of our own sites as part of our advertising program, and understand ad performance;
+To market our Services and measure, gauge, and improve the effectiveness of our marketing — for example, by targeting our marketing messages to groups of our users (like those who have particular interests or have been users for a certain length of time), advertising our Services, analyzing the results of our marketing campaigns (like how many people purchased a paid plan after receiving a marketing message), and understanding and forecasting user retention;
+To protect our Services, our users, and the public — for example, by detecting security incidents; detecting and protecting against malicious, deceptive, fraudulent, or illegal activity; fighting spam; complying with our legal obligations; and protecting the rights and property of 1thrasher and others, which may result in us, for example, declining a transaction or terminating Services;
 To measure, gauge, and improve the effectiveness of our advertising, and better understand user retention and attrition — for example, we may analyze how many individuals purchased a plan or product after receiving a marketing message or the features used by those who continue to use our Services after a certain length of time;
-To fix problems with our Services &mdash; for example, by monitoring, debugging, repairing, and preventing issues.;
+To fix problems with our Services — for example, by monitoring, debugging, repairing, and preventing issues;
 To monitor and prevent any problems with our Services, protect the security of our Services, detect and prevent fraudulent transactions and other illegal activities, fight spam, and protect the rights and property of 1thrasher and others, which may result in us declining a transaction or the use of our Services;
 To communicate with you, for example through an email, about offers and promotions offered by 1thrasher and others we think will be of interest to you, solicit your feedback, or keep you up to date on 1thrasher and our products; and
 To personalize your experience using our Services, provide content recommendations, target our marketing messages to groups of our users (for example, those who have a particular plan with us or have been our user for a certain length of time), and serve relevant advertisements.
@@ -72,10 +71,10 @@ Business Transfers: In connection with any merger, sale of company assets, or ac
 With Your Consent: We may share and disclose information with your consent or at your direction. For example, we may share your information with third parties with which you authorize us to do so, such as the social media services that you connect to your site through our Publicize feature.
 Aggregated or De-Identified Information: We may share information that has been aggregated or reasonably de-identified, so that the information could not reasonably be used to identify you. For instance, we may publish aggregate statistics about the use of our Services and we may share a hashed version of your email address to facilitate customized ad campaigns on other platforms.
 Published Support Requests: And if you send us a request (for example, via a support email or one of our feedback mechanisms), we reserve the right to publish that request in order to help us clarify or respond to your request or to help us support other users.
+We may show ads on some of our churches’ directories as well as some of our Sites, and the revenue they generate lets us offer free access to some of our Services so that money doesn’t become an obstacle for churches looking to host and manage small groups.
+
 Information Shared Publicly
 Information that you choose to make public is – you guessed it – disclosed publicly. Please keep this in mind when deciding what you would like to share.
-
-We may show ads on some of our churches’ directories as well as some of our Sites, and the revenue they generate lets us offer free access to some of our Services so that money doesn’t become an obstacle for churches looking to host and manage small groups.
 
 How Long We Keep Information
 We generally discard information about you when we no longer need the information for the purposes for which we collect and use it — which are described in the section above on How and Why We Use Information — and we are not legally required to continue to keep it.
@@ -102,9 +101,9 @@ Request correction or deletion of your personal data;
 Object to our use and processing of your personal data;
 Request that we limit our use and processing of your personal data; and
 Request portability of your personal data.
-
 California Consumer Privacy Act (CCPA)
 The California Consumer Privacy Act (“CCPA”) requires us to provide California residents with some additional information about the categories of personal information we collect and share, where we get that personal information, and how and why we use it. The CCPA also requires us to provide a list of the “categories” of personal information we collect, as that term is defined in the law, so, here it is. In the last 12 months, we collected the following categories of personal information from California residents, depending on the Services used:
+
 Identifiers (like your name, contact information, and device and online identifiers);
 Commercial information (your billing information and purchase history, for example);
 Characteristics protected by law (for example, you might provide your gender as part of a research survey for us);
@@ -112,14 +111,12 @@ Internet or other electronic network activity information (such as your usage of
 Geolocation data (such as your location based on your IP address);
 Audio, electronic, visual or similar information (such as your profile picture, if you uploaded one);
 Inferences we make (such as age, sex, likelihood of retention or attrition).
-
 You can find more information about what we collect in the Information We Collect section above. We collect personal information for the business and commercial purposes described in the How and Why We Use Information section. And we share this information with the categories of third parties described in the Sharing Information section. If you are a California resident, you have additional rights under the CCPA, subject to any exemptions provided by the law, including the right to:
 
 Request to know the categories of personal information we collect, the categories of business or commercial purpose for collecting and using it, the categories of sources from which the information came, the categories of third parties we share it with, and the specific pieces of information we collect about you;
 Request deletion of personal information we collect or maintain;
 Opt out of any sale of personal information; and
 Not receive discriminatory treatment for exercising your rights under the CCPA.
-
 The CCPA & Personalized Advertising in Our Ads Program
 We may show ads on some of our churches’ directories as well as some of our Sites, and the revenue they generate lets us offer free access to some of our Services so that money doesn’t become an obstacle for churches looking to host and manage small groups. Our ads program also allows our users to earn revenue to support and grow their own sites. As part of our advertising program, we and our users do use cookies to share certain device identifiers and information about your browsing activities with our advertising partners, and those advertising partners may use that information to show you personalized ads on some church directories. The personal information we share includes online identifiers; internet or other network or device activity (such as cookie information, other device identifiers, and IP address); and geolocation data (approximate location information from your IP address). These disclosures may be considered a “sale” of information under the CCPA. We do not sell (or share) information through our ads program that identifies you personally, like your name or contact information. You may opt out by toggling the "Relevant Ads" switch under "Marketing" in your account preferences.
 
@@ -129,7 +126,8 @@ You can usually access, correct, or delete your personal data using your account
 Controllers and Responsible Companies
 1thrasher’s Services are worldwide. Generally, the “controller” is the 1thrasher company that entered into the contract with you under the Terms of Service for the the product or service you use. In addition, 1thrasher, LLC, our US-based company, is the controller for some of the processing activities across all of our Services worldwide.
 
-1thrasher, LLC. 3300 12th Street, Northport, Alabama 35476
+1thrasher, LLC. 5710 Watermelon Rd STE 200B, Northport, Alabama 35473
+
 How to Reach Us
 If you have a question about this Privacy Policy, or you would like to contact us about any of the rights mentioned in the Your Rights section above, please contact us.
 
