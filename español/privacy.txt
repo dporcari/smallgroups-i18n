@@ -88,17 +88,39 @@ Cierre su cuenta: Si bien estaríamos de que nos deje, si ya no desea utilizar n
 Tus Derechos
 Si se encuentra en ciertos países, incluidos aquellos que están incluidos en el ámbito del Reglamento General Europeo de Protección de Datos (también conocido como "GDPR"), las leyes de protección de datos le otorgan derechos con respecto a sus datos personales, sujeto a cualquier exención provista por el Ley, incluyendo los derechos de:
 
+Reglamento General Europeo de Protección de Datos (RGPD)
+Si se encuentra en un país que cae dentro del alcance del RGPD, las leyes de protección de datos le otorgan ciertos derechos con respecto a sus datos personales, sujetos a cualquier exención prevista por la ley, incluidos los derechos a:
+
 Solicitar acceso a sus datos personales;
 Solicitar la corrección o eliminación de sus datos personales;
 Objetar nuestro uso y procesamiento de sus datos personales;
 Solicitar que limitemos el uso y procesamiento de sus datos personales; y
 Solicitar la portabilidad de sus datos personales.
-Por lo general, puede acceder, corregir o eliminar sus datos personales utilizando el perfil de su cuenta y las herramientas que ofrecemos, pero si no puede hacerlo o si desea comunicarse con nosotros sobre uno de los otros derechos, desplácese hacia abajo para contactarnos. Los individuos de la UE también tienen derecho a presentar una queja ante una autoridad de supervisión gubernamental.
+Ley de Privacidad del Consumidor de California (CCPA)
+La Ley de Privacidad del Consumidor de California ("CCPA", por sus siglas en inglés) requiere que proporcionemos a los residentes de California información adicional sobre las categorías de información personal que recopilamos y compartimos, dónde obtenemos esa información personal, y cómo y por qué la usamos. La CCPA también nos exige que proporcionemos una lista de las "categorías" de información personal que recopilamos, como ese término está definido en la ley. Por lo tanto, aquí está. En los últimos 12 meses, recopilamos las siguientes categorías de información personal de los residentes de California, según los Servicios utilizados:
+Identificadores (como su nombre, información de contacto y dispositivos e identificadores en línea);
+Información comercial (su información de facturación e historial de compras, por ejemplo);
+Características protegidas por la ley (por ejemplo, puede proporcionar su género como parte de una encuesta de investigación para nosotros);
+Internet u otra información de actividad de red electrónica (como su uso de nuestros Servicios, como las acciones que realiza como administrador de grupos pequeños o líder de grupo)
+Datos de geolocalización (como su ubicación en función de su dirección IP);
+Información de audio, electrónica, visual o similar (como su foto de perfil, si es que subió una);
+Las inferencias que hacemos (como edad, sexo, probabilidad de retención o desgaste).
+Puede encontrar más información sobre lo que recopilamos en la sección Información que recopilamos más arriba. Recopilamos información personal para los fines comerciales y comerciales descritos en la sección Cómo y por qué usamos la información. Y compartimos esta información con las categorías de terceros descritas en la sección Compartir información. Si es residente de California, tiene derechos adicionales bajo la CCPA, sujeto a cualquier exención prevista por la ley, incluido el derecho a:
+
+Solicite conocer las categorías de información personal que recopilamos, las categorías de negocios o fines comerciales para recopilarla y usarla, las categorías de fuentes de donde proviene la información, las categorías de terceros con quienes la compartimos y las piezas específicas de información Recopilamos sobre usted;
+Solicitar la eliminación de la información personal que recopilamos o mantenemos;
+Optar por no vender información personal; y
+No recibir tratamiento discriminatorio por ejercer sus derechos bajo la CCPA.
+El CCPA y la publicidad personalizada en nuestro programa de anuncios
+Podemos mostrar anuncios en algunos de los directorios de nuestras iglesias, así como en algunos de nuestros Sitios, y los ingresos que generan nos permiten ofrecer acceso gratuito a algunos de nuestros Servicios para que el dinero no se convierta en un obstáculo para las iglesias que buscan hospedar y administrar grupos pequeños. Nuestro programa de anuncios también permite a nuestros usuarios obtener ingresos para apoyar y hacer crecer sus propios sitios. Como parte de nuestro programa de publicidad, nosotros y nuestros usuarios usamos cookies para compartir ciertos identificadores de dispositivos e información sobre sus actividades de navegación con nuestros socios publicitarios, y esos socios publicitarios pueden usar esa información para mostrarle anuncios personalizados en algunos directorios de la iglesia. La información personal que compartimos incluye identificadores en línea; Internet u otra actividad de red o dispositivo (como información de cookies, otros identificadores de dispositivo y dirección IP); y datos de geolocalización (información de ubicación aproximada de su dirección IP). Estas divulgaciones pueden considerarse una "venta" de información bajo la CCPA. No vendemos (ni compartimos) información a través de nuestro programa de anuncios que lo identifica personalmente, como su nombre o información de contacto. Puede optar por la exclusión activando el interruptor "Anuncios relevantes" en "Marketing" en las preferencias de su cuenta.
+
+Contáctenos sobre estos derechos
+Por lo general, puede acceder, corregir o eliminar sus datos personales utilizando el perfil de su cuenta y las herramientas que ofrecemos, pero si no puede hacerlo, o si desea comunicarse con nosotros sobre uno de los otros derechos, desplácese hacia abajo para Cómo contactarnos para, bueno, descubrir cómo comunicarse con nosotros. Cuando nos contacte sobre uno de sus derechos en esta sección, necesitaremos verificar que usted sea la persona adecuada antes de divulgar o eliminar cualquier cosa. Por ejemplo, si es un usuario, necesitaremos que se comunique con nosotros desde la dirección de correo electrónico asociada a su cuenta. También puede designar un agente autorizado para hacer una solicitud en su nombre al darnos una autorización por escrito. Es posible que aún le solicitemos que verifique su identidad con nosotros.
 
 Controladores y Empresas Responsables
 Los servicios de 1thrasher son mundiales. En general, el "controlador" es la compañía de la iglesia 412 que estableció el contrato con usted en virtud de los Términos de servicio para el producto o servicio que usa. Además, 1thrasher, LLC, nuestra empresa con sede en EE. UU., es el controlador de las actividades de procesamiento en todos nuestros Servicios en todo el mundo.
 
-1thrasher, LLC. 3300 12th Street, Northport, Alabama 35476
+1thrasher, LLC. 5710 Watermelon Rd STE 200B, Northport, Alabama 35473
 Cómo contactarnos
 Si tiene alguna pregunta acerca de esta Política de privacidad, o si desea comunicarse con nosotros por cualquiera de los derechos mencionados en la sección Sus derechos, comuníquese con nosotros.
 
