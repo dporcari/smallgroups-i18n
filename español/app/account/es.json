@@ -31,7 +31,7 @@
     "DELETE-NOTE": "TENGA EN CUENTA: Cerrar su cuenta eliminará completamente su cuenta personal, reemplazándola con un usuario anónimo, por ejemplo, \"Cuenta cerrada\" en lugar de su nombre, y no figurará ningún correo electrónico o número de teléfono. Sin embargo, para ayudar a su iglesia a mantener registros estadísticos consistentes, seguirá existiendo un registro de que un miembro (ahora anónimo) era parte de una iglesia o de un grupo. Si requiere que eliminemos por completo cualquier registro de su membresía de la iglesia y del grupo, comuníquese con el servicio de asistencia a través de una solicitud antes de cerrar su cuenta.",
     "DELETE-PERFORM": "Eliminar mi cuenta",
     "DELETE-CONFIRM": "Estás intentando cerrar permanentemente tu cuenta de Smallgroups.church. ¡Esta acción no se puede deshacer!",
-    "DELETE-PIC-PROMPT": "Are you sure you want to remove your profile picture?"
+    "DELETE-PIC-PROMPT": "¿Estás seguro que quieres eliminar tu imagen de perfil?"
   },
   "EMAIL": {
     "TITLE": "Preferencias de correo electrónico",
