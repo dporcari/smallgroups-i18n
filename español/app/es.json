@@ -20,8 +20,8 @@
   "REMOVE": "Quitar",
   "TOTAL": "Total",
   "PRINT": "Imprimir",
-  "REMOVE-YES": "Yes, remove",
-  "REMOVE-NO": "No, cancel",
+  "REMOVE-YES": "Si, remover",
+  "REMOVE-NO": "No, cancelar",
 
   "NAME": "Nombre",
   "NAME-PLACEHOLDER": "Nombre Completo",
@@ -62,11 +62,11 @@
           "SEMESTERS": "Temporadas de Grupos",
           "EXPORT": "Exportar Data",
           "COMMUNICATION": "Configuración de comunicación",
-          "UPGRADE": "Upgrade Plan"
+          "UPGRADE": "Mejorar Plan"
         },
         "PREMIUM": {
-          "BRANDING": "Branding",
-          "BILLING": "Billing"
+          "BRANDING": "Marca",
+          "BILLING": "Facturación"
         }
       },
       "GROUPS": {
@@ -420,12 +420,12 @@
     "PROFILE": {
       "AVATAR": {
         "UPDATE": {
-          "ERROR": "There was an error saving your profile photo. Please try again.",
-          "SUCCESS": "Your profile photo has been updated."
+          "ERROR": "Hubo un error al guardar tu imagen de perfil. Por favot, intenta de nuevo.",
+          "SUCCESS": "Tu foto de perfil ha sido actualizada."
         },
         "REMOVE": {
-          "ERROR": "There was an error removing your profile photo. Please try again.",
-          "SUCCESS": "Your profile photo has been removed."
+          "ERROR": "Se produjo un error al eliminar tu foto de perfil. Inténtalo de nuevo.",
+          "SUCCESS": "Tu foto de perfil ha sido eliminada."
         }
       }
     }
