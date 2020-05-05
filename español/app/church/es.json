@@ -112,7 +112,7 @@
     "PROFILE": {
       "CREATE": {
         "TITLE": "Bienvenido a Smallgroups.church!",
-        "PROMPT": "Create your church/campus using the form below:",
+        "PROMPT": "Crea tu iglesia/ campus usando el formulario de abajo:",
         "PASTORS": {
           "TITLE": "Pastores / Coordinadores",
           "P1": "Si no eres el pastor y / o coordinador de grupos pequeños de tu iglesia, por favor regrese y busque su iglesia.",
@@ -379,62 +379,62 @@
   },
   "PREMIUM": {
     "BRANDING": {
-      "TITLE": "Church Branding",
-      "P1": "Integrate Smallgroups.church into your website with your church logo and a custom URL.",
+      "TITLE": "Marca de la iglesia",
+      "P1": "Integre Smallgroups.church en su sitio web con el logotipo de su iglesia y una URL personalizada.",
       "LOGO": {
-        "BTN-LOGO": "Customize Logo",
-        "REMOVE-P1": "By removing your logo, the Smallgroups.church logo will appear in its place.",
-        "REMOVE-LINK": "Remove Logo",
-        "EDIT-TITLE": "Edit Logo",
-        "EDIT-SQUARE": "Square",
-        "EDIT-RECTANGLE": "Rectangle",
-        "EDIT-FILL": "Fill",
-        "EDIT-CONTAIN": "Contain",
-        "EDIT-SAVE": "Save Logo",
+        "BTN-LOGO": "Personalizar logo",
+        "REMOVE-P1": "Al eliminar tu logo, el logo de Smallgroups.church aparecerá en su lugar.",
+        "REMOVE-LINK": "Eliminar Logo",
+        "EDIT-TITLE": "Editar Logo",
+        "EDIT-SQUARE": "Cuadrado",
+        "EDIT-RECTANGLE": "Rectangular",
+        "EDIT-FILL": "Llenar",
+        "EDIT-CONTAIN": "Contener",
+        "EDIT-SAVE": "Guardar Logo",
         "SERVER": {
           "CREATE": {
-            "ERROR": "There was an error saving your church logo. Please try again.",
-            "VALID": "Your church logo has been saved."
+            "ERROR": "Hubo un error al guardar el logo de tu iglesia. Por favor, inténtalo de nuevo.",
+            "VALID": "El logo de tu iglesia se ha guardado."
           },
           "REMOVE": {
-            "ERROR": "There was an error removing your church logo. Please try again.",
-            "VALID": "Your church logo has been removed."
+            "ERROR": "Hubo un error al eliminar el logo de tu iglesia. Por favor, inténtalo de nuevo.",
+            "VALID": "El logo de tu iglesia ha sido eliminado."
           }
         }
       },
       "URL": {
-        "TITLE": "Custom Web Address",
-        "P1A": "Your small groups directory is currently linked to",
-        "P1B": ", but with a Premium account you can customize this URL to use your church's domain.",
-        "P2A": "Since your",
-        "P2-PROFILE": "church's profile",
-        "P2B": "lists your website as",
-        "P2C": ", you can set your public directory to be available at a subdomain, like:",
+        "TITLE": "Dirección web personalizada",
+        "P1A": "Su directorio de grupos pequeños está actualmente vinculado a",
+        "P1B": ", pero con una cuenta Premium puede personalizar esta URL para usar el dominio de su iglesia.",
+        "P2A": "Desde su",
+        "P2-PROFILE": "perfil de iglesia",
+        "P2B": "enlista tu sitio web como",
+        "P2C": ", puedes configurar tu directorio público para que esté disponible en un subdominio, como:",
         "INSTRUCTIONS": {
-          "P1": "Please note, this can only be done by your church's website administrator.",
-          "P2": "You will be adding a <strong>subdomain</strong> to your church's primary root domain (presumably {{churchHost}}). Any valid subdomain (or root domain if your prefer) will work, but we suggest naming it after the conventional name for your church's small groups &mdash; like groups, egroups, lifegroups, smallgroups, etc.",
-          "P3": "Once you've decided on your subdomain, add the full URL in the form below and click the \"Save Custom Address\" button.",
-          "P4": "It will take us up to two business days to make the necessary changes on our end to support your new website.",
-          "P5": "Once we've completed the changes on our end, we will email you instructions to send to your website administrator that <strong>must</strong> be completed before your new web address will be functional."
+          "P1": "Tenga en cuenta que esto solo puede hacerlo el administrador del sitio web de su iglesia.",
+          "P2": "Agregarás un <strong>subdomain</strong> al dominio de raíz principal de tu iglesia (presuntamente {{iglesiaHost}}). Cualquier subdominio válido (o si prefiere, dominio principal) funcionará, pero sugerimos nombrarlo después del nombre convencional para los grupos pequeños de su iglesia & mdash; como grupos, por ejemplo, grupos de vida, grupos pequeños, etc.",
+          "P3": "Una vez que haya decidido su subdominio, agregue la URL completa en el formulario a continuación y haga clic en el botón \"Guardar Dirección Personalizada\".",
+          "P4": "Nos llevará hasta dos días hábiles realizar los cambios necesarios, por nuestra parte, para respaldar su nuevo sitio web.",
+          "P5": "Una vez que hayamos completado los cambios de nuestra parte, le enviaremos por correo electrónico instrucciones para enviar al administrador de su sitio web que <strong>must</strong> se completará antes de que su nueva dirección web sea funcional."
         },
-        "FORM-PROMPT": "Enter your Custom Web Address (URL)",
-        "FORM-PLACEHOLDER": "e.g., groups.churchofthedemo.com",
-        "FORM-BTN": "Save Custom Address",
-        "REMOVE-P1": "By removing your custom web address (URL), your public directory will only be available through the Smallgroups.church website.",
-        "REMOVE-P2": "Please update any links on your website that currently use your custom web address before continuing.",
-        "REMOVE-LINK": "Remove URL",
-        "ADDRESS": "Your address is:",
-        "NOTE-P1": "This may take up to 2 business days to complete; you will receive an email once we've made the required changes.",
-        "NOTE-P2": "Your website administrator must complete the steps in the email instructions in order for your custom web address to work.",
+        "FORM-PROMPT": "Ingresa tu Dirección web personalizada (URL)",
+        "FORM-PLACEHOLDER": "ejemplo, groups.iglesiadeprueba.com",
+        "FORM-BTN": "Guardar dirección personalizada",
+        "REMOVE-P1": "Al eliminar tu dirección web personalizada (URL), tu directorio público solo estará disponible a través del sitio web Smallgroups.church.",
+        "REMOVE-P2": "Actualice los enlaces en su sitio web que actualmente usan tu dirección web personalizada antes de continuar.",
+        "REMOVE-LINK": "Eliminar URL",
+        "ADDRESS": "Tu dirección es:",
+        "NOTE-P1": "Esto puede demorar hasta 2 días hábiles en completarse; recibirá un correo electrónico una vez que hayamos realizado los cambios necesarios.",
+        "NOTE-P2": "El administrador de su sitio web debe completar los pasos con las instrucciones del correo electrónico para que su dirección web personalizada funcione.",
         "SERVER": {
           "CREATE": {
-            "EMPTY-ERROR": "Please enter a custom web address (URL) in the space provided..",
-            "ERROR": "There was an error saving your custom web address (URL). Please try again.",
-            "VALID": "Your custom web address has been saved."
+            "EMPTY-ERROR": "Ingrese una dirección web (URL) personalizada en el espacio provisto.",
+            "ERROR": "Se produjo un error al guardar su dirección web personalizada (URL). Inténtalo de nuevo.",
+            "VALID": "Su dirección web personalizada ha sido guardada."
           },
           "REMOVE": {
-            "ERROR": "There was an error removing your custom web address (URL). Please try again.",
-            "VALID": "Your custom web address has been removed."
+            "ERROR": "Se produjo un error al eliminar su dirección web personalizada (URL). Inténtalo de nuevo.",
+            "VALID": "Su dirección web personalizada ha sido eliminada."
           }
         }
       }
