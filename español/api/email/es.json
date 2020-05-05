@@ -10,9 +10,9 @@
   "what": "Que",
   "church-campus": "Sede de la iglesia",
   "respond-to": "Por favor responder a {{fromName}} en",
-  "powered-by": "Powered by Smallgroups.church",
-  "email-preferences1": "If you’d rather not receive this kind of email, you can manage your email preferences.",
-  "email-preferences2": "manage your email preferences.",
+  "powered-by": "Desarrollado por Smallgroups.church",
+  "email-preferences1": "Si prefieres no recibir este tipo de correos, puedes modificar tus preferernecias de correo.",
+  "email-preferences2": "administrar tus preferencias de correo electrónico.",
   "no-solicitation": "Smallgroups.church nunca le pedirá su contraseña, ningún tipo de pago o información personal. Cualquier persona puede enviar correos electrónicos a través del sistema, así que tenga cuidado y sentido común cuando se comunique con otros a través del correo electrónico.",
   "churchAdminAddedNotifyAdminsEmail": {
     "subject": "Administración de {{churchName}}",
@@ -149,5 +149,5 @@
   "churchSupportEmail": {
     "note": "Este correo electrónico fue enviado a través de https://{{siteURL}}/contact. Está pensado como una petición para el coordinador de grupos pequeños."
   },
-  "email-preferences": "email-preferences"
+  "email-preferences": "preferencias de correo electrónico"
 }
