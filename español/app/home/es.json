@@ -6,58 +6,58 @@
     "ACTION-LEARN-MORE": "Aprende más"
   },
   "FREE": {
-    "PROMPT": "Free Forever Features",
-    "TITLE": "How can Smallgroups.church help you?",
-    "SUBTITLE": "Join hundreds of pastors and small groups coordinators who manage their small groups with Smallgroups.church.",
+    "PROMPT": "Funciones gratuitas para siempre",
+    "TITLE": "¿Cómo puedo ayudar a smallgroups.church?",
+    "SUBTITLE": "Únete a cientos de pastores y coordinadores de grupos pequeños que administran sus grupos pequeños con Smallgroups.church.",
     "FEATURES": {
       "FEATURE1": {
-        "LINK": "Online Directory",
-        "TITLE": "Build a simple, beautiful online directory",
-        "P1": "Leaders add their groups, and church members can search easily with maps and filters.",
-        "C1": "Filter by day are target audience",
-        "C2": "Gorgeous description of the small group and pinned location",
-        "C3": "Contact the leader or join instantly",
-        "SCREENSHOT": "(Screenshot: Small groups directory)"
+        "LINK": "Directorio en línea",
+        "TITLE": "Construye un directorio en línea simple y hermoso",
+        "P1": "Los líderes agregan sus grupos, y los miembros de la iglesia pueden buscar fácilmente con mapas y filtros.",
+        "C1": "Filtrar por día, el público objetivo",
+        "C2": "Hermosa descripción del grupo pequeño y ubicación fijada",
+        "C3": "Contacta con el líder o únete al instante",
+        "SCREENSHOT": "(Captura de pantalla: directorio de grupos pequeños)"
       },
       "FEATURE2": {
-        "LINK": "Empower Leaders",
-        "TITLE": "Empower leaders to care for their own group members",
-        "P1": "Small group leaders manage their own group listings and rosters. They can take ownership over their group instead of relying on staff members.",
-        "C1": "Create \"buy-in\" from your group leaders by allowing them to manage their own groups",
-        "C2": "Get better church metrics of who is leading and attending your small groups",
-        "C3": "Retain control and take the load off of your shoulders",
-        "SCREENSHOT": "(Screenshot: Leaders manage their own groups)"
+        "LINK": "Empodera líderes",
+        "TITLE": "Empoderar a los líderes para que cuiden a los miembros de su propio grupo",
+        "P1": "Los líderes de grupos pequeños administran sus propias listas y listas de grupos. Pueden tomar la propiedad de su grupo, en lugar de depender de los miembros del staff.",
+        "C1": "Crear \"aceptación\" de los líderes de su grupo al permitirles administrar sus propios grupos",
+        "C2": "Obtén mejores métricas de la iglesia sobre quién dirige y asiste a sus grupos pequeños",
+        "C3": "Mantén el control y quita la carga de tus hombros",
+        "SCREENSHOT": "(Captura de pantalla: Los líderes manejan sus propios grupos.)"
       },
       "FEATURE3": {
-        "LINK": "Tracking",
-        "TITLE": "Use data to keep your small groups ministry healthy",
-        "P1": "Easy-to-use reports help you see participation and trends over time.",
-        "C1": "View your small groups strengths & weaknesses at a glance",
-        "C2": "Easily compare group statistics across semesters",
-        "C3": "Provide a one-page summary to your pastor & team",
-        "SCREENSHOT": "(Screenshot: Church semester snapshot report)"
+        "LINK": "Seguimiento",
+        "TITLE": "Usa la data para mantener saludable el ministerio de sus grupos pequeños",
+        "P1": "Informes fáciles de usar para ayudar a ver la participación y las tendencias a lo largo del tiempo.",
+        "C1": "Ve las fortalezas y debilidades de sus grupos pequeños de un vistazo",
+        "C2": "Compare fácilmente las estadísticas grupales entre semestres",
+        "C3": "Proporcione un resumen de una página a su pastor y su equipo",
+        "SCREENSHOT": "(Captura de pantalla: informe de la instantánea del semestre de la iglesia)"
       }
     }
   },
   "PREMIUM": {
-    "PROMPT": "Premium Features",
-    "TITLE": "Take your directory to the next level.",
-    "SUBTITLE": "Get advanced features for your growing small groups ministry.",
+    "PROMPT": "Características Premium",
+    "TITLE": "Lleva tu directorio a un siguiente nivel",
+    "SUBTITLE": "Obtén funciones avanzadas para tu ministerio de grupos pequeños en crecimiento.",
     "FEATURES": {
       "FEATURE1": {
-        "TITLE": "Branding",
-        "P1": "Customize your church experience with your church's logo and custom domain.",
-        "SCREENSHOT": "(Screenshot: Branded small groups directory)"
+        "TITLE": "Marca",
+        "P1": "Personaliza la experiencia de tu iglesia con el logotipo y el dominio personalizado de tu iglesia.",
+        "SCREENSHOT": "(Captura de pantalla: Directorio de grupos pequeños con su marca)"
       },
       "FEATURE2": {
-        "TITLE": "Attendance Tracking",
-        "P1": "Allow your group leaders to track weekly group attendance.",
-        "SCREENSHOT": "(Screenshot: Mobile attendance tracking)"
+        "TITLE": "Seguimiento de asistencia",
+        "P1": "Permite que los líderes del grupo realicen un seguimiento de la asistencia grupal semanal.",
+        "SCREENSHOT": "(Captura de pantalla: seguimiento de asistencia móvil)"
       },
       "FEATURE3": {
-        "TITLE": "Messenger",
-        "P1": "Easily send messages to and from church administrators, group leaders and group members.",
-        "SCREENSHOT": "(Screenshot: Messenger)"
+        "TITLE": "Mensajería",
+        "P1": "Envíe fácilmente mensajes desde y hacia los administradores de la iglesia, líderes de grupo y miembros del grupo.",
+        "SCREENSHOT": "(Captura de pantalla: Mensajería)"
       }
     }
   },
@@ -128,38 +128,38 @@
     }
   },
   "PRICING": {
-    "PLANS": "Pricing plans",
-    "TITLE": "What you need is free.<br>Upgrade if you want more.",
-    "SUB-TITLE": "Select how many campuses you have and get started.",
-    "SINGLE-CAMPUS": "Single campus",
+    "PLANS": "Planes de precios",
+    "TITLE": "Lo que necesitas es gratis.<br>Actualiza si quieres más.",
+    "SUB-TITLE": "Selecciona cuántos campus tienes y comienza.",
+    "SINGLE-CAMPUS": "Un solo campus",
     "MULTI-CAMPUS": "Multi-campus",
-    "PER-MONTH": "per month",
-    "COMING-SOON": "Coming Soon",
-    "COMING-SUMMER": "Coming this Summer",
+    "PER-MONTH": "por mes",
+    "COMING-SOON": "Próximamente",
+    "COMING-SUMMER": "Llega este verano",
     "FREE": {
-      "PLAN-NAME": "FREE Forever Plan",
-      "UNLIMITED-CAMPUSES": "Unlimited Campuses",
-      "ONLINE-DIRECTORY": "Online Directory",
-      "GROUPS": "Manage Small Groups",
-      "LEADERS": "Manage Group Leaders",
-      "MEMBERS": "View Group Members",
-      "SEMESTERS": "Group Semesters & Filters",
-      "REPORTS": "View Reports",
-      "EXPORT": "Export Data"
+      "PLAN-NAME": "Plan GRATIS para siempre",
+      "UNLIMITED-CAMPUSES": "Campus ilimitados",
+      "ONLINE-DIRECTORY": "Directorio en línea",
+      "GROUPS": "Administrar grupos pequeños",
+      "LEADERS": "Administrar líderes de grupo",
+      "MEMBERS": "Ver miembros del grupo",
+      "SEMESTERS": "Grupos Semestrales & Filtros",
+      "REPORTS": "Ver los informes",
+      "EXPORT": "Exportar Data"
     },
     "PREMIUM": {
-      "PLAN-NAME": "Premium Plan",
-      "FREE": "All FREE Forever Features",
-      "FLAT-RATE": "One Flat Monthly Rate",
-      "BRANDING": "Customize Branding",
-      "ATTENDANCE": "Group Attendance Tracking",
-      "MESSAGING": "Built-in Messaging",
-      "GROUP-PHOTOS": "Group Photos"
+      "PLAN-NAME": "Plan Premium",
+      "FREE": "Todas las funciones GRATUITAS para siempre",
+      "FLAT-RATE": "Una tarifa mensual fija",
+      "BRANDING": "Personalizar marca",
+      "ATTENDANCE": "Seguimiento de asistencia grupal",
+      "MESSAGING": "Mensajería incorporada",
+      "GROUP-PHOTOS": "Fotos grupales"
     },
     "DOWNGRADE": {
-      "P1": "We would hate to see you go, so please know you're welcome to continue using the FREE Forever Plan.",
-      "P2": "By downgrading your plan, you will no longer have access to the Premium features <strong>effective immediately</strong>."
+      "P1": "Odiariamos verte partir, así que ten en cuenta que puedes seguir usando el Plan GRATIS para siempre.",
+      "P2": "Al degradar su plan, ya no tendrá acceso a las funciones Premium <strong> efectivas de inmediato </strong>."
     },
-    "NOTE": "Each plan is month-to-month. Cancel any time."
+    "NOTE": "Cada plan es de mes a mes. Cancela en cualquier momento."
   }
 }
