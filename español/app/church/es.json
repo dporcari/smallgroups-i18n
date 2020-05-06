@@ -412,7 +412,7 @@
         "P2C": ", puedes configurar tu directorio público para que esté disponible en un subdominio, como:",
         "INSTRUCTIONS": {
           "P1": "Tenga en cuenta que esto solo puede hacerlo el administrador del sitio web de su iglesia.",
-          "P2": "Agregarás un <strong>subdomain</strong> al dominio de raíz principal de tu iglesia (presuntamente {{iglesiaHost}}). Cualquier subdominio válido (o si prefiere, dominio principal) funcionará, pero sugerimos nombrarlo después del nombre convencional para los grupos pequeños de su iglesia & mdash; como grupos, por ejemplo, grupos de vida, grupos pequeños, etc.",
+          "P2": "Agregarás un <strong>subdomain</strong> al dominio de raíz principal de tu iglesia (presuntamente {{churchHost}}). Cualquier subdominio válido (o si prefiere, dominio principal) funcionará, pero sugerimos nombrarlo después del nombre convencional para los grupos pequeños de su iglesia & mdash; como grupos, por ejemplo, grupos de vida, grupos pequeños, etc.",
           "P3": "Una vez que haya decidido su subdominio, agregue la URL completa en el formulario a continuación y haga clic en el botón \"Guardar Dirección Personalizada\".",
           "P4": "Nos llevará hasta dos días hábiles realizar los cambios necesarios, por nuestra parte, para respaldar su nuevo sitio web.",
           "P5": "Una vez que hayamos completado los cambios de nuestra parte, le enviaremos por correo electrónico instrucciones para enviar al administrador de su sitio web que <strong>must</strong> se completará antes de que su nueva dirección web sea funcional."
